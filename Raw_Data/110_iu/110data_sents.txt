@@ -1,0 +1,43 @@
+28012936 Currently the full-text not available Results of daily oral dosing with up to 60,000 international units (iu) of vitamin D3 for 2 to 6 years in 3 adult males.
+The Journal of steroid biochemistry and molecular biology ["In the 1930's and 1940's, vitamin D was reported to be an effective treatment for a number of diseases, including asthma, psoriasis, rheumatoid arthritis, rickets and tuberculosis.
+High doses were used, 60,000 to 300,000 IU a day for asthma, and 200,000 to 600,000 IU a day for rheumatoid arthritis.
+Toxicity from hypercalcemia occurred after prolonged oral dosing with these supraphysiologic doses.
+Assays for measuring vitamin D in the blood were not available, and blood levels of vitamin D associated with hypercalcemia were unknown.
+A 2011 report on vitamin D toxicity showed that hypercalcemia resolved when 25-hydroxyvitamin D (25OHD) blood levels dropped below 400ng/ml in 2 patients with blood levels ranging from 645ng/ml to 1220ng/ml after accidental ingestion of massive doses of vitamin D.
+We now know that vitamin D is made in the skin in amounts ranging up to 25,000 IU a day with exposure to UVB radiation.
+There is little data on the safety and blood levels of 25OHD and calcium after prolonged daily intake of amounts of vitamin D in this range.
+In this report, one subject took increasing daily doses of vitamin D3 for 6 years starting in April 2009: 6500 IU for 6 months; increasing to 10,000 IU for 13 months; 20,000 IU for 24 months; 40,000 IU for 12 months; 50,000 IU for 10 months, and 60,000 IU since October 2014.
+25OHD blood levels were 28, 81, 204, 216, 225, 166, and 218ng/ml.
+Subject 2 began 10,000 IU in Nov 2011, increased to 20,000 IU in Feb 2014, 25,000 IU in June 2014, and 30,000 IU in Oct 2014, and then decreased to 20,000 IU in June 2015.
+25OHD blood levels were 96.6, 161.1 and 106.9ng/ml.
+He reported marked clinical improvement in his asthma.
+Subject 3 started on daily 10,000 IU in Sept 2013, increasing to 20,000 IU on Nov 2013.
+25OHD blood levels were 31.4, 102, 164, 148, and 143ng/ml.
+No one developed hypercalcemia or any adverse events.
+The major finding of this case series is prolonged daily dosing of vitamin D3 with doses of 10,000 to 60,000 IU was safely tolerated."] 
+
+30092157 Currently the full-text not available Three-monthly bolus vitamin D supplements (1000 vs 400 IU/day) for prevention of bone loss in children with difficult-to-treat nephrotic syndrome: a randomised clinical trial.
+Paediatrics and international child health [UnicodeElement(u'Nephrotic syndrome (NS) in children is one of the most common chronic diseases with a remitting and relapsing course.
+Glucocorticoids (prednisolone) are considered to be\xa0the treatment of choice but are associated with osteoporosis.
+There are no uniform consensus guidelines regarding the optimum dose of calcium and vitamin D for osteoprotection.
+Some authorities suggest a daily dose of 1000 IU vitamin D for children for osteoprotection, while others suggest a daily dose of 400 IU.', attributes={u'NlmCategory': u'BACKGROUND', u'Label': u'BACKGROUND'}), StringElement('To compare the efficacy of three-monthly bolus vitamin D supplementation (1000 vs 400 IU/day) to prevent bone loss in children with difficult-to-treat NS (DTNS).
+', attributes={u'NlmCategory':
+u'OBJECTIVE', u'Label': u'OBJECTIVES'}), UnicodeElement(u'In this parallel-group, open-label, randomised clinical trial, 60 children aged 1-18\xa0years with DTNS [37 with frequently relapsing NS (FRNS), 13 steroid-dependent NS (SDNS) and 10 steroid-resistant NS (SRNS)] were enrolled and block randomised in a 1:1 allocation ratio to receive 1000 IU/day vitamin D (Group A, n\xa0=\xa030) or 400 IU/day (Group B, n\xa0=\xa030), administered as three-monthly bolus supplemental doses.
+In Group A, vitamin D (cholecalciferol, Calcirol\xaesachet) was administered as a stat dose of 90,000 IU every three months (calculated for a period of three months at 1000 IU/day).
+In Group B, vitamin D (cholecalciferol) was administered as a stat dose of 36,000 IU every three months (calculated for a period of three months at 400 IU/day).
+The proportionate change in bone mineral content (BMC) was studied by dual energy X-ray absorptiometry (DEXA) scan in both groups after vitamin D supplementation by analysing the values of BMC obtained 12\xa0months apart (baseline vs. after 12\xa0months).',
+attributes={u'NlmCategory':
+u'METHODS', u'Label': u'METHODS'}), UnicodeElement(u'Sixty children were randomised to receive vitamin D at a dose of either 1000 IU/day (Group A) or 400 IU/day (Group B).
+The two groups were comparable in their baseline clinical and laboratory parameters (including BMC and bone mineral density (BMD)).
+The distribution of the three types of NS (FRNS, SDNS and SRNS) was also comparable in both groups.
+In Group A, there were 19, 6 and 5 children with FRNS, SDNS and SRNS, respectively, and in Group B there were 18, 7 and 5 children with FRNS, SDNS and SRNS, respectively.
+The proportionate change in BMC was not significantly different between the two groups (median proportionate change in BMC in Group A 13.36% vs 11.59% in Group B, p\xa0=\xa00.22).
+Overall, BMC increased in both groups (96.7% in each).
+Only one (3.3%) patient in each group exhibited bone loss.
+None of the patients had a urinary calcium:creatinine ratio >0.2 at the end of the study.', attributes={u'NlmCategory': u'RESULTS', u'Label': u'RESULTS'}), StringElement('Three-monthly bolus vitamin D dosing regimens administered either as 1000 or 400 IU/day prevent bone loss in children with DTNS who require long-term steroids.
+Overall, three-monthly bolus supplemental prophylactic vitamin D, either 1000 or 400 IU/day, would seem to be an effective strategy for preventing bone loss in children with DTNS, as evidenced by the extremely low rates of bone loss (3.3% in each group), and is useful for delivering optimal care to children with DTNS.
+However, since this study was designed as an equivalence trial and not a superiority trial, further studies are required to demonstrate the superiority of the former regimen over the latter.'
+, attributes={u'NlmCategory':
+u'CONCLUSIONS', u'Label': u'CONCLUSION'}), StringElement('BMC, bone mineral content; BMD, bone mineral density; DEXA, dual energy X-ray absorptiometry; DTNS, difficult-to-treat nephrotic syndrome; FRNS, frequently relapsing nephrotic syndrome; IFRNS, infrequently relapsing nephrotic syndrome; iPTH, intact parathyroid hormone; NS, nephrotic syndrome; SDNS, steroid-dependent nephrotic syndrome; SRNS steroid-resistant nephrotic syndrome.
+', attributes={u'NlmCategory': u'BACKGROUND', u'Label': u'ABBREVIATIONS'})] 
+

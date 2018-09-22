@@ -1,0 +1,20 @@
+22921120 Currently the full-text not available TBK-1 promotes autophagy-mediated antimicrobial defense by controlling autophagosome maturation.
+Immunity
+[u'Autophagy is a fundamental biological process of the eukaryotic cell contributing to diverse cellular and physiological functions including cell-autonomous defense against intracellular pathogens.
+Here, we screened the Rab family of membrane trafficking regulators for effects on autophagic elimination of Mycobacterium tuberculosis var.
+bovis BCG and found that Rab8b and its downstream interacting partner, innate immunity regulator TBK-1, are required for autophagic elimination of mycobacteria in macrophages.
+TBK-1 was necessary for autophagic maturation.
+TBK-1 coordinated assembly and function of the autophagic machinery and phosphorylated the autophagic adaptor p62 (sequestosome 1) on Ser-403, a residue essential for its role in autophagic clearance.
+A key proinflammatory cytokine, IL-1\u03b2, induced autophagy leading to autophagic killing of mycobacteria in macrophages, and this IL-1\u03b2 activity was dependent on TBK-1.
+Thus, TBK-1 is\xa0a key regulator of immunological autophagy and is responsible for the maturation of autophagosomes into lytic bactericidal organelles.'] 
+18508731 Currently the full-text not available Influence of TBK-1 on tumor angiogenesis and microvascular inflammation.
+Frontiers in bioscience : a journal and virtual library ['Tank-Binding-Kinase 1 (TBK-1) has been proposed as a putative mediator in tumor angiogenesis.
+It was the aim of our study to gain insight into TBK-1s role in tumor angiogenesis and tumor-associated microvascular inflammation.
+TBK-1 overexpressing KB 3-1 cells were generated and their growth characteristics were analyzed.
+Expression of TBK-1, VEGF, RANTES and Il-8 were quantified using qPCR and western blot analysis.
+Intravital microscopy using the dorsal skinfold chamber model in nude mice addressed total (TIVD) and functional intratumoral vascular density (FIVD), perfusion index, vessel diameter and leukocyte sticking.
+Transfection of KB-3 cells resulted in significantly increased TBK-1, RANTES and IL-8 expression without affecting cellular growth.
+Supernatants from TBK-1 overexpressing clones induced HUVEC proliferation.
+Intravital microscopy identified an increase in leukocyte sticking paralleled by significantly increased TIVD and FIVD as a result of increased VEGF expression.
+Therefore, TBK-1 represents a novel mediator of tumor angiogenesis and exerts proinflammatory effects via upregulation of inflammatory cytokines.
+The TBK-1 pathway might be an important cross-link between angiogenesis and inflammation representing a possible target for anti-tumor therapy.'] 

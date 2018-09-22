@@ -1,0 +1,57 @@
+22921120 Currently the full-text not available TBK-1 promotes autophagy-mediated antimicrobial defense by controlling autophagosome maturation.
+Immunity
+[u'Autophagy is a fundamental biological process of the eukaryotic cell contributing to diverse cellular and physiological functions including cell-autonomous defense against intracellular pathogens.
+Here, we screened the Rab family of membrane trafficking regulators for effects on autophagic elimination of Mycobacterium tuberculosis var.
+bovis BCG and found that Rab8b and its downstream interacting partner, innate immunity regulator TBK-1, are required for autophagic elimination of mycobacteria in macrophages.
+TBK-1 was necessary for autophagic maturation.
+TBK-1 coordinated assembly and function of the autophagic machinery and phosphorylated the autophagic adaptor p62 (sequestosome 1) on Ser-403, a residue essential for its role in autophagic clearance.
+A key proinflammatory cytokine, IL-1\u03b2, induced autophagy leading to autophagic killing of mycobacteria in macrophages, and this IL-1\u03b2 activity was dependent on TBK-1.
+Thus, TBK-1 is\xa0a key regulator of immunological autophagy and is responsible for the maturation of autophagosomes into lytic bactericidal organelles.'] 
+
+18508731 Currently the full-text not available Influence of TBK-1 on tumor angiogenesis and microvascular inflammation.
+Frontiers in bioscience : a journal and virtual library ['Tank-Binding-Kinase 1 (TBK-1) has been proposed as a putative mediator in tumor angiogenesis.
+It was the aim of our study to gain insight into TBK-1s role in tumor angiogenesis and tumor-associated microvascular inflammation.
+TBK-1 overexpressing KB 3-1 cells were generated and their growth characteristics were analyzed.
+Expression of TBK-1, VEGF, RANTES and Il-8 were quantified using qPCR and western blot analysis.
+Intravital microscopy using the dorsal skinfold chamber model in nude mice addressed total (TIVD) and functional intratumoral vascular density (FIVD), perfusion index, vessel diameter and leukocyte sticking.
+Transfection of KB-3 cells resulted in significantly increased TBK-1, RANTES and IL-8 expression without affecting cellular growth.
+Supernatants from TBK-1 overexpressing clones induced HUVEC proliferation.
+Intravital microscopy identified an increase in leukocyte sticking paralleled by significantly increased TIVD and FIVD as a result of increased VEGF expression.
+Therefore, TBK-1 represents a novel mediator of tumor angiogenesis and exerts proinflammatory effects via upregulation of inflammatory cytokines.
+The TBK-1 pathway might be an important cross-link between angiogenesis and inflammation representing a possible target for anti-tumor therapy.'] 
+
+30022064
+Currently the full-text not available TBK-binding protein 1 regulates IL-15-induced autophagy and NKT cell survival.
+Nature communications [u'The cytokine IL-15 mediates development and survival of immune cells, including natural killer T (NKT) cells, but the underlying mechanism of IL-15 function is incompletely understood.
+Here we show that IL-15 induces autophagy in NKT cells with a mechanism that involves a crucial signaling component, TBK-binding protein 1 (Tbkbp1).
+Tbkbp1 facilitates activation of the autophagy-initiating kinase Ulk1 through antagonizing the inhibitory action of mTORC1.
+This antagonization involves the recruitment of an mTORC1-opposing phosphatase to Ulk1.
+Tbkbp1 deficiency attenuates IL-15-stimulated NKT cell autophagy, and is associated with mitochondrial dysfunction, aberrant ROS production, defective Bcl2 expression and reduced NKT cell survival.
+Consequently, Tbkbp1-deficient mice have profound deficiency in NKT cells, especially IFN-\u03b3-producing NKT1.
+We further show that Tbkbp1 regulates IL-15-stimulated autophagy and survival of NK cells.
+These findings suggest a mechanism of autophagy induction by IL-15, and establish Tbkbp1 as a regulator of NKT cell development and survival.'] 
+
+19153231
+Currently the full-text not available Ebola virus protein VP35 impairs the function of interferon regulatory factor-activating kinases IKKepsilon and TBK-1.
+Journal of virology [
+'The Ebola virus (EBOV) VP35 protein antagonizes the early antiviral alpha/beta interferon (IFN-alpha/beta) response.
+We previously demonstrated that VP35 inhibits the virus-induced activation of the IFN-beta promoter by blocking the phosphorylation of IFN-regulatory factor 3 (IRF-3), a transcription factor that is crucial for the induction of IFN-alpha/beta expression.
+Furthermore, VP35 blocks IFN-beta promoter activation induced by any of several components of the retinoic acid-inducible gene I (RIG-I)/melanoma differentiation-associated gene 5 (MDA-5)-activated signaling pathways including RIG-I, IFN-beta promoter stimulator 1 (IPS-1), TANK-binding kinase 1 (TBK-1), and IkappaB kinase epsilon (IKKepsilon).
+These results suggested that VP35 may target the IRF kinases TBK-1 and IKKepsilon.
+Coimmunoprecipitation experiments now demonstrate physical interactions of VP35 with IKKepsilon and TBK-1, and the use of an IKKepsilon deletion construct further demonstrates that the amino-terminal kinase domain of IKKepsilon is sufficient for interactions with either IRF-3 or VP35.
+In vitro, either IKKepsilon or TBK-1 phosphorylates not only IRF-3 but also VP35.
+Moreover, VP35 overexpression impairs IKKepsilon-IRF-3, IKKepsilon-IRF-7, and IKKepsilon-IPS-1 interactions.
+Finally, lysates from cells overexpressing IKKepsilon contain kinase activity that can phosphorylate IRF-3 in vitro.
+When VP35 is expressed in the IKKepsilon-expressing cells, this kinase activity is suppressed.
+These data suggest that VP35 exerts its IFN-antagonist function, at least in part, by blocking necessary interactions between the kinases IKKepsilon and TBK-1 and their normal interaction partners, including their substrates, IRF-3 and IRF-7.'] 
+
+23224759
+Currently the full-text not available Adjuvant PIKA protects hepatoma cells from dengue virus infection by promoting a TBK-1-dependent innate immune response.
+Archives of virology [u'Our study presents a first investigation of the effect of the adjuvant PIKA on dengue virus (DENV) replication.
+PIKA pretreatment decreased the levels of DENV serotype 2 (DENV2) mRNA, protein and viral particles in the hepatoma cell line HepG2.
+Treatment with PIKA simultaneously with DENV2 infection, but not after infection, resulted in a protective effect.
+Significant induction of type I and type III interferons (IFNs), as well as interferon-stimulated genes was detected in PIKA-pretreated cells.
+Neutralization of IFN-\u03b2 partially restored the replication levels of DENV2 in PIKA-pretreated cells, suggesting that IFN-\u03b2 is one of the mediators involved in the antiviral action of PIKA.
+Additionally, blockade of TBK-1 signaling largely restored the IFN induction and viral suppression effects mediated by PIKA, further illustrating that PIKA plays its anti-DENV role by promoting innate immunity.
+These findings suggest that PIKA is an attractive agent to be used in the prevention of DENV diseases.'] 
+

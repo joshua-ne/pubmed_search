@@ -6,7 +6,7 @@ def search(query):
 	Entrez.email='renjunyao@gmail.com'
 	handle = Entrez.esearch(db='pubmed', 
                             sort='relevance', 
-                            retmax='5',
+                            retmax='2',
                             retmode='xml', 
                             term=query)
 	results = Entrez.read(handle)

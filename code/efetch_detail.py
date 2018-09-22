@@ -41,12 +41,10 @@ if __name__ == '__main__':
 	print (id_list)
 
 	for sid in id_list:
-		print(000000000000000)
 		try:
 			result = fetch_details(sid)
 			paper=result["PubmedArticle"][0]
 			filename= foldername +'/'+sid+'.txt'
-			print(11111111111111111)
 			with open(filename, 'w') as f:
 				f.write(sid+' ')
 				paperurl=geturl(paper)
