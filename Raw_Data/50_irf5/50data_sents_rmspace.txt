@@ -1,0 +1,125 @@
+27350041 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4924235/pdf/ Characterization of common carp (Cyprinus carpio L.) interferon regulatory factor 5 (IRF5) and its expression in response to viral and bacterial challenges.
+BMC veterinary research [StringElement('Common carp (Cyprinus carpio L.), one of the most economically valuable commercial farming fish species in China, is often infected by a variety of viruses.
+As the first line of defence against microbial pathogens, the innate immune system plays a crucial role in teleost fish, which are lower vertebrates.
+Interferon (IFN)
+regulatory factor 5 (IRF5) is a key molecule in antiviral immunity that regulating the expression of IFN and other pro-inflammatory cytokines.
+It is necessary to gain more insight into the common carp IFN system and the function of fish IRF5 in the antiviral and antibacterial response.', attributes={'NlmCategory': 'BACKGROUND', 'Label': 'BACKGROUND'}), StringElement('In the present study
+, we characterized the cDNA and genomic sequence of the IRF5 gene in common carp, and analysed tissue distribution and expression profile of this gene in response to polyinosinic:polycytidylic acid (poly I:C) and lipopolysaccharides (LPS) treatment.
+The common carp IRF5 (ccIRF5) gene is 5790\xa0bp in length and is composed of 9 exons and 8 introns.
+The open reading frame (ORF) of ccIRF5 is 1554\xa0bp, and encodes 517 amino acid protein.
+The putative ccIRF5 protein shares identity (65.4-90.0\xa0%) with other fish IRF5s and contains a DNA binding domain (DBD), a middle region (MR), an IRF-associated domain (IAD), a virus activated domain (VAD) and two nuclear localization signals (NLSs) similar to those found in vertebrate IRF5.
+Phylogenetic analysis clustered ccIRF5 into the IRF5 subfamily with other vertebrate IRF5 and IRF6 genes.
+Real-time PCR analysis revealed that ccIRF5 mRNA was expressed in all examined tissues of healthy carps, with high levels observed in the gills and the brain.
+After poly I:C challenge, expression levels of ccIRF5, tumour-necrosis factor α (ccTNFα) and two IFN stimulated genes [ISGs (ccISG5 and ccPKR)] were up-regulated in seven immune-related tissues (liver, spleen, head kidney, foregut, hindgut, skin and gills).
+Furthermore, all four genes were up-regulated in vitro upon poly I:C and LPS challenges.', attributes={'NlmCategory': 'RESULTS', 'Label': 'RESULTS'}), StringElement('Our findings suggest that IRF5 might play an important role in regulating the antiviral and antibacterial response in fish.
+These results could provide a clue for preventing common carp infection by pathogenic microorganisms present in the aquatic environment.', attributes={'NlmCategory': 'CONCLUSIONS', 'Label': 'CONCLUSIONS'})] 
+26613957 Currently the full-text not available IRF5 and IRF8 modulate the CAL-1 human plasmacytoid dendritic cell line response following TLR9 ligation.
+European journal of immunology ['Synthetic oligonucleotides (ODNs) containing CpG motifs stimulate human plasmacytoid dendritic cells (pDCs) to produce type-1 interferons (IFNs) and proinflammatory cytokines.
+Previous studies demonstrated that interferon regulatory factors (IRFs) play a central role in mediating CpG-induced pDC activation.
+This work explores the inverse effects of IRF5 and IRF8 (also known as IFN consensus sequence-binding protein) on CpG-dependent gene expression in the human CAL-1 pDC cell line.
+This cell line shares many of the phenotypic and functional properties of freshly isolated human pDCs.
+Results from RNA interference and microarray studies indicate that IRF5 upregulates TLR9-driven gene expression whereas IRF8 downregulates the same genes.
+Several findings support the conclusion that IRF8 inhibits TLR9-dependent gene expression by directly blocking the activity of IRF5.
+First, the inhibitory activity of IRF8 is only observed when IRF5 is present.
+Second, proximity ligation analysis shows that IRF8 and IRF5 colocalize within the cytoplasm of resting human pDCs and cotranslocate to the nucleus after CpG stimulation.
+Taken together, these findings suggest that IRF5 and IRF8, two transcription factors with opposing functions, control TLR9 signaling in human pDCs.'] 
+26294277 Currently the full-text not available Genetic association and interaction between the IRF5 and TYK2 genes and systemic lupus erythematosus in the Han Chinese population.
+Inflammation research : official journal of the European Histamine Research Society ...
+[et al.] [
+StringElement('The purpose of this case-control study was to investigate whether polymorphisms and gene-gene interactions of the two type I interferon (IFN) genes (IRF5 and TYK2) are the susceptible factors of systemic Lupus erythematosus (SLE) in the Han Chinese population.', attributes={'NlmCategory': 'OBJECTIVE', 'Label': 'OBJECTIVES'}), StringElement('The four variants [rs2004640, rs2070197, rs10954213 and exon6 insertion/deletion (in/de)] of IRF5 gene and five single-nucleotide polymorphisms (SNPs) (rs280500, rs280519, rs2304256, rs8108236, rs12720270) of TYK2 gene were examined in a cohort of 642 SLE patients and 642 healthy controls.
+Genotyping was conducted using polymerase chain reaction-restriction fragment length polymorphism (PCR-RFLP) and confirmed by direct sequencing in 10 % sample randomly.', attributes={'NlmCategory': 'METHODS', 'Label': 'METHODS'}), StringElement('Rs2070197 was not polymorphic in this study, and was excluded in further analysis.
+Significant association was found for loci on IRF5 (rs2004640: p = 0.0003, p corr = 0.0012) and TYK2 (rs280500: p = 8.83 × 10(-6), p corr = 4.41 × 10(-5); rs2304256: p = 3.71 × 10(-6), p corr = 1.85 × 10(-5); rs8108236: p = 0.0004, p corr = 0.002), but not for other SNPs.
+Significant association was also observed for genotypes of IRF5 (rs2004640, p = 0.0009, p corr = 0.0036) and TYK2 SNPs (rs280500: p = 5.21 × 10(-5), p corr = 2.61 × 10(-4); rs2304256: p = 7.72 × 10(-6), p corr = 3.86 × 10(-5); rs8108236: p = 0.002, p corr = 0.01).
+Nevertheless, two haplotypes based on the 3 variants [exon6(in/de), rs10954213, rs2004640] of IRF5 (DAG and IAT) could define protective or susceptibility haplotype in SLE.
+Similarly, three haplotypes containing 5 SNPs (rs280500, rs280519, rs2304256, rs8108236, rs12720270) of TYK2 (GATAT, AGGAT and GAGGT) may also be associated with SLE in Han Chinese.
+Additionally, the gene-gene interaction analysis was conducted on the IRF5 and TYK2 SNPs.
+And a three-way interaction between TYK2 rs280500, rs2304256 and IRF5 rs10954213 and SLE was found (p < 0.0001).',
+attributes={'NlmCategory': 'RESULTS', 'Label': 'RESULTS'}), StringElement('Genetic associations and gene-gene interactions of IRF5 and TYK2 were significantly detected in Han Chinese with SLE.
+Our results had important implications for future research on the role of type I IFN function in SLE susceptibility.', attributes={'NlmCategory': 'CONCLUSIONS', 'Label': 'CONCLUSIONS'})] 
+27545875 Currently the full-text not available IRF5 and IRF5 Disease-Risk Variants Increase Glycolysis and Human M1 Macrophage Polarization by Regulating Proximal Signaling and Akt2 Activation.
+Cell reports
+['Interferon regulatory factor 5 (IRF5) regulates inflammatory M1 macrophage polarization, and disease-associated IRF5 genetic variants regulate pattern-recognition-receptor (PRR)-induced cytokines.
+PRR-stimulated macrophages and M1 macrophages exhibit enhanced glycolysis, a central mediator of inflammation.
+We find that IRF5 is needed for PRR-enhanced glycolysis in human macrophages and in mice in\xa0vivo.
+Upon stimulation of the PRR nucleotide binding oligomerization domain containing 2 (NOD2) in human macrophages, IRF5 binds RIP2, IRAK1, and TRAF6.
+IRF5, in turn, is required for optimal Akt2 activation, which increases expression of glycolytic pathway genes and HIF1A as well as pro-inflammatory cytokines and M1 polarization.
+Furthermore, pro-inflammatory cytokines and glycolytic pathways co-regulate each other.
+Rs2004640/rs2280714
+TT/TT IRF5 disease-risk-carrier cells demonstrate increased IRF5 expression and increased PRR-induced Akt2 activation, glycolysis, pro-inflammatory cytokines, and M1 polarization relative to GG/CC carrier macrophages.
+Our findings identify that IRF5 disease-associated polymorphisms regulate diverse immunological and metabolic outcomes and provide further insight into mechanisms contributing to the increasingly recognized important role for glycolysis in inflammation.'] 
+27481535 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4969615/pdf/ Specific detection of interferon regulatory factor 5 (IRF5): A case of antibody inequality.
+Scientific reports ['Interferon regulatory factor 5 (IRF5) is a member of the IRF family of transcription factors.
+IRF5 was first identified and characterized as a transcriptional regulator of type I interferon expression after virus infection.
+In addition to its critical role(s) in the regulation and development of host immunity, subsequent studies revealed important roles for IRF5 in autoimmunity, cancer, obesity, pain, cardiovascular disease, and metabolism.
+Based on these important disease-related findings, a large number of commercial antibodies have become available to study the expression and function of IRF5.
+Here we validate a number of these antibodies for the detection of IRF5 by immunoblot, flow cytometry, and immunofluorescence or immunohistochemistry using well-established positive and negative controls.
+Somewhat surprising, the majority of commercial antibodies tested were unable to specifically recognize human or mouse IRF5.
+We present data on antibodies that do specifically recognize human or mouse IRF5 in a particular application.
+These findings reiterate the importance of proper controls and molecular weight standards for the analysis of protein expression.
+Given that dysregulated IRF5 expression has been implicated in the pathogenesis of numerous diseases, including autoimmune and cancer, results indicate that caution should be used in the evaluation and interpretation of IRF5 expression analysis.'] 
+27895424 Currently the full-text not available IRF5 regulates lung macrophages M2 polarization during severe acute pancreatitis in vitro.
+World journal of gastroenterology [StringElement('To investigate the role of interferon regulatory factor 5 (IRF5) in reversing polarization of lung macrophages during severe acute pancreatitis (SAP) in vitro.',
+attributes={'NlmCategory': 'OBJECTIVE', 'Label': 'AIM'}), StringElement('A mouse SAP model was established by intraperitoneal (ip) injections of 20 μg/kg body weight caerulein.
+Pathological changes in the lung were observed by hematoxylin and eosin staining.
+Lung macrophages were isolated from bronchoalveolar lavage fluid.
+The quantity and purity of lung macrophages were detected by fluorescence-activated cell sorting and evaluated by real-time polymerase chain reaction (RT-PCR).
+They were treated with IL-4/IRF5 specific siRNA (IRF5 siRNA) to reverse their polarization and were evaluated by detecting markers expression of M1/M2 using RT-PCR.', attributes={'NlmCategory': 'METHODS', 'Label': 'METHODS'}), StringElement('SAP associated acute lung injury (ALI) was induced successfully by ip injections of caerulein, which was confirmed by histopathology.
+Lung macrophages expressed high levels of IRF5 as M1 phenotype during the early acute pancreatitis stages.
+Reduction of IRF5 expression by IRF5 siRNA reversed the action of macrophages from M1 to M2 phenotype in vitro.
+The expressions of M1 markers, including IRF5 (S + IRF5 siRNA vs S + PBS, 0.013 ± 0.01 vs 0.054 ± 0.047, P < 0.01), TNF-α
+(S + IRF5 siRNA vs S + PBS, 0.0003 ± 0.0002 vs 0.019 ± 0.018, P < 0.001), iNOS (S + IRF5 siRNA vs S + PBS, 0.0003 ± 0.0002 vs 0.026 ± 0.018,
+P < 0.001) and IL-12 (S + IRF5 siRNA vs S + PBS, 0.000005 ± 0.00004 vs 0.024 ± 0.016, P < 0.001), were decreased.
+In contrast, the expressions of M2 markers, including IL-10 (S + IRF5 siRNA vs S + PBS, 0.060
+± 0.055 vs 0.0230 ± 0.018, P < 0.01) and Arg-1 (S + IRF5 siRNA vs S + PBS, 0.910 ± 0.788 vs 0.0036 ± 0.0025, P < 0.001), were increased.
+IRF5 siRNA could reverse the lung macrophage polarization more effectively than IL-4.', attributes={'NlmCategory': 'RESULTS', 'Label': 'RESULTS'}), StringElement('Treatment with IRF5 siRNA can reverse the pancreatitis-induced activation of lung macrophages from M1 phenotype to M2 phenotype in SAP associated with ALI.', attributes={'NlmCategory': 'CONCLUSIONS', 'Label': 'CONCLUSION'})] 
+27435985 Currently the full-text not available Nanoparticle-Delivered IRF5 siRNA Facilitates M1 to M2 Transition, Reduces Demyelination and Neurofilament Loss, and Promotes Functional Recovery After Spinal Cord Injury in Mice.
+Inflammation ['Macrophage activation and persistent inflammation contribute to the pathogenesis of spinal cord injury (SCI), and different phenotypes of macrophages play diverse roles in the pathological process of SCI. After SCI, there is an acute phase of alternatively activated (M2) macrophage infiltration, followed by a long-lasting phase of classically activated (M1) macrophage accumulation in the wound.
+The long-lasting predominance of M1 macrophages may derail healing and compromise organ functions.
+Based on the previous findings that the transcription factor interferon regulatory factor 5 (IRF5) up-regulates genes associated with M1 macrophages, we attempted to examine the effect of silencing IRF5 on SCI progression.
+IRF5 expression was assessed with Western blotting or immunohistochemistry.
+Macrophage phenotypes were measured with flow cytometry or immunohistochemistry.
+M1- or M2-related cytokines were measured with a Luminex assay kit.
+IRF5 siRNA was delivered into the macrophages infiltrated into the wound of SCI mice through lipidoid nanoparticle.
+Locomotor functions were measured with Basso Mouse Scale (BMS) scoring.
+Myelination was assessed with luxol fast blue staining.
+Myelin binding protein, neurofilaments, synaptic markers, and cytokines in the wound area were measured with Western blotting.
+The Mann-Whitney U test was used for statistical analyses.
+After SCI, significant elevation of IRF5 was evident on day 1, peaked on day 7, and gradually decreased thereafter.
+Similar dynamic change in the expression of CD86, a typical M1 marker, was observed.
+In contrast, there was a transient increase in the expression of CD206, a typical M2 marker, which peaked 6\xa0h after SCI, and returned to baseline within 1\xa0day.
+Macrophages isolated from the epicenter at day 3 after SCI were predominantly M1 phenotype, and a siRNA-mediated knockdown of IRF5 resulted in a reduced expression of M1 macrophage markers and increased expression of M2 macrophage markers.
+Nanoparticle-mediated delivery of IRF5 siRNA to SCI mouse model resulted in a dramatic decrease in the number of M1 macrophages and a significant increase in the number of M2 macrophages in the wound.
+This was associated with a robust inflammation resolution, attenuation of demyelination and neurofilament loss, and significant improvement of locomotor function (p\u2009<\u20090.05).
+IRF5 may serve as a therapeutic target to promote post-SCI recovery.'] 
+26283380 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4568217/pdf/
+IRF5 controls both acute and chronic inflammation.
+Proceedings of the National Academy of Sciences of the United States of America ['Whereas the importance of macrophages in chronic inflammatory diseases is well recognized, there is an increasing awareness that neutrophils may also play an important role.
+In addition to the well-documented heterogeneity of macrophage phenotypes and functions, neutrophils also show remarkable phenotypic diversity among tissues.
+Understanding the molecular pathways that control this heterogeneity should provide abundant scope for the generation of more specific and effective therapeutics.
+We have shown that the transcription factor IFN regulatory factor 5 (IRF5) polarizes macrophages toward an inflammatory phenotype.
+IRF5 is also expressed in other myeloid cells, including neutrophils, where it was linked to neutrophil function.
+In this study we explored the role of IRF5 in models of acute inflammation, including antigen-induced inflammatory arthritis and lung injury, both involving an extensive influx of neutrophils.
+Mice lacking IRF5 accumulate far fewer neutrophils at the site of inflammation due to the reduced levels of chemokines important for neutrophil recruitment, such as the chemokine (C-X-C motif) ligand 1.
+Furthermore we found that neutrophils express little IRF5 in the joints and that their migratory properties are not affected by the IRF5 deficiency.
+These studies extend prior ones suggesting that inhibiting IRF5 might be useful for chronic macrophage-induced inflammation and suggest that IRF5 blockade would ameliorate more acute forms of inflammation, including lung injury.'] 
+27050551 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4822818/pdf/
+An IRF5 Decoy Peptide Reduces Myocardial Inflammation and Fibrosis and Improves Endothelial Cell Function in Tight-Skin Mice.
+PloS one ['Interferon regulatory factor 5 (IRF5)
+has been called a "master switch" for its ability to determine whether cells mount proinflammatory or anti-inflammatory responses.
+Accordingly, IRF5 should be an attractive target for therapeutic drug development.
+Here we report on the development of a novel decoy peptide inhibitor of IRF5 that decreases myocardial inflammation and improves vascular endothelial cell (EC) function in tight-skin (Tsk/+) mice.
+Biolayer interferometry studies showed the Kd of IRF5D for recombinant IRF5 to be 3.72 ± 0.74x10-6M.
+Increasing concentrations of IRF5D (0-100 μg/mL, 24h) had no significant effect on EC proliferation or apoptosis.
+Treatment of Tsk/+ mice with IRF5D
+(1mg/kg/d subcutaneously, 21d) reduced IRF5 and ICAM-1 expression and monocyte/macrophage and neutrophil counts in Tsk/+ hearts compared to expression in hearts from PBS-treated Tsk/+ mice (p<0.05).
+EC-dependent vasodilatation of facialis arteries isolated from PBS-treated Tsk/+ mice was reduced (~15%).
+IRF5D treatments (1mg/kg/d, 21d) improved vasodilatation in arteries isolated from Tsk/+ mice nearly 3-fold (~45%, p<0.05), representing nearly 83% of the vasodilatation in arteries isolated from C57Bl/6J mice (~55%).
+IRF5D (50μg/mL, 24h) reduced nuclear translocation of IRF5 in myocytes cultured on both Tsk/+ cardiac matrix and C57Bl/6J cardiac matrix (p<0.05).
+These data suggest that IRF5 plays a causal role in inflammation, fibrosis and impaired vascular EC function in Tsk/+ mice and that treatment with IRF5D effectively counters IRF5-dependent mechanisms of inflammation and fibrosis in the myocardium in these mice.'] 
+25326420 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4267374/pdf/ IKKβ is an IRF5 kinase that instigates inflammation.
+Proceedings of the National Academy of Sciences of the United States of America ['The transcription factor interferon regulatory factor 5 (IRF5) is essential for the induction of inflammatory cytokines, but the mechanism by which IRF5 is activated is not well understood.
+Here we present evidence that the kinase IKKβ phosphorylates and activates IRF5 in response to stimulation in several inflammatory pathways, including those emanated from Toll-like receptors and retinoic acid-inducible gene I-like receptors.
+IKKβ phosphorylates mouse IRF5 at specific residues, including serine 445 (S446 in human IRF5 isoform 1), as evidenced by mass spectrometry analysis and detection with a phosphospecific antibody.
+Recombinant IKKβ phosphorylated IRF5 at Ser-445 in vitro, and a point mutation of this serine abolished IRF5 activation and cytokine production.
+Depletion or pharmacologic inhibition of IKKβ prevented IRF5 phosphorylation.
+These results indicate that IKKβ is an IRF5 kinase that instigates inflammation.'] 

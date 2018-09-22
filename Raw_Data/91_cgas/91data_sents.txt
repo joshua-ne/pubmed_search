@@ -1,0 +1,56 @@
+29361988 Currently the full-text not available Black tea aroma inhibited increase of salivary chromogranin-A after arithmetic tasks.
+Journal of physiological anthropology [StringElement('Growing attention has been paid to the effects of food flavor components on alleviating negative brain functions caused by stressful lifestyles.
+In this study, we investigated the alleviating effect of two kinds of black tea aromas on physical and psychological stress induced by the Uchida-Kraepelin test, based on salivary chromogranin-A (CgA) levels as a stress marker and subjective evaluations (Profile of Mood States).', attributes={'NlmCategory': 'BACKGROUND', 'Label': 'BACKGROUND'}), StringElement('Compared with the water exposure control, inhaling black tea aroma (
+Darjeeling and Assam in this study) induced lower salivary CgA concentration levels after 30\xa0min of mental stress load tasks.
+This anti-stress effect of black tea aroma did not differ between the two tea types even though the concentration of the anti-stress components in the Darjeeling tea aroma was higher than that in the Assam aroma.
+However, Darjeeling tea aroma tended to decrease the tension and/or anxiety score immediately after the first exposure.', attributes={'NlmCategory': 'RESULTS', 'Label': 'RESULTS'}), StringElement('Inhaling black tea aroma may diminish stress levels caused by arithmetic mental stress tasks, and Darjeeling tea aroma tended to improve mood before mental stress load.', attributes={'NlmCategory': 'CONCLUSIONS', 'Label': 'CONCLUSIONS'})] 
+
+28975588
+Currently the full-text not available Glycosylated Chromogranin A: Potential Role in the Pathogenesis of Heart Failure.
+Current heart failure reports [StringElement('Endocrine and paracrine factors influence the cardiovascular system and the heart by a number of different mechanisms.
+The chromogranin-secretogranin (granin) proteins seem to represent a new family of proteins that exerts both direct and indirect effects on cardiac and vascular functions.
+The granin proteins are produced in multiple tissues, including cardiac cells, and circulating granin protein concentrations provide incremental prognostic information to established risk indices in patients with myocardial dysfunction.
+In this review, we provide recent data for the granin proteins in relation with cardiovascular disease, and with a special focus on chromogranin A and heart failure.'
+, attributes={'Label': 'PURPOSE OF REVIEW'}), StringElement('Chromogranin A is the most studied member of the granin protein family, and shorter, functionally active peptide fragments of chromogranin A exert protective effects on myocardial cell death, ischemia-reperfusion injury, and cardiomyocyte Ca<sup>2+</sup> handling.
+Granin peptides have also been found to induce angiogenesis and vasculogenesis.
+Protein glycosylation is an important post-translational regulatory mechanism, and we recently found chromogranin A molecules to be hyperglycosylated in the failing myocardium.
+Chromogranin A hyperglycosylation impaired processing of full-length chromogranin
+A molecules into physiologically active chromogranin A peptides, and patients with acute heart failure and low rate of chromogranin A processing had increased mortality compared to other acute heart failure patients.
+Other studies have also demonstrated that circulating granin protein concentrations increase in parallel with heart failure disease stage.
+The granin protein family seems to influence heart failure pathophysiology, and chromogranin
+A hyperglycosylation could directly be implicated in heart failure disease progression.'
+, attributes={'Label': 'RECENT FINDINGS'})] 
+
+28334992 Currently the full-text not available Utility of chromogranin B compared with chromogranin A as a biomarker in Japanese patients with pancreatic neuroendocrine tumors.
+Japanese journal of clinical oncology [StringElement('Currently, serum chromogranin A is a well-established biomarker for pancreatic neuroendocrine tumors; however, other pancreatic diseases, oral use of a proton pump inhibitor and renal impairment can affect chromogranin A. Meanwhile, chromogranin B, belonging to the same granin family as chromogranin A, is not fully examined in these conditions.
+The present study aimed to evaluate the utility of chromogranin B as a pancreatic neuroendocrine tumor biomarker.', attributes={'NlmCategory': 'UNASSIGNED', 'Label': 'Objective'}), StringElement('Serum chromogranin B levels were determined by radioimmunoassay and serum chromogranin
+A levels by enzyme-linked immunosorbent assay in pancreatic neuroendocrine tumor (n = 91) and other pancreatic conditions, and in healthy people (n = 104), to assess the relationships with clinical features.', attributes={'NlmCategory': 'UNASSIGNED', 'Label': 'Methods'}), StringElement('The diagnostic ability of chromogranin B was as good as chromogranin A.
+The area under the curve was 0.79 for chromogranin B (sensitivity/specificity: 72%/77%), and 0.78 for chromogranin A (sensitivity/specificity: 79%/64%).
+Chromogranin B was not affected by proton pump inhibitor use and age, which affected chromogranin A.
+The number of cases without liver metastases was larger in pancreatic neuroendocrine tumor patients with positive chromogranin B and negative chromogranin A.
+Though chromogranin
+A significantly elevated cases with proton pump inhibitor treatment and had positive correlation with age, chromogranin B did not have the tendencies.
+However, both chromogranin B and chromogranin A elevated in the case with renal impairment.
+In addition, the logistic regression analysis showed that chromogranin B was superior to chromogranin A in differentiation of pancreatic neuroendocrine tumor from other pancreatic diseases.', attributes={'NlmCategory': 'UNASSIGNED', 'Label': 'Results'}), StringElement('Compared with chromogranin A, chromogranin B may be more useful during proton pump inhibitor treatment and can detect tumors without liver metastases.
+In addition, chromogranin B may be an excellent biomarker when differentiation of pancreatic neuroendocrine tumor from other pancreatic diseases is required.', attributes={'NlmCategory': 'UNASSIGNED', 'Label': 'Conclusions'})] 
+
+28618990 Currently the full-text not available Biological Roles of the Eclectic Chromogranin-A-derived Peptide Catestatin.
+Current medicinal chemistry [StringElement('Research on Chromogranin A (CGA) and its derived fragments convincingly demonstrated the multifunctional activity of the 21 amino acid peptide named Catestatin (CST: human CGA352-372, bovine CGA344-364, rat CGA367-387).
+This review aims to provide a synopsis of the current information concerning the biological role of CST in health and disease.', attributes={'NlmCategory': 'BACKGROUND', 'Label': 'BACKGROUND'}), StringElement('Structured search of bibliographic databases for peer-reviewed research literature.', attributes={'NlmCategory': 'METHODS', 'Label': 'METHODS'}), StringElement('CST is mainly known as an inhibitor of the nicotinic-dependent Catecholamine (CA) release, and an anti-hypertensive peptide, but its role includes a modulation of antioxidant and immune defense, epidermal function, and adipose tissue homeostasis.
+CST influences the cardiocirculatory system acting both indirectly, via the autonomic nervous system, and directly by influencing the basal cardiac function, and the stretch-dependent myocardial performance.
+It also counteracts the effects of adrenergic stimulation on the heart and protects the myocardium from ischemia/reperfusion (I/R) injury, acting in pre- and postconditioning protection.', attributes={'NlmCategory': 'RESULTS', 'Label': 'RESULTS'}), StringElement('The knowledge on CST is constantly expanding, thanks to a growing number of human studies that document its involvement in physiological modulation and in many severe diseases, also revealing its applicative potential as a clinical biomarker.', attributes={'NlmCategory': 'CONCLUSIONS', 'Label': 'CONCLUSIONS'})] 
+
+28948824
+Currently the full-text not available Radioimmunoassay of chromogranin A and free metanephrines in diagnosis of pheochromocytoma.
+Physiological research ['This work discusses the clinical performance of chromogranin A, free metanephrine and normetanephrine determination in plasma using a radioimmunoanalytical methods for the diagnosis of pheochromocytoma and paraganglioma.
+Blood samples were collected from 55 patients (46 pheochromocytomas, 9 paragangliomas).
+A sampling of biological materials was performed preoperatively and about one week, six months and one year after adrenal gland surgery.
+The comparative group without a diagnosis of pheochromocytoma/paraganglioma consisted of 36 pheochromocytoma/paraganglioma patients more than 4 months after adrenal gland surgery, and of 87 patients, 16 of them with multiple endocrine neoplasia, 9 with medullary and 5 with parafolicullar carcinoma of the thyroid gland.
+The rest were patients with various adrenal gland disorders.
+Chromogranin A, metanephrine and normetanephrine were determined in the EDTA-plasma using a radioimmunoassay kits Cisbio Bioassays, France and IBL International GmbH, Germany.
+Clinical sensitivity was 96 % for the combination of metanephrine and normetanephrine, and 93 % for chromogranin A. Clinical specificity was 100 % for the combination metanephrine and normetanephrine, and 96 % for chromogranin A.
+Falsely elevated levels of chromogranin A were observed in 1 patient with chronic renal insufficiency and 9 analyses were influenced by the administration of proton pump inhibitors.
+These results were excluded of CGA specificity.
+Both the combination of plasma free metanephrine, normetanephrine and chromogranin A as determined by radioimmunoassays, which are simple without the necessity of special laboratory material, are effective markers of pheochromocytoma or paraganglioma.
+Chromogranin A exerts association to malignity and all markers are associated with tumor mass.'] 
+

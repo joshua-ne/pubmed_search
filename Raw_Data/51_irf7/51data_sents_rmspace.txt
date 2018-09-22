@@ -1,0 +1,96 @@
+27469204 Currently the full-text not available Protein phosphatase 1 abrogates IRF7-mediated type I IFN response in antiviral immunity.
+European journal of immunology [StringElement('Interferon (IFN) regulatory factor 7 (IRF7) plays a key role in the production of IFN-α in response to viral infection, and phosphorylation at IRF7 C-terminal serine sites is prelude to its function.
+However, phosphatases that negatively regulate IRF7 phosphorylation and activity have not been reported.
+In this study, we have identified a conserved protein phosphatase 1 (PP1)-binding motif in human and mouse IRF7 proteins, and shown that PP1 physically interacts with IRF7.
+Exogenous expression of PP1 subunits (PP1α, β, or γ) ablates IKKε-stimulated IRF7 phosphorylation and dramatically attenuates IRF7 transcriptional activity.
+Inhibition of PP1 activity significantly increases IRF7 phosphorylation and IRF7-mediated IFN-α production in response to Newcastle disease virus (NDV) infection or Toll-like receptor 7 (TLR7) challenge, leading to impaired viral replication.
+In addition, IFN treatment, TLR challenges and viral infection induce PP1 expression.
+Our findings disclose for the first time a pivotal role for PP1 in impeding IRF7-mediated IFN-α production in host immune responses.', attributes={'NlmCategory': 'UNASSIGNED'})] 
+27697837 Currently the full-text not available NFATC3 promotes IRF7 transcriptional activity in plasmacy--toid dendritic cells.
+The Journal of experimental medicine [StringElement('Plasmacytoid dendritic cells (pDCs) rapidly produce large amounts of type 1 interferon (IFN) after Toll-like receptor 7 and 9 engagements.
+This specialized function of type 1 IFN production is directly linked to the constitutive expression of IRF7, the master transcription factor for type 1 IFN production.
+However, the IRF7 regulatory network in pDCs remains largely unknown.
+In this study, we identify that the transcription factor NFATC3 specifically binds to IRF7 and enhances IRF7-mediated IFN production.
+Furthermore, knockout of NFATC3 greatly reduced the CpG DNA-induced nuclear translocation of IRF7, which resulted in impaired type 1 IFN production in vitro and in vivo.
+In addition, we found that NFATC3 and IRF7 both bound to type 1 IFN promoters and that the NFAT binding site in IFN promoters was required for IRF7-mediated IFN expression.
+Collectively, our study shows that the transcription factor NFATC3 binds to IRF7 and functions synergistically to enhance IRF7-mediated IFN expression in pDCs.', attributes={'NlmCategory': 'UNASSIGNED'})] 
+25989622 Currently the full-text not available Functions of the two zebrafish MAVS variants are opposite in the induction of IFN1 by targeting IRF7.
+Fish & shellfish immunology ['IFNs create the first line of host cells to defense viral infection, however, unrestricted expression of IFN can be hazardous to the host.
+IRF7 is the master regulator of type I IFN expression.
+To our knowledge, non research about the inhibition of IFN expression by targeting IRF7 has been reported in fish.
+In this study, we reported that the splicing variant of wildtype MAVS (MAVS_tv1), MAVS_tv2, negatively regulated IRF7-mediated IFN production.
+Firstly, in vivo, the transcriptional levels of MAVS_tv2 in trunk kidney and spleen from the zebrafish infected with SVCV were monitored.
+Then, in vitro, the protein expression pattern of MAVS_tv2 in zebrafish cell lines was detected using anti-MAVS_tv2 antibody.
+Furthermore, overexpression of MAVS_tv2 decreased the activation of IFN1 promoter that induced by IRF7 in a dose-dependent manner, whereas it had little effect on IRF3, a close relative of IRF7.
+In addition, such inhibition was also observed in IRF7-mediated epcIFN promoter and ISRE activities, but not in the activation of the promoters of type II IFNs and NF-ĸB, due to IRF7 not regulating their expression.
+Lastly, overexpression of MAVS_tv2 decreased the transcriptional levels of several IFN-stimulated genes activated by IRF7.
+These findings suggest that MAVS_tv2 is a negative regulator of IFN1 by targeting IRF7.'] 
+25911105 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4505538/pdf/
+Aryl Hydrocarbon Receptor Interacting Protein Targets IRF7 to Suppress Antiviral Signaling and the Induction of Type I Interferon.
+The Journal of biological chemistry ['The transcription factor IRF7 (interferon regulatory factor 7) is a key regulator of type I interferon and plays essential roles in restricting virus infection and spread.
+IRF7 activation is tightly regulated to prevent excessive inflammation and autoimmunity; however, how IRF7 is suppressed by negative regulators remains poorly understood.
+Here, we have identified AIP (aryl hydrocarbon receptor interacting protein) as a new binding partner of IRF7.
+The interaction between AIP and IRF7 is enhanced upon virus infection, and AIP potently inhibits IRF7-induced type I IFN (IFNα/β) production.
+Overexpression of AIP blocks virus-induced activation of IFN, whereas knockdown of AIP by siRNA potentiates virally activated IFN production.
+Consistently, AIP-deficient murine embryonic fibroblasts are highly resistant to virus infection because of increased production of IFNα/β. AIP inhibits IRF7 function by antagonizing the nuclear localization of IRF7.
+Together, our study identifies AIP as a novel inhibitor of IRF7 and a negative regulator of innate antiviral signaling.'] 
+25410392 Currently the full-text not available Interferon regulatory factor 7- (IRF7-) mediated immune response affects Newcastle disease virus replication in chicken embryo fibroblasts.
+Acta veterinaria Hungarica ['Interferon regulatory factor 7 (IRF7) is essential for the induction of an antiviral response.
+Previous studies have shown that virus replication causes the activation or expression of Type I interferon (IFN) in cells, which further activates IFN-stimulated genes (ISGs) to retard virus growth.
+In this study, after infection of chicken embryo fibroblasts (CEFs) with the lentogenic Newcastle disease virus (NDV) strain LaSota or the velogenic NDV strain GM, the mRNA and protein levels of IRF7 showed a significant increase, and part of the IRF7 protein was translocated from the cytoplasm to the nucleus.
+In order to further explore the effect of IRF7-mediated innate immune response on the replication of NDV in CEFs, the mRNA levels of IFN-α, IFN-β and STAT1 were measured and the replication kinetics of NDV determined.
+The results showed that specific siRNA could inhibit the expression of IRF7 and limit the mRNA level of IFN-α, IFN-β and STAT1 and, accordingly, the replication kinetics of both NDVs were enhanced after the inhibition of IRF7.
+In conclusion, IRF7 is an important nuclear transcription factor for the induction of Type I IFNs during the antiviral response, which can affect the replication of NDV and spread to CEFs in the early phase of viral infection.'] 
+27733217 Currently the full-text not available Overexpression of interferon regulatory factor 7 (IRF7) reduces bone metastasis of prostate cancer cells in mice.
+Oncology research [StringElement('The purpose of this study was to identify the role of interferon regulatory factor 7 (IRF7) in the bone metastasis of prostate cancer.
+Herein, we demonstrated the lower expression of IRF7 in bone metastases of prostate cancer.
+Overexpression of IRF7 in prostate cancer cells had a marked effect on inhibiting bone metastases but not on tumor growth in xenograft nude mice.
+While in vitro, up-regulation of IRF7 had little effect on the malignant phenotype of prostate cancer cells including proliferation, apoptosis, migration, and invasion.
+However, prostate cancer cells overexpressing IRF7 significantly enhanced the activity of NK cells, which resulted in the cytolysis of prostate cancer target cells.
+The underlying mechanism may be relevant to the increasing expression of IFN-β induced by IRF7, as the downregulation of which could inversely inhibit the activity of NK cells.
+In conclusion, our findings indicate that IRF7 plays a role in reducing bone metastasis of prostate cancer by IFN-β mediated NK activity.', attributes={'NlmCategory': 'UNASSIGNED'})] 
+26186542 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4505898/pdf/ Functional Analysis of Chicken IRF7 in Response to dsRNA Analog Poly(I:C) by Integrating Overexpression and Knockdown.
+PloS one ["In order to develop novel strategies to protect against increasingly virulent bird-linked pathogens, a better understanding of the avian antiviral response mechanism is essential.
+Type I interferons (IFNs) are recognized as the first line of defense in a host's antiviral response; and it has been suggested that IRF7, a member of the IFN regulatory factor (IRF) family, plays an important role in modulating the immune response to avian influenza virus infection in chickens.
+The objective of this study was to identify candidate genes and pathways associated with IRF7 regulation at the transcriptome level as a first step towards elucidating the underlying cellular mechanisms of IRF7 modulation in the chicken antiviral response.
+IRF7 overexpression and knockdown DF-1 cell lines were established and stimulated by various pathogen-associated molecular patterns.
+Significant IRF7 and type I IFN expression changes were observed in both the IRF7 overexpression cell line and the IRF7 knockdown cell line upon exposure to the double stranded RNA (dsRNA) analog poly(I:C).
+Using RNA-seq based transcriptome analysis, we identified potential novel genes that IRF7 may help regulate as part of the host immune response to dsRNA; potential biomarkers and therapeutic targets revealed as a result of this study warrant further investigation.
+Based on our results, we suggest that IRF7 may have conserved functional activity in the avian antiviral response, and plays a crucial role in type I IFN regulation."] 
+25680411 Currently the full-text not available IRF7 promotes glioma cell invasion by inhibiting AGO2 expression.
+Tumour biology : the journal of the International Society for Oncodevelopmental Biology and Medicine ['Interferon regulatory factor 7 (IRF7) is the master transcription factor that plays a pivotal role in the transcriptional activation of type I interferon genes in the inflammatory response.
+Our previous study revealed that IRF7 is an important regulator of tumor progression via the expression of inflammatory cytokines in glioma.
+Here, we report that IRF7 promotes glioma invasion and confers resistance to both chemotherapy and radiotherapy by inhibiting expression of argonaute 2 (AGO2), a regulator of microRNA biogenesis.
+We found that IRF7 and AGO2 expression levels were negatively correlated in patients with glioblastoma multiforme.
+Ectopic IRF7 expression led to a reduction in AGO2 expression, while depletion of IRF7 resulted in increased AGO2 expression in the LN-229 glioma cell line.
+In an in vitro invasion assay, IRF7 overexpression enhanced glioma cell invasion.
+Furthermore, reconstitution of AGO2 expression in IRF7-overexpressing cells led to decreased cell invasion, whereas the reduced invasion due to IRF7 depletion was rescued by AGO2 depletion.
+In addition, IRF7 induced chemoresistance and radioresistance of glioma cells by diminishing AGO2 expression.
+Finally, AGO2 depletion alone was sufficient to accelerate glioma cell invasion in vitro and in vivo, indicating that AGO2 regulates cancer cell invasion.
+Taken together, our results indicate that IRF7 promotes glioma cell invasion and both chemoresistance and radioresistance through AGO2 inhibition.'] 
+25938076 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4415177/pdf/
+Reduced IRF7 response to rhinovirus unrelated with DNA methylation in peripheral mononuclear cells of adult asthmatics.
+Asia Pacific allergy [StringElement('Human rhinoviruses are the major cause of asthma exacerbation in both children and adults.
+Recently, impaired antiviral interferon (IFN) response in asthmatics has been indicated as a primary reason of the susceptibility to respiratory virus, but the mechanism of defective IFN production is little understood to date.
+The expression of IFN regulatory factor 7 (IRF7), a transcriptional factor for virus-induced type I IFN production is known to be regulated epigenetically by DNA methylation.', attributes={'NlmCategory': 'BACKGROUND', 'Label': 'BACKGROUND'}), StringElement('We aimed to investigate the expression of IFN-α, IFN-β, and IRF7 in response to rhinovirus infection in the adult asthmatics and evaluate DNA methylation status of IRF7 gene promotor.', attributes={'NlmCategory': 'OBJECTIVE', 'Label': 'OBJECTIVE'}), StringElement('Twenty symptomatic adult asthmatics and 10 healthy subjects were enrolled and peripheral blood was collected from each subject.
+Peripheral blood mononuclear cells (PBMCs) were isolated, cultured, and ex vivo stimulated with rhinovirus-16.
+The mRNA expressions of IFN-α, IFN-β, and IRF7 were analyzed using real time quantitative polymerase chain reaction.
+Genomic DNA was isolated from untreated PBMCs and the methylation status of IRF7 gene promotor was investigated using bisulfite pyrosequencing.'
+, attributes={'NlmCategory': 'METHODS', 'Label': 'METHODS'}), StringElement('The mean age of asthmatics was 45.4 ± 15.7 years and 40% was male, which were not different with those of control group.
+Asthmatics showed significantly decreased mRNA expressions (relative expression to beta-actin) of IFN-α and IFN-β compared with normal control.
+The mRNA expression of IRF7 in the asthmatics was also significantly lower than those in the normal control.
+No significant difference of DNA methylation was observed between asthmatics and controls in all analyzed positions of IRF7 promotor CpG loci.', attributes={'NlmCategory': 'RESULTS', 'Label': 'RESULTS'}), StringElement('The mRNA expression of type I IFN in response to rhinovirus was impaired in the PBMCs of adult asthmatics.
+The mRNA expression of IRF7, transcriptional factor inducing type I IFN was also reduced, but not caused by altered DNA methylation in the IRF7 gene promotor.', attributes={'NlmCategory': 'CONCLUSIONS', 'Label': 'CONCLUSION'})] 
+27122612 Currently the full-text not available IRF7 inhibition prevents destructive innate immunity-
+A target for nonantibiotic therapy of bacterial infections.
+Science translational medicine ['Boosting innate immunity represents an important therapeutic alternative to antibiotics.
+However, the molecular selectivity of this approach is a major concern because innate immune responses often cause collateral tissue damage.
+We identify the transcription factor interferon regulatory factor 7 (IRF-7), a heterodimer partner of IRF-3, as a target for non-antibiotics-based therapy of bacterial infections.
+We found that the efficient and self-limiting innate immune response to bacterial infection relies on a tight balance between IRF-3 and IRF-7.
+Deletion of Irf3 resulted in overexpression of Irf7 and led to an IRF-7-driven hyperinflammatory phenotype, which was entirely prevented if Irf7 was deleted.
+We then identified a network of strongly up-regulated, IRF-7-dependent genes in Irf3(-/-) mice with kidney pathology, which was absent in Irf7(-/-) mice.
+IRF-3 and IRF-7 from infected kidney cell nuclear extracts were shown to bind OAS1, CCL5, and IFNB1 promoter oligonucleotides.
+These data are consistent in children with low IRF7 expression in the blood: attenuating IRF7 promoter polymorphisms (rs3758650-T and rs10902179-G) negatively associated with recurrent pyelonephritis.
+Finally, we identified IRF-7 as a target for immunomodulatory therapy.
+Administering liposomal Irf7 siRNA to Irf3(-/-) mice suppressed mucosal IRF-7 expression, and the mice were protected against infection and renal tissue damage.
+These findings offer a response to the classical but unresolved question of "good versus bad inflammation" and identify IRF7 as a therapeutic target for protection against bacterial infection.'] 

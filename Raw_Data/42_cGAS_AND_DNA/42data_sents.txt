@@ -1,0 +1,93 @@
+26320998 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4567405/pdf/ Inhibition of cGAS DNA Sensing by a Herpesvirus Virion Protein.
+Cell host & microbe ["Invading viral DNA can be recognized by the host cytosolic DNA sensor, cyclic GMP-AMP (cGAMP) synthase (cGAS), resulting in production of the second messenger cGAMP, which directs the adaptor protein STING to stimulate production of type I interferons (IFNs).
+Although several DNA viruses are sensed by cGAS, viral strategies targeting cGAS are virtually unknown.
+We report here that Kaposi's sarcoma-associated herpesvirus (KSHV)
+ORF52, an abundant gammaherpesvirus-specific tegument protein, subverts cytosolic DNA sensing by directly inhibiting cGAS enzymatic activity through a mechanism involving both cGAS binding and DNA binding.
+Moreover, ORF52 homologs in other gammaherpesviruses also inhibit cGAS activity and similarly bind cGAS and DNA, suggesting conserved inhibitory mechanisms.
+Furthermore, KSHV infection evokes cGAS-dependent responses that can limit the infection, and an ORF52 null mutant exhibits increased cGAS signaling.
+Our findings reveal a mechanism through which gammaherpesviruses antagonize host cGAS DNA sensing."] 25425575 Currently the full-text not available Cytosolic RNA:DNA hybrids activate the cGAS-STING axis.
+The EMBO journal ["Intracellular recognition of non-self and also self-nucleic acids can result in the initiation of potent pro-inflammatory and antiviral cytokine responses.
+Most recently, cGAS was shown to be critical for the recognition of cytoplasmic dsDNA. Binding of dsDNA to cGAS results in the synthesis of cGAMP(2'-5'), which then binds to the endoplasmic reticulum resident protein STING.
+This initiates a signaling cascade that triggers the induction of an antiviral immune response.
+While most studies on intracellular nucleic acids have focused on dsRNA or dsDNA, it has remained unexplored whether cytosolic RNA:DNA hybrids are also sensed by the innate immune system.
+Studying synthetic RNA:DNA hybrids, we indeed observed a strong type I interferon response upon cytosolic delivery of this class of molecule.
+Studies in THP-1 knockout cells revealed that the recognition of RNA:DNA hybrids is completely attributable to the cGAS-STING pathway.
+Moreover, in vitro studies showed that recombinant cGAS produced cGAMP upon RNA:DNA hybrid recognition.
+Altogether, our results introduce RNA:DNA hybrids as a novel class of intracellular PAMP molecules and describe an alternative cGAS ligand next to dsDNA."]
+26829768 Currently the full-text not available Glutamylation of the DNA sensor
+cGAS regulates its binding and synthase activity in antiviral immunity.
+Nature immunology ['Cyclic GMP-AMP synthase (cGAS) senses cytosolic DNA during viral infection and catalyzes synthesis of the dinucleotide cGAMP, which activates the adaptor STING to initiate antiviral responses.
+Here we found that deficiency in the carboxypeptidase CCP5 or CCP6 led to susceptibility to DNA viruses.
+CCP5 and CCP6 were required for activation of the transcription factor IRF3 and interferons.
+Polyglutamylation of cGAS by the enzyme TTLL6 impeded its DNA-binding ability, whereas TTLL4-mediated monoglutamylation of cGAS blocked its synthase activity.
+Conversely, CCP6 removed the polyglutamylation of cGAS, whereas CCP5 hydrolyzed the monoglutamylation of cGAS, which together led to the activation of cGAS.
+Therefore, glutamylation and deglutamylation of cGAS tightly modulate immune responses to infection with DNA viruses.']
+24116191 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3792152/pdf/ Structural and functional analyses of DNA-sensing and immune activation by human cGAS. PloS one ['The detection of cytosolic DNA, derived from pathogens or host cells, by cytosolic receptors is essential for appropriate host immune responses.
+Cyclic GMP-AMP synthase (cGAS) is a newly identified cytosolic DNA receptor that produces cyclic GMP-AMP, which activates stimulator of interferon genes (STING), resulting in TBK1-IRF3 pathway activation followed by the production of type I interferons.
+Here we report the crystal structure of human cGAS.
+The structure revealed that a cluster of lysine and arginine residues forms the positively charged DNA binding surface of human cGAS, which is important for the STING-dependent immune activation.
+A structural comparison with other previously determined cGASs and our functional analyses suggested that a conserved zinc finger motif and a leucine residue on the DNA binding surface are crucial for the DNA-specific immune response of human cGAS, consistent with previous work.
+These structural features properly orient the DNA binding to cGAS, which is critical for DNA-induced cGAS activation and STING-dependent immune activation.
+Furthermore, we showed that the cGAS-induced activation of STING also involves the activation of the NF-κB and IRF3 pathways.
+Our results indicated that cGAS is a DNA sensor that efficiently activates the host immune system by inducing two distinct pathways.']
+24462292 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3969844/pdf/
+The cytosolic DNA sensor cGAS forms an oligomeric complex with DNA and undergoes switch-like conformational changes in the activation loop.
+Cell reports ['The presence of DNA in the cytoplasm is a danger signal that triggers immune and inflammatory responses.
+Cytosolic DNA binds to and activates cyclic GMP-AMP (cGAMP) synthase (cGAS), which produces the second messenger cGAMP. cGAMP binds to the adaptor protein STING and activates a signaling cascade that leads to the production of type I interferons and other cytokines.
+Here, we report the crystal structures of human cGAS in its apo form, representing its autoinhibited conformation as well as in its cGAMP- and sulfate-bound forms.
+These structures reveal switch-like conformational changes of an activation loop that result in the rearrangement of the catalytic site.
+The structure of DNA-bound cGAS reveals a complex composed of dimeric cGAS bound to two molecules of DNA. Functional analyses of cGAS mutants demonstrate that both the protein-protein interface and the two DNA binding surfaces are critical for cGAS activation.
+These results provide insights into the mechanism of DNA sensing by cGAS.'] 26199418 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4534226/pdf/
+Modulation of the cGAS-STING DNA sensing pathway by gammaherpesviruses.
+Proceedings of the National Academy of Sciences of the United States of America [
+"Infection of cells with DNA viruses triggers innate immune responses mediated by DNA sensors.
+cGMP-AMP synthase (cGAS) is a key DNA sensor that produces the cyclic dinucleotide cGMP-AMP (cGAMP) upon activation, which binds to and activates stimulator of interferon genes (STING), leading to IFN production and an antiviral response.
+Kaposi's sarcoma-associated herpesvirus (KSHV) is a DNA virus that is linked to several human malignancies.
+We report that KSHV infection activates the cGAS-STING pathway, and that cGAS and STING also play an important role in regulating KSHV reactivation from latency.
+We screened KSHV proteins for their ability to inhibit this pathway and identified six viral proteins that block IFN-β activation through this pathway.
+This study is the first report identifying multiple viral proteins encoded by a human DNA virus that inhibit the cGAS-STING DNA sensing pathway.
+One such protein, viral interferon regulatory factor 1 (vIRF1), targets STING by preventing it from interacting with TANK binding kinase 1 (TBK1), thereby inhibiting STING's phosphorylation and concomitant activation, resulting in an inhibition of the DNA sensing pathway.
+Our data provide a unique mechanism for the negative regulation of STING-mediated DNA sensing.
+Moreover, the depletion of vIRF1 in the context of KSHV infection prevented efficient viral reactivation and replication, and increased the host IFN response to KSHV.
+The vIRF1-expressing cells also inhibited IFN-β production following infection with DNA pathogens.
+Collectively, our results demonstrate that gammaherpesviruses encode inhibitors that block cGAS-STING-mediated antiviral immunity, and that modulation of this pathway is important for viral transmission and the lifelong persistence of herpesviruses in the human population."]
+23722159
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3768140/pdf/
+Structural mechanism of cytosolic DNA sensing by cGAS. Nature ["Cytosolic DNA arising from intracellular bacterial or viral infections is a powerful pathogen-associated molecular pattern (PAMP) that leads to innate immune host defence by the production of type I interferon and inflammatory cytokines.
+Recognition of cytosolic DNA by the recently discovered cyclic-GMP-AMP (cGAMP) synthase (cGAS) induces the production of cGAMP to activate the stimulator of interferon genes (STING).
+Here we report the crystal structure of cGAS alone and in complex with DNA, ATP and GTP along with functional studies.
+Our results explain the broad DNA sensing specificity of cGAS, show how cGAS catalyses dinucleotide formation and indicate activation by a DNA-induced structural switch.
+cGAS possesses a remarkable structural similarity to the antiviral cytosolic double-stranded RNA sensor 2'-5'oligoadenylate synthase (OAS1), but contains a unique zinc thumb that recognizes B-form double-stranded DNA. Our results mechanistically unify dsRNA and dsDNA innate immune sensing by OAS1 and cGAS nucleotidyl transferases."]
+26440888
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4607670/pdf/
+Akt Kinase-Mediated Checkpoint of cGAS DNA Sensing Pathway.
+Cell reports [
+"Upon DNA stimulation, cyclic GMP-AMP synthase (cGAS) synthesizes the second messenger cyclic GMP-AMP (cGAMP) that binds to the STING, triggering antiviral interferon-β (IFN-β) production.
+However, it has remained undetermined how hosts regulate cGAS enzymatic activity after the resolution of DNA immunogen.
+Here, we show that Akt kinase plays a negative role in cGAS-mediated anti-viral immune response.
+Akt phosphorylated the S291 or S305 residue of the enzymatic domain of mouse or human cGAS, respectively, and this phosphorylation robustly suppressed its enzymatic activity.
+Consequently, expression of activated Akt led to the reduction of cGAMP and IFN-β production and the increase of herpes simplex virus 1 replication, whereas treatment with Akt inhibitor augmented cGAS-mediated IFN-β production.
+Furthermore, expression of the phosphorylation-resistant cGAS S291A mutant enhanced IFN-β production upon DNA stimulation, HSV-1 infection, and vaccinia virus infection.
+Our study identifies an Akt kinase-mediated checkpoint to fine-tune hosts' immune responses to DNA stimulation."]
+25007740 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4254336/pdf/
+The mechanism of double-stranded DNA sensing through the cGAS-STING pathway.
+Cytokine & growth factor reviews ["Microbial nucleic acids induce potent innate immune responses by stimulating the expression of type I interferons.
+Cyclic GMP-AMP synthase (cGAS) is a cytosolic dsDNA sensor mediating the innate immunity to microbial DNA. cGAS is activated by dsDNA and catalyze the synthesis of a cyclic dinucleotide cGAMP with 2',5' and 3',5'phosphodiester linkages.
+cGAMP binds to the adaptor STING located on the endoplasmic reticulum membrane and mediates the recruitment and activation of the protein kinase TBK1 and transcription factor IRF3.
+Phosphorylated IRF3 translocates to the nucleus and initiates the transcription of the IFN-β gene.
+The crystal structures of cGAS and its complex with dsDNA, STING and its complex with various cyclic dinucleotides have been determined recently.
+Here we summarize the results from these structural studies and provide an overview about the mechanism of cGAS activation by dsDNA, the catalytic mechanism of cGAS, and the structural basis of STING activation by cGAMP."]
+25609843 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4324085/pdf/
+Positive feedback regulation of type I IFN production by the IFN-inducible DNA sensor cGAS. Journal of immunology (Baltimore, Md. : 1950) ['Rapid and robust induction of type
+I IFN
+(IFN-I) is a critical event in host antiviral innate immune response.
+It has been well demonstrated that cyclic GMP-AMP (cGAMP) synthase (cGAS) plays an important role in sensing cytosolic DNA and triggering STING dependent signaling to induce IFN-I.
+However, it is largely unknown how cGAS itself is regulated during pathogen infection and IFN-I production.
+In this study, we show that pattern recognition receptor (PRR) ligands, including lipid A, LPS, poly(I:C), poly(dA:dT), and cGAMP, induce cGAS expression in an IFN-I-dependent manner in both mouse and human macrophages.
+Further experiments indicated that cGAS is an IFN-stimulated gene (ISG), and two adjacent IFN-sensitive response elements (ISREs) in the promoter region of cGAS mediate the induction of cGAS by IFN-I.
+Additionally, we show that optimal production of IFN-β triggered by poly (dA:dT) or HSV-1 requires IFNAR signaling.
+Knockdown of the constitutively expressed DNA sensor
+DDX41 attenuates poly(dA:dT)-triggered IFN-β production and cGAS induction.
+By analyzing the dynamic expression of poly(dA:dT)-induced IFN-β and cGAS transcripts, we have found that induction of IFN-β is earlier than cGAS.
+Furthermore, we have provided evidence that induction of cGAS by IFN-I meditates the subsequent positive feedback regulation of DNA-triggered IFN-I production.
+Thus, our study not only provides a novel mechanism of modulating cGAS expression, but also adds another layer of regulation in DNA-triggered IFN-I production by induction of cGAS.']

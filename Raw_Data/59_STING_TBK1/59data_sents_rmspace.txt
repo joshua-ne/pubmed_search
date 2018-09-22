@@ -1,0 +1,955 @@
+25815785 PPM1A regulates antiviral signaling by antagonizing TBK1-mediated STING phosphorylation and aggregation.
+['Stimulator of interferon genes (STING, also known as MITA and ERIS) is critical in protecting the host against DNA pathogen invasion.
+However, the molecular mechanism underlying the regulation of STING remains unclear.
+Here, we show that PPM1A negatively regulates antiviral signaling by targeting STING in its phosphatase activity-dependent manner, and in a line with this, PPM1A catalytically dephosphorylates STING and TBK1 in vitro.
+Importantly, we provide evidence that whereas TBK1 promotes STING aggregation in a phosphorylation-dependent manner, PPM1A antagonizes STING aggregation by dephosphorylating both STING and TBK1, emphasizing that phosphorylation is crucial for the efficient activation of STING. Our findings demonstrate a novel regulatory circuit in which STING and TBK1 reciprocally regulate each other to enable efficient antiviral signaling activation, and PPM1A dephosphorylates STING and TBK1, thereby balancing this antiviral signal transduction.'] 
+24622840 SARS coronavirus papain-like protease inhibits the type I interferon signaling pathway through interaction with the STING-TRAF3-TBK1 complex.
+['SARS coronavirus (SARS-CoV) develops an antagonistic mechanism by which to evade the antiviral activities of interferon (IFN).
+Previous studies suggested that SARS-CoV papain-like protease (PLpro) inhibits activation of the IRF3 pathway, which would normally elicit a robust IFN response, but the mechanism(s) used by SARS PLpro to inhibit activation of the IRF3 pathway is not fully known.
+In this study, we uncovered a novel mechanism that may explain how SARS PLpro efficiently inhibits activation of the IRF3 pathway.
+We found that expression of the membrane-anchored PLpro domain (PLpro-TM) from SARS-CoV inhibits STING/TBK1/IKKε-mediated activation of type I IFNs and disrupts the phosphorylation and dimerization of IRF3, which are activated by STING and TBK1.
+Meanwhile, we showed that PLpro-TM physically interacts with TRAF3, TBK1, IKKε, STING, and IRF3, the key components that assemble the STING-TRAF3-TBK1 complex for activation of IFN expression.
+However, the interaction between the components in STING-TRAF3-TBK1 complex is disrupted by PLpro-TM.
+Furthermore, SARS PLpro-TM reduces the levels of ubiquitinated forms of RIG-I, STING, TRAF3, TBK1, and IRF3 in the STING-TRAF3-TBK1 complex.
+These results collectively point to a new mechanism used by SARS-CoV through which PLpro negatively regulates IRF3 activation by interaction with STING-TRAF3-TBK1 complex, yielding a SARS-CoV countermeasure against host innate immunity.'] 
+24600004 Cytosolic-DNA-mediated, STING-dependent proinflammatory gene induction necessitates canonical NF-κB activation through TBK1.
+[StringElement('STING (stimulator of interferon genes) is known to control the induction of innate immune genes in response to the recognition of cytosolic DNA species, including the genomes of viruses such as herpes simplex virus 1 (HSV-1).
+However, while STING is essential for protection of the host against numerous DNA pathogens, sustained STING activity can lead to lethal inflammatory disease.
+It is known that STING utilizes interferon regulatory factor 3 (IRF3) and nuclear factor κB (NF-κB) pathways to exert its effects, although the signal transduction mechanisms remain to be clarified fully.
+Here we demonstrate that in addition to the activation of these pathways, potent induction of the Jun N-terminal protein kinase/stress-activated protein kinase (JNK/SAPK) pathway was similarly observed in response to STING activation by double-stranded DNA (dsDNA).
+Furthermore, TANK-binding kinase 1 (TBK1) associated with STING was found to facilitate dsDNA-mediated canonical activation of NF-κB as well as IRF3 to promote proinflammatory gene transcription.
+The triggering of NF-κB function was noted to require TRAF6 activation.
+Our findings detail a novel dsDNA-mediated NF-κB activation pathway facilitated through a STING-TRAF6-TBK1 axis and suggest a target for therapeutic intervention to plausibly stimulate antiviral activity or, alternatively, avert dsDNA-mediated inflammatory disease.', attributes={'Label': 'UNLABELLED'}), StringElement('The IKK complex, which is composed of two catalytic subunits, IKKα and IKKβ, has been suggested to be essential for the activation of canonical NF-κB signaling in response to various stimuli, including cytokines (e.g., interleukin-1α [IL-1α] and tumor necrosis factor alpha [TNF-α]), Toll-like receptor (TLR) ligands (e.g., lipopolysaccharide [LPS]), and dsRNAs derived from viruses, or a synthetic analog.
+STING has been identified as a critical signaling molecule required for the detection of cytosolic dsDNAs derived from pathogens and viruses.
+However, little is known about how cytosolic dsDNA triggers NF-κB signaling.
+In the present study, we demonstrate that TBK1, identified as an IKK-related kinase, may predominantly control the activation of NF-κB in response to dsDNA signaling via STING through the IKKαβ activation loop.
+Thus, our results establish TBK1 as a downstream kinase controlling dsDNA-mediated IRF3 and NF-κB signaling dependent on STING.', attributes={'Label': 'IMPORTANCE', 'NlmCategory': 'OBJECTIVE'})] 
+27234299 HSV-1 ICP27 targets the TBK1-activated STING signalsome to inhibit virus-induced type I IFN expression.
+['Herpes simplex virus (HSV) 1 stimulates type I IFN expression through the cGAS-STING-TBK1 signaling axis.
+Macrophages have recently been proposed to be an essential source of IFN during viral infection.
+However, it is not known how HSV-1 inhibits IFN expression in this cell type.
+Here, we show that HSV-1 inhibits type I IFN induction through the cGAS-STING-TBK1 pathway in human macrophages, in a manner dependent on the conserved herpesvirus protein ICP27.
+This viral protein was expressed de novo in macrophages with early nuclear localization followed by later translocation to the cytoplasm where ICP27 prevented activation of IRF3.
+ICP27 interacted with TBK1 and STING in a manner that was dependent on TBK1 activity and the RGG motif in ICP27.
+Thus, HSV-1 inhibits expression of type I IFN in human macrophages through ICP27-dependent targeting of the TBK1-activated STING signalsome.'] 
+27333035 Ligand-induced Ordering of the C-terminal Tail Primes STING for Phosphorylation by TBK1.
+['The innate immune protein Stimulator of interferon genes (STING) promotes the induction of interferon beta (IFN-β) production via the phosphorylation of its C-terminal tail (CTT) by TANK-binding kinase 1 (TBK1).
+Potent ligands of STING are, therefore, promising candidates for novel anti-cancer drugs or vaccine adjuvants.
+However, the intrinsically flexible CTT poses serious problems in in silico drug discovery.
+Here, we performed molecular dynamics simulations of the STING fragment containing the CTT in ligand-bound and unbound forms and observed that the binding of a potent ligand cyclic GMP-AMP (cGAMP) induced a local structure in the CTT, reminiscent of the known structure of a TBK1 substrate.
+The subsequent molecular biological experiments confirmed the observed dynamics of the CTT and identified essential residues for the activation of the IFN-β promoter, leading us to propose a new mechanism of STING activation.'] 
+22394562 STING specifies IRF3 phosphorylation by TBK1 in the cytosolic DNA signaling pathway.
+['Cytosolic double-stranded DNA (dsDNA) stimulates the production of type I interferon (IFN) through the endoplasmic reticulum (ER)-resident adaptor protein STING (stimulator of IFN genes), which activates the transcription factor interferon regulatory factor 3 (IRF3); however, how STING activates IRF3 is unclear.
+Here, we showed that STING stimulates phosphorylation of IRF3 by the kinase TBK1 (TANK-binding kinase 1) in an in vitro reconstitution system.
+With this system, we identified a carboxyl-terminal region of STING that was both necessary and sufficient to activate TBK1 and stimulate the phosphorylation of IRF3.
+We also found that STING interacted with both TBK1 and IRF3 and that mutations in STING that selectively disrupted its binding to IRF3 abrogated phosphorylation of IRF3 without impairing the activation of TBK1.
+These results suggest that STING functions as a scaffold protein to specify and promote the phosphorylation of IRF3 by TBK1.
+This scaffolding function of STING (and possibly of other adaptor proteins) may explain why IRF3 is activated in only a subset of signaling pathways that activate TBK1.'] 
+25526307 The E3 ubiquitin ligase AMFR and INSIG1 bridge the activation of TBK1 kinase by modifying the adaptor STING. ['Stimulator of interferon genes (STING, also known as MITA, ERIS, or MPYS) is essential for host immune responses triggered by microbial DNAs.
+However, the regulatory mechanisms underlying STING-mediated signaling are not fully understood.
+We report here that, upon cytoplasmic DNA stimulation, the endoplasmic reticulum (ER) protein AMFR was recruited to and interacted with STING in an insulin-induced gene 1 (INSIG1)-dependent manner.
+AMFR and INSIG1, an E3 ubiquitin ligase complex, then catalyzed the K27-linked polyubiquitination of STING.
+This modification served as an anchoring platform for recruiting TANK-binding kinase 1 (TBK1) and facilitating its translocation to the perinuclear microsomes.
+Depletion of AMFR or INSIG1 impaired STING-mediated antiviral gene induction.
+Consistently, myeloid-cell-specific Insig1(-/-) mice were more susceptible to herpes simplex virus 1 (HSV-1) infection than wild-type mice.
+This study uncovers an essential role of the ER proteins AMFR and INSIG1 in innate immunity, revealing an important missing link in the STING signaling pathway.'] 
+24198409 Adenovirus detection by the cGAS/STING/TBK1 DNA sensing cascade.
+['Adenovirus (Ad) infection triggers a cell-specific antiviral response following exposure of viral DNA to the intracellular compartment.
+A variety of DNA sensors (DAI, AIM2, DDx41, RNA polymerase [Pol] III, and IFI16 [p204]) have been identified in recent years; however, the DNA sensor involved in detection of adenovirus has not been established.
+Cyclic GMP-AMP synthase (cGAS), a DNA sensor that produces a cyclic guanine-adenine dinucleotide (cGAMP) inducer of STING, has been examined to determine its role in generating an antiadenoviral response.
+Short hairpin RNA (shRNA)
+lentiviral vectors targeting TBK1, STING, and cGAS were established in murine MS1 endothelial and RAW 264.7 macrophage cell lines.
+Knockdown of TBK1, STING, and cGAS results in a dramatic reduction in the activation of the primary antiviral response marker phosphorylated interferon (IFN) response factor 3 (IRF3) following exposure to adenovirus.
+Furthermore, activation of secondary type I IFN signaling targets ((ptyr)STAT1 and (ptyr)STAT2 [(ptyr)STAT1/2]) was also compromised.
+Consistent with compromised activation of primary and secondary response markers, transcriptional activation of IRF3-responsive genes (beta IFN [IFN-β], ISG15, ISG54) and secondary response transcripts were diminished in cells knocked down in cGAS, STING, or TBK1.
+These data establish cGAS as the dominant cytosolic DNA sensor responsible for detection of internalized adenovirus leading to induction of the type I interferon antiviral cascade.'] 
+23542348 Hepatitis C virus NS4B blocks the interaction of STING and TBK1 to evade host innate immunity.
+[StringElement('Hepatitis C virus (HCV) is a major human viral pathogen that causes chronic hepatitis, liver cirrhosis, and hepatocellular carcinoma.
+In most cases, acute HCV infection becomes persistent, at least in part due to viral evasion of host innate immune response.
+Although HCV genomic RNA contains pathogen-associated molecular pattern (PAMP) that is able to induce host interferon responses, HCV can shut down the responses by using the viral NS3/4A protease to cleave MAVS/VISA and TRIF, two key adaptor molecules essential for the interferon signaling activation.
+The aim of this study was to explore a novel NS3/4A-independent mechanism HCV utilizes to evade host innate immune responses.', attributes={'Label': 'BACKGROUND & AIMS', 'NlmCategory': 'OBJECTIVE'}), StringElement('We used the interferon promoter-reporter system to screen HCV encoded proteins for their activities to suppress the interferon signaling and to determine the molecular targets of viral proteins.
+Co-immunoprecipitation, confocal microscopy, and siRNA-based gene silencing were used to investigate the molecular mechanism.', attributes={'Label': 'METHODS', 'NlmCategory': 'METHODS'}), StringElement('We found that, in addition to NS3/4A, NS4B can suppress double-stranded RNA or RNA virus induced interferon activation.
+NS4B interacts with STING/MITA, an important molecule that mediates the HCV PAMP induced interferon signaling.
+Mechanistic studies indicated that NS4B disrupts the interactions between STING/MITA and TBK1.', attributes={'Label': 'RESULTS', 'NlmCategory': 'RESULTS'}), StringElement('In conclusion, we reported an additional mechanism for HCV evasion of host interferon responses in which viral NS4B protein targets STING/MITA to suppress the interferon signaling.
+Our results present important evidence for the control of interferon response by HCV, and shed more light on the molecular mechanisms underlying the persistence of HCV infection.'
+, attributes={'Label': 'CONCLUSIONS', 'NlmCategory': 'CONCLUSIONS'})] 
+24349538 Cell type-specific subcellular localization of phospho-TBK1 in response to cytoplasmic viral DNA. ['Cytoplasmic viral RNA and DNA are recognized by RIG-I-like receptors and DNA sensors that include DAI, IFI16, DDX41, and cGAS.
+The RNA and DNA sensors evoke innate immune responses through the IPS-1 and STING adaptors.
+IPS-1 and STING activate TBK1 kinase.
+TBK1 is phosphorylated in its activation loop, leading to IRF3/7 activation and Type I interferon (IFN) production.
+IPS-1 and STING localize to the mitochondria and endoplasmic reticulum, respectively, whereas it is unclear where phosphorylated TBK1 is localized in response to cytoplasmic viral DNA.
+Here, we investigated phospho-TBK1 (p-TBK1) subcellular localization using a p-TBK1-specific antibody.
+Stimulation with vertebrate DNA by transfection increased p-TBK1 levels.
+Interestingly, stimulation-induced p-TBK1 exhibited mitochondrial localization in HeLa and HepG2 cells and colocalized with mitochondrial IPS-1 and MFN-1.
+Hepatitis B virus DNA stimulation or herpes simplex virus type-1 infection also induced p-TBK1 mitochondrial localization in HeLa cells, indicating that cytoplasmic viral DNA induces p-TBK1 mitochondrial localization in HeLa cells.
+In contrast, p-TBK1 did not show mitochondrial localization in RAW264.7, L929, or T-23 cells, and most of p-TBK1 colocalized with STING in response to cytoplasmic DNA in those mammalian cells, indicating cell type-specific localization of p-TBK1 in response to cytoplasmic viral DNA. A previous knockout study showed that mouse IPS-1 was dispensable for Type I IFN production in response to cytoplasmic DNA.
+However, we found that knockdown of IPS-1 markedly reduced p-TBK1 levels in HeLa cells.
+Taken together, our data elucidated the cell type-specific subcellular localization of p-TBK1 and a cell type-specific role of IPS-1 in TBK1 activation in response to cytoplasmic viral DNA.'] 
+25297994 Unabated adenovirus replication following activation of the cGAS/STING-dependent antiviral response in human cells.
+[StringElement('The cGAS/STING DNA sensing complex has recently been established as a predominant pathogen recognition receptor (PRR) for DNA-directed type I interferon (IFN) innate immune activation.
+Using replication-defective adenovirus vectors and replication-competent wild-type adenovirus, we have modeled the influence of the cGAS/STING cascade in permissive human cell lines (A549, HeLa, ARPE19, and THP1).
+Wild-type adenovirus induced efficient early activation of the cGAS/STING cascade in a cell-specific manner.
+In all responsive cell lines, cGAS/STING short hairpin RNA (shRNA) knockdown resulted in a loss of TBK1 and interferon response factor 3 (IRF3) activation, a lack of beta interferon transcript induction, loss of interferon-dependent STAT1 activation, and diminished induction of interferon-stimulated genes (ISGs).
+Adenoviruses that infect through the coxsackievirus-adenovirus receptor (CAR) (Ad2 and Ad5) and the CD46 (Ad35) and desmoglein-2 (Ad7) viral receptors all induce the cGAS/STING/TBK1/IRF3 cascade.
+The magnitude of the IRF3/IFN/ISG antiviral response was strongly influenced by serotype, with Ad35>Ad7>Ad2.
+For each serotype, no enhancement of viral DNA replication or virus production occurred in cGAS or STING shRNA-targeted cell line pools.
+We found no replication advantage in permissive cell lines that do not trigger the cGAS/STING cascade following infection.
+The cGAS/STING/TBK1/IRF3 cascade was not a direct target of viral antihost strategies, and we found no evidence that Ad stimulation of the cGAS/STING DNA response had an impact on viral replication efficiency.', attributes={'Label': 'UNLABELLED'}), StringElement('This study shows for the first time that the cGAS DNA sensor directs a dominant IRF3/IFN/ISG antiviral response to adenovirus in human cell lines.
+Activation of cGAS occurs with viruses that infect through different high-affinity receptors (CAR, CD46, and desmoglein-2), and the magnitude of the cGAS/STING DNA response cascade is influenced by serotype-specific functions.
+Furthermore, activation of the cGAS cascade occurred in a cell-specific manner.
+Activation of the cGAS/STING response did not impact viral replication, and viral immune evasion strategies did not target the cGAS/STING/TBK1/IRF3 cascade.
+These studies provide novel insight into the early innate recognition response to adenovirus.', attributes={'Label': 'IMPORTANCE', 'NlmCategory': 'OBJECTIVE'})] 
+25968648 Dengue Virus NS Proteins Inhibit RIG-I/MAVS
+Signaling by Blocking TBK1/IRF3 Phosphorylation: Dengue Virus Serotype
+1 NS4A Is a Unique Interferon-Regulating Virulence Determinant.
+[StringElement('Dengue virus (DENV) replication is inhibited by the prior addition of type I interferon or by RIG-I agonists that elicit RIG-I/MAVS/TBK1/IRF3-dependent protective responses.
+DENV infection of primary human endothelial cells (ECs) results in a rapid increase in viral titer, which suggests that DENV inhibits replication-restrictive RIG-I/interferon beta (IFN-β) induction pathways within ECs.
+Our findings demonstrate that DENV serotype 4 (DENV4) nonstructural (NS) proteins NS2A and NS4B inhibited RIG-I-, MDA5-, MAVS-, and TBK1/IKKε-directed IFN-β transcription (>80%) but failed to inhibit IFN-β induction directed by STING or constitutively active IRF3-5D. Expression of NS2A and NS4B dose dependently inhibited the phosphorylation of TBK1 and IRF3, which suggests that they function at the level of TBK1 complex activation.
+NS2A and NS4B from DENV1/2/4, as well as the West Nile virus NS4B protein, commonly inhibited TBK1 phosphorylation and IFN-β induction.
+A comparative analysis of NS4A proteins across DENVs demonstrated that DENV1, but not DENV2 or DENV4, NS4A proteins uniquely inhibited TBK1.
+These findings indicate that DENVs contain conserved (NS2A/NS4B) and DENV1-specific (NS4A) mechanisms for inhibiting RIG-I/TBK1-directed IFN responses.
+Collectively, our results define DENV NS proteins that restrict IRF3 and IFN responses and thereby facilitate DENV replication and virulence.
+Unique DENV1-specific NS4A regulation of IFN induction has the potential to be a virulence determinant that contributes to the increased severity of DENV1 infections and the immunodominance of DENV1 responses during tetravalent DENV1-4 vaccination.',
+attributes={'Label': 'UNLABELLED'}), StringElement('Our findings demonstrate that NS2A and NS4B proteins from dengue virus serotypes 1, 2, and 4 are inhibitors of RIG-I/MDA5-directed interferon beta (IFN-β) induction and that they accomplish this by blocking TBK1 activation.
+We determined that IFN inhibition is functionally conserved across NS4B proteins from West Nile virus and DENV1, -2, and -4 viruses.
+In contrast, DENV1 uniquely encodes an extra IFN regulating protein, NS4A, that inhibits TBK1-directed IFN induction.
+DENV1 is associated with an increase in severe patient disease, and added IFN regulation by the DENV1 NS4A protein may contribute to increased DENV1 replication, immunodominance, and virulence.
+The regulation of IFN induction by nonstructural (NS) proteins suggests their potential roles in enhancing viral replication and spread and as potential protein targets for viral attenuation.
+DENV1-specific IFN regulation needs to be considered in vaccine strategies where enhanced DENV1 replication may interfere with DENV2-4 seroconversion within coadministered tetravalent DENV1-4 vaccines.', attributes={'Label': 'IMPORTANCE', 'NlmCategory': 'OBJECTIVE'})] 
+24131791 Identification of a negative feedback loop between cyclic di-GMP-induced levels of IFI16 and p202 cytosolic DNA sensors and STING. ['A host type I IFN response is induced by cytosolic sensing of the bacterial second messenger cyclic-di-GMP (c-di-GMP) by STING (stimulator of IFN genes).
+Because the STING, an adaptor protein, links the cytosolic detection of DNA by the cytosolic DNA sensors such as the IFN-inducible human IFI16 and murine p202 proteins to the TBK1/IRF3 axis, we investigated whether c-di-GMP-induced signaling could regulate expression of IFI16 and p202 proteins.
+Here, we report that activation of c-di-GMP-induced signaling in human and murine cells increased steady-state levels of IFI16 and p202 proteins.
+The increase was c-di-GMP concentration- and time-dependent.
+Unexpectedly, treatment of cells with type I IFN decreased levels of the adaptor protein STING.
+Therefore, we investigated whether the IFI16 or p202 protein could regulate the expression of STING and activation of the TBK1/IRF3 axis.
+We found that constitutive knockdown of IFI16 or p202 expression in cells increased steady-state levels of STING.
+Additionally, the knockdown of IFI16 resulted in activation of the TBK1/IRF3 axis.
+Accordingly, increased levels of the IFI16 or p202 protein in cells decreased STING levels.
+Together, our observations identify a novel negative feedback loop between c-di-GMP-induced levels of IFI16 and p202 cytosolic DNA sensors and the adaptor protein STING.'] 
+24560620 NLRC3, a member of the NLR family of proteins, is a negative regulator of innate immune signaling induced by the DNA sensor STING. ['Stimulator of interferon genes (STING, also named MITA, MYPS, or ERIS) is an intracellular DNA sensor that induces type I interferon through its interaction with TANK-binding kinase 1 (TBK1).
+Here we found that the nucleotide-binding, leucine-rich-repeat-containing protein, NLRC3, reduced STING-dependent innate immune activation in response to cytosolic DNA, cyclic di-GMP (c-di-GMP), and DNA viruses.
+NLRC3 associated with both STING and TBK1 and impeded STING-TBK1 interaction and downstream type I interferon production.
+By using purified recombinant proteins, we found NLRC3 to interact directly with STING.
+Furthermore, NLRC3 prevented proper trafficking of STING to perinuclear and punctated region, known to be important for its activation.
+In animals, herpes simplex virus 1 (HSV-1)-infected Nlrc3(-/-) mice exhibited enhanced innate immunity and reduced morbidity and viral load.
+This demonstrates the intersection of two key pathways of innate immune regulation, NLR and STING, to fine tune host response to intracellular DNA, DNA virus, and c-di-GMP.'] 
+26199418 Modulation of the cGAS-STING DNA sensing pathway by gammaherpesviruses.
+["Infection of cells with DNA viruses triggers innate immune responses mediated by DNA sensors.
+cGMP-AMP synthase (cGAS) is a key DNA sensor that produces the cyclic dinucleotide cGMP-AMP (cGAMP) upon activation, which binds to and activates stimulator of interferon genes (STING), leading to IFN production and an antiviral response.
+Kaposi's sarcoma-associated herpesvirus (KSHV) is a DNA virus that is linked to several human malignancies.
+We report that KSHV infection activates the cGAS-STING pathway, and that cGAS and STING also play an important role in regulating KSHV reactivation from latency.
+We screened KSHV proteins for their ability to inhibit this pathway and identified six viral proteins that block IFN-β activation through this pathway.
+This study is the first report identifying multiple viral proteins encoded by a human DNA virus that inhibit the cGAS-STING DNA sensing pathway.
+One such protein, viral interferon regulatory factor 1 (vIRF1), targets STING by preventing it from interacting with TANK binding kinase 1 (TBK1), thereby inhibiting STING's phosphorylation and concomitant activation, resulting in an inhibition of the DNA sensing pathway.
+Our data provide a unique mechanism for the negative regulation of STING-mediated DNA sensing.
+Moreover, the depletion of vIRF1 in the context of KSHV infection prevented efficient viral reactivation and replication, and increased the host IFN response to KSHV.
+The vIRF1-expressing cells also inhibited IFN-β production following infection with DNA pathogens.
+Collectively, our results demonstrate that gammaherpesviruses encode inhibitors that block cGAS-STING-mediated antiviral immunity, and that modulation of this pathway is important for viral transmission and the lifelong persistence of herpesviruses in the human population."] 
+27742471 Yersinia YopJ negatively regulates IRF3-mediated antibacterial response through disruption of STING-mediated cytosolic DNA signaling.
+[StringElement('The Yersinia outer protein J (YopJ) plays a pivotal role in evading the host immune response and establishes a persistent infection in host cells after bacterial infection.
+YopJ is a cysteine protease and can act as a deubiquitinating enzyme that deubiquitinates several targets in multiple signaling pathways.
+Stimulator of interferon genes (STING) is a critical adapter for the induction of interferon regulatory factor 3 (IRF3) phosphorylation and subsequent production of the cytokines in response to nucleic acids in the cytoplasm.
+Our studies demonstrate that YopJ targets STING to inhibit IRF3 signaling.
+Specially, YopJ interacts with STING to block its ER-to-Golgi traffic and remove its K63-linked ubiquitination chains.
+Deubiquited STING perturbs the formation of STING-TBK1 complex and the activation of IRF3.
+The 172th cysteine of YopJ mediated STING deubiquitination and IRF3 signaling inhibition.
+Consequently, mice infected with WT and ΔYopJ/YopJ bacteria induced lower levels of IRF3 and IFN-β, decreased inflammation and reduced staining of STING as compared to ΔYopJ and ΔYopJ/YopJ C172A strains infection.
+The data herein reveal a previously unrecognized mechanism by which YopJ modulates innate immune signaling.'
+, attributes={'NlmCategory': 'UNASSIGNED'})] 
+23746807 Structural insights into the functions of TBK1 in innate antimicrobial immunity.
+['Tank-binding kinase 1 (TBK1) is a serine/threonine protein-kinase mediating innate antimicrobial immunity.
+TBK1 is involved in the signaling of TLRs, RLRs, and STING-mediated sensing of cytosolic DNA. Stimulation of these receptors results in the activation of TBK1, which phosphorylates interferon regulatory factor (IRF)-3.
+Phosphorylated IRF-3 translocates into the nucleus to initiate the transcription of the interferon (IFN)-β gene.
+Here, we show that TBK1 is activated by autophosphorylation at residue Ser172.
+Structures of TBK1 bound to two inhibitors showed that TBK1 has the IκB kinase fold with three distinct domains: the kinase domain, the ubiquitin-like domain, and the scaffold and dimerization domain.
+However, the overall structures of the TBK1 monomer and its dimer are different from IKKβ in the arrangements of the three domains and in dimer formation.
+Phosphorylation of IRF-3 by TBK1 in\xa0vitro results in its oligomerization, and phosphorylation of residue Ser386 plays a key role in IRF-3 activation.'] 
+25810395 Casein kinase II controls TBK1/IRF3 activation in IFN response against viral infection.
+['By sensing viral nucleic acids, host innate receptors elicit signaling pathways converging on TBK1-IFN regulatory factor (IRF)3 axis in mediating IFN-αβ induction and defense mechanisms.
+In contrast, viruses have evolved with diverse immune evasion/interference mechanisms to undermine innate receptor signaling and IFN response.
+In this regard, approaches enabling host to overcome such immune evasion/interference mechanisms are urgently needed to combat infections by epidemic/pandemic viruses.
+In this study, we report that protein kinase CK2 serves as a key component controlling TBK1 and IRF3 activation in IFN-inducing TLR, RIG-I-like receptors, and cGAS/STING signaling pathways.
+Accordingly, knocking down of CK2 expression or genetic ablation of its kinase activity resulted in elevated IFN-αβ response in response to infection by DNA and RNA viruses.
+Moreover, PP2A was identified as one of the intermediate phosphatases responsible for CK2-regulated IFN response, suggesting that CK2 may regulate TBK1 and IRF3 activation indirectly.
+Importantly, blockade of CK2 activity by small molecule inhibitor was able to activate TBK1, whereby eliciting effective host defense mechanisms against hepatitis C virus infection.
+Taken together, our results identify CK2 as a novel regulator of TBK1 and IRF3 and suggest that targeting CK2 by small molecular inhibitor may be a viable approach to prevent and treat viral infections.'] 
+25704810 Bruton's tyrosine kinase phosphorylates DDX41 and activates its binding of dsDNA and STING to initiate type 1 interferon response.
+["The innate immune system senses cytosolic dsDNA and bacterial cyclic dinucleotides and initiates signaling via the adaptor STING to induce type 1 interferon (IFN) response.
+We demonstrate here that BTK-deficient cells have impaired IFN-β production and TBK1/IRF3 activation when stimulated with agonists or infected with pathogens that activate STING signaling.
+BTK interacts with STING and DDX41 helicase.
+The kinase and SH3/SH2 interaction domains of BTK bind, respectively, the DEAD-box domain of DDX41 and transmembrane region of STING. BTK phosphorylates DDX41, and its kinase activities are critical for STING-mediated IFN-β production.
+We show that Tyr364 and Tyr414 of DDX41 are critical for its recognition of AT-rich DNA and binding to STING, and tandem mass spectrometry identifies Tyr414 as the BTK phosphorylation site.
+Modeling\xa0studies further indicate that phospho-Tyr414 strengthens DDX41's interaction with STING.
+Hence, BTK plays a critical role in the activation of DDX41 helicase and STING signaling."] 
+26468527 Hepatitis C Virus NS4B Can Suppress STING Accumulation To Evade Innate Immune Responses.
+[StringElement("The cyclic dinucleotide 2',3'-cGAMP can bind the adaptor protein STING (stimulator of interferon [IFN] genes) to activate the production of type I IFNs and proinflammatory cytokines.
+We found that cGAMP added to the culture medium could suppress the replication of the hepatitis C virus (HCV) genotype 1b strain Con1 subgenomic replicon in human hepatoma cells.
+Knockdown of STING expression diminished the inhibitory effect on replicon replication, while overexpression of STING enhanced the inhibitory effects of cGAMP.
+The addition of cGAMP into 1b/Con1 replicon cells significantly increased the expression of type I IFNs and antiviral interferon-stimulated genes.
+Unexpectedly, replication of the genotype 2a JFH1 replicon and infectious JFH1 virus was less sensitive to the inhibitory effect of cGAMP than was that of 1b/Con1 replicon.
+Using chimeric replicons, 2a
+NS4B was identified to confer resistance to cGAMP. Transient expression of 2a NS4B resulted in a pronounced inhibitory effect on STING-mediated beta IFN (IFN-β) reporter activation compared to that of 1b NS4B. 2a NS4B was found to suppress STING accumulation in a dose-dependent manner.
+The predicted transmembrane domain of 2a NS4B was required to inhibit STING accumulation.
+These results demonstrate a novel genotype-specific inhibition of the STING-mediated host antiviral immune response.", attributes={'Label': 'UNLABELLED'}), StringElement('The cyclic dinucleotide cGAMP was found to potently inhibit the replication of HCV genotype 1b Con1 replicon but was less effective for the 2a/JFH1 replicon and infectious JFH1 virus.
+The predicted transmembrane domain in 2a NS4B was shown to be responsible for the decreased sensitivity to cGAMP. The N terminus of NS4B has been reported to suppress STING-mediated signaling by disrupting the interaction of STING and TBK1 and/or MAVS. We show that 2a/JFH1 NS4B has an additional mechanism to evade STING signaling through suppressing STING accumulation.', attributes={'Label': 'IMPORTANCE', 'NlmCategory': 'OBJECTIVE'})] 
+26235147 STING Activation by Translocation from the ER Is Associated with Infection and Autoinflammatory Disease.
+['STING is an ER-associated membrane protein that is critical for innate immune sensing of pathogens.
+STING-mediated activation of the IFN-I pathway through the TBK1/IRF3 signaling axis involves both cyclic-dinucleotide binding and its translocation from the ER to vesicles.
+However, how these events are coordinated, and the exact mechanism of STING activation, remain poorly understood.
+Here, we found that the Shigella effector protein IpaJ potently inhibits STING signaling by blocking its translocation from the ER to ERGIC, even in the context of dinucleotide binding.
+Reconstitution using purified components revealed STING translocation as the rate-limiting event in maximal signal transduction.
+Furthermore, STING mutations associated with autoimmunity in humans were found to cause constitutive ER exit and to activate STING independent of cGAMP binding.
+Together, these data provide compelling evidence for an ER retention and ERGIC/Golgi-trafficking mechanism of STING regulation that is subverted by bacterial pathogens and is deregulated in human genetic disease.'] 
+22579474 Structural analysis of the STING adaptor protein reveals a hydrophobic dimer interface and mode of cyclic di-GMP binding.
+['STING is an essential signaling molecule for DNA and cyclic di-GMP (c-di-GMP)-mediated type I interferon (IFN) production via TANK-binding kinase 1 (TBK1) and interferon regulatory factor 3 (IRF3) pathway.
+It contains an N-terminal transmembrane region and a cytosolic C-terminal domain (CTD).
+Here, we describe crystal structures of STING CTD alone and\xa0complexed with c-di-GMP in a unique binding mode.
+The strictly conserved aa 153-173 region was shown to be cytosolic and participated in dimerization via hydrophobic interactions.
+The STING CTD functions as a dimer and the dimerization was independent of posttranslational modifications.
+Binding of c-di-GMP enhanced interaction of a shorter construct of STING CTD (residues 139-344) with TBK1.
+This suggests an extra TBK1 binding site, other than serine 358.
+This study provides a glimpse into the unique architecture of STING and sheds light\xa0on the mechanism of c-di-GMP-mediated TBK1 signaling.'] 
+22394560
+The STING in the tail for cytosolic DNA-dependent activation of IRF3.
+['Cytosolic pattern recognition receptors (PRRs) sense intracellular nucleic acids from pathogens such as bacteria and viruses, which leads to the induction of type I interferon (IFN) responses that are essential for an effective immune response.
+Further, these PRR pathways can be aberrantly activated by self DNA, which leads to autoimmunity.
+Therefore, understanding the signaling mechanisms that underlie PRR-induced production of IFN is vital to health and disease.
+A key transcription factor that is involved in these pathways is IFN regulatory factor 3 (IRF3), which is often activated by the kinase TANK-binding kinase 1 (TBK1).
+STING (stimulator of interferon genes) is a master regulator for the cyto-solic nucleic acid-mediated activation of IRF3 through TBK1 stimulation, but how the STING-TBK1-IRF3 signaling axis operates has been unclear.
+A study now shows that in response to cytosolic double-stranded DNA, the C-terminal tail of STING provides a scaffold to assemble IRF3 and TBK1, which leads to TBK1-dependent phosphorylation of IRF3.
+Thus, STING directs TBK1 to activate IRF3 in DNA-sensing pathways.'] 
+23519410 Novel c-di-GMP recognition modes of the mouse innate immune adaptor protein STING. ['The mammalian ER protein STING (stimulator of interferon genes; also known as MITA, ERIS, MPYS or TMEM173) is an adaptor protein that links the detection of cytosolic dsDNA to the activation of TANK-binding kinase 1 (TBK1) and its downstream transcription factor interferon regulatory factor 3 (IFN3).
+Recently, STING itself has been found to be the direct receptor of bacterial c-di-GMP, and crystal structures of several human STING C-terminal domain (STING-CTD) dimers in the apo form or in complex with c-di-GMP have been published.
+Here, a novel set of structures of mouse STING-CTD (mSTING(137-344)) in apo and complex forms determined from crystals obtained under different crystallization conditions are reported.
+These novel closed-form structures exhibited considerable differences from previously reported open-form human STING-CTD structures.
+The novel mSTING structures feature extensive interactions between the two monomers, a unique asymmetric c-di-GMP molecule with one guanine base in an unusual syn conformation that is well accommodated in the dimeric interface with many direct specific interactions and two unexpected equivalent secondary peripheral c-di-GMP binding sites.
+Replacement of the amino acids crucial for specific c-di-GMP binding in mSTING significantly changes the ITC titration profiles and reduces the IFN-β reporter luciferase activity.
+Taken together, these results reveal a more stable c-di-GMP binding mode of STING proteins that could serve as a template for rational drug design to stimulate interferon production by mammalian cells.'] 
+25790474 Single amino acid change in STING leads to constitutive active signaling.
+['The production of cytokines by the immune system in response to cytosolic DNA plays an important role in host defense, autoimmune disease, and cancer immunogenicity.
+Recently a cytosolic DNA signaling pathway that is dependent on the endoplasmic reticulum adaptor and cyclic dinucleotide sensor protein STING has been identified.
+Association of cytosolic DNA with cyclic-GMP-AMP synthase (cGAS) activates its enzymatic activity to synthesize the cyclic dinucleotide second messenger cGAMP from GTP and ATP. Direct detection of cGAMP by STING triggers the activation of IRF3 and NF-kB, and the production of type I interferons and proinflammatory cytokines.
+The mechanism of how STING is able to mediate downstream signaling remains incompletely understood although it has been shown that dimerization is a prerequisite.
+Here, we identify a single amino acid change in STING that confers constitutive active signaling.
+This mutation appears to both enhance ability of STING to both dimerize and associate with its downstream target TBK1.'] 
+22312431 Coronavirus papain-like proteases negatively regulate antiviral innate immune response through disruption of STING-mediated signaling.
+['Viruses have evolved elaborate mechanisms to evade or inactivate the complex system of sensors and signaling molecules that make up the host innate immune response.
+Here we show that human coronavirus (HCoV) NL63 and severe acute respiratory syndrome (SARS)
+CoV papain-like proteases (PLP) antagonize innate immune signaling mediated by STING (stimulator of interferon genes, also known as MITA/ERIS/MYPS).
+STING resides in the endoplasmic reticulum and upon activation, forms dimers which assemble with MAVS, TBK-1 and IKKε, leading to IRF-3 activation and subsequent induction of interferon (IFN).
+We found that expression of the membrane anchored PLP domain from human HCoV-NL63 (PLP2-TM) or SARS-CoV (PLpro-TM) inhibits STING-mediated activation of IRF-3 nuclear translocation and induction of IRF-3 dependent promoters.
+Both catalytically active and inactive forms of CoV PLPs co-immunoprecipitated with STING, and viral replicase proteins co-localize with STING in HCoV-NL63-infected cells.
+Ectopic expression of catalytically active PLP2-TM blocks STING dimer formation and negatively regulates assembly of STING-MAVS-TBK1/IKKε complexes required for activation of IRF-3.
+STING dimerization was also substantially reduced in cells infected with SARS-CoV.
+Furthermore, the level of ubiquitinated forms of STING, RIG-I, TBK1 and IRF-3 are reduced in cells expressing wild type or catalytic mutants of PLP2-TM, likely contributing to disruption of signaling required for IFN induction.
+These results describe a new mechanism used by CoVs in which CoV PLPs negatively regulate antiviral defenses by disrupting the STING-mediated IFN induction.'] 
+27043414 S6K-STING interaction regulates cytosolic DNA-mediated activation of the transcription factor IRF3.
+['Cytosolic DNA-mediated activation of the transcription factor IRF3 is a key event in host antiviral responses.
+Here we found that infection with DNA viruses induced interaction of the metabolic checkpoint kinase mTOR downstream effector and kinase S6K1 and the signaling adaptor STING in a manner dependent on the DNA sensor cGAS. We further demonstrated that the kinase domain, but not the kinase function, of S6K1 was required for the S6K1-STING interaction and that the TBK1 critically promoted this process.
+The formation of a tripartite S6K1-STING-TBK1 complex was necessary for the activation of IRF3, and disruption of this signaling axis impaired the early-phase expression of IRF3 target genes and the induction of T cell responses and mucosal antiviral immunity.
+Thus, our results have uncovered a fundamental regulatory mechanism for the activation of IRF3 in the cytosolic DNA pathway.'] 
+26915459 TRIM9 short isoform preferentially promotes DNA and RNA virus-induced production of type I interferon by recruiting GSK3β to TBK1.
+['Type I interferon (IFN) is an important component of antiviral innate immune signaling mediated by viral DNA and RNA recognition by the DNA sensor cGAS and RNA sensors RIG-I and MDA5.
+Activation of these DNA and RNA sensors leads to the recruitment of STING and MAVS, respectively, and converges on TANK-binding kinase 1 (TBK1) signaling for subsequent phosphorylation of IFN regulatory factor 3 (IRF3).
+However, the mechanisms that control TBK1 activation are still poorly defined.
+Here, we identify tripartite motif 9 short isoform (TRIM9s) as a positive regulator in type I IFN signaling.
+Upon viral infection, TRIM9s undergoes Lys-63-linked auto-polyubiquitination and serves as a platform to bridge GSK3β to TBK1, leading to the activation of IRF3 signaling.
+Interestingly, we found that TRIM9s selectively inhibits the production of pro-inflammatory cytokines, but enhances the expression of type I IFNs as well as IFN-stimulated genes, in response to viral infection.
+Our findings reveal novel dual functions of TRIM9s in antiviral immunity, which serve to balance pro-inflammatory response and production of type I IFNs.'] 
+23264039 Binding of bacterial secondary messenger molecule c di-GMP is a STING operation.
+["Initial skirmishes between the host and pathogen result in spillage of the contents of the bacterial cell.
+Amongst the spillage, the secondary messenger molecule, cyclic dimeric guanosine monophosphate (c di-GMP), was recently shown to be bound by stimulator of interferon genes (STING).
+Binding of c di-GMP by STING activates the Tank Binding Kinase (TBK1) mediated signaling cascades that galvanize the body's defenses for elimination of the pathogen.
+In addition to c di-GMP, STING has also been shown to function in innate immune responses against pathogen associated molecular patterns (PAMPs) originating from the DNA or RNA of pathogens.
+The pivotal role of STING in host defense is exemplified by the fact that STING(-/-) mice die upon infection by HSV-1.
+Thus, STING plays an essential role in innate immune responses against pathogens.
+This opens up an exciting possibility of targeting STING for development of adjuvant therapies to boost the immune defenses against invading microbes.
+Similarly, STING could be targeted for mitigating the inflammatory responses augmented by the innate immune system.
+This review summarizes and updates our current understanding of the role of STING in innate immune responses and discusses the future challenges in delineating the mechanism of STING-mediated responses."] 
+22312267 Molecular cloning and functional characterization of Tibetan Porcine STING. ['Tibetan pig is well known for its strong disease resistance.
+However, little is known about the molecular basis of its strong resistance to disease.
+Stimulator of interferon (IFN) genes (STING), also known as MPYS/MITA/ERIS/TMEM173, is an adaptor that functions downstream of RIG-I and MAVS and upstream of TBK1 and plays a critical role in type I IFN induction.
+Here we report the first cloning and characterization of STING gene from Tibetan pig.
+The entire open reading frame (ORF) of the Tibetan porcine STING is 1137 bp, with a higher degree of sequence similarity with Landrace pig (98%) and cattle (88%) than with chimpanzee (84%), human (83%) or mouse (77%).
+The predicted protein is composed of 378 amino acids and has 4 putative transmembrane domains.
+Real-time quantitative PCR analysis indicated that Tibetan pig STING mRNA was most abundant in the lung and heart.
+Overexpression of Tibetan porcine STING led to upregulation of IFN-β and IFN-stimulated gene 15 (ISG15) in porcine jejunal epithelial cell line IPEC-J2 cells.
+This is the first study investigating the biological role of STING in intestinal epithelial cells, which lays a foundation for the further study of STING in intestinal innate immunity.'] 
+23604073 Species-specific detection of the antiviral small-molecule compound CMA by STING. ['Extensive research on antiviral small molecules starting in the early 1970s has led to the identification of 10-carboxymethyl-9-acridanone (CMA) as a potent type I interferon (IFN) inducer.
+Up to date, the mode of action of this antiviral molecule has remained elusive.
+Here we demonstrate that CMA mediates a cell-intrinsic type I IFN response, depending on the ER-resident protein STING. CMA directly binds to STING and triggers a strong antiviral response through the TBK1/IRF3 route.
+Interestingly, while CMA displays extraordinary activity in phosphorylating IRF3 in the murine system, CMA fails to activate human cells that are otherwise responsive to STING ligands.
+This failure to activate human STING can be ascribed to its inability to bind to the C-terminal ligand-binding domain of human STING. Crystallographic studies show that two CMA molecules bind to the central Cyclic diguanylate (c-diGMP)-binding pocket of the STING dimer and fold the lid region in a fashion similar, but partially distinct, to c-diGMP.
+Altogether, these results provide novel insight into ligand-sensing properties of STING and, furthermore, unravel unexpected species-specific differences of this innate sensor.'] 
+22387590 Cloning and functional characterization of rat stimulator of interferon genes (STING) regulated by miR-24.
+["Stimulator of interferon (IFN) genes (STING), also known as MPYS/MITA/ERIS/TMEM173, is a recently discovered adaptor protein that functions downstream of RIG-I and upstream of TBK1 and plays an important role in type I interferon (IFN) production.
+Mammalian STINGs have been isolated from human, mouse, pig, cattle and chimpanzee.
+In this study, the rat STING cDNA was cloned by degenerate PCR and rapid amplification of 3'-cDNA ends (3'-RACE) strategies.
+The full-length cDNA of rat STING consists of 1615 bp with a 1140-bp open reading frame (ORF).
+The predicted protein is composed of 379 amino acids and contains 2 putative transmembrane domains.
+The amino acid similarities between the STING from rat and other mammals range from 68% to 82%.
+Real-time quantitative PCR analysis indicated that rat STING mRNA was most abundant in the spleen, pancreas and lymph node.
+Overexpression of rat STING led to upregulation of IFN-β mRNA expression in IEC-6 cells.
+Rat STING mRNA was up-regulated when IEC-6 cells were transfected with poly (I:C).
+In addition, a miR-24 binding site in the 3'UTR of rat STING was identified.
+We also found that endogenous STING could be regulated post-transcriptionally by miR-24 in IEC-6 cells.
+These results are of importance to reveal the biological function of STING in rat animal model."] 
+19926846 Atg9a controls dsDNA-driven dynamic translocation of STING and the innate immune response.
+['Microbial nucleic acids are critical for the induction of innate immune responses, a host defense mechanism against infection by microbes.
+Recent studies have indicated that double-stranded DNA (dsDNA) induces potent innate immune responses via the induction of type I IFN (IFN) and IFN-inducible genes.
+However, the regulatory mechanisms underlying dsDNA-triggered signaling are not fully understood.
+Here we show that the translocation and assembly of the essential signal transducers, stimulator of IFN genes (STING) and TANK-binding kinase 1 (TBK1), are required for dsDNA-triggered innate immune responses.
+After sensing dsDNA, STING moves from the endoplasmic reticulum (ER) to the Golgi apparatus and finally reaches the cytoplasmic punctate structures to assemble with TBK1.
+The addition of an ER-retention signal to the C terminus of STING dampens its ability to induce antiviral responses.
+We also show that STING co-localizes with the autophagy proteins, microtubule-associated protein 1 light chain 3 (LC3) and autophagy-related gene 9a (Atg9a), after dsDNA stimulation.
+The loss of Atg9a, but not that of another autophagy-related gene (Atg7), greatly enhances the assembly of STING and TBK1 by dsDNA, leading to aberrant activation of the innate immune response.
+Hence Atg9a functions as a regulator of innate immunity following dsDNA stimulation as well as an essential autophagy protein.
+These results demonstrate that dynamic membrane traffic mediates the sequential translocation and assembly of STING, both of which are essential processes required for maximal activation of the innate immune response triggered by dsDNA.'] 
+24631580 Identification, characterization and immunological response analysis of stimulator of interferon gene (STING) from grass carp Ctenopharyngodon idella.
+["Stimulator of interferon gene (STING), an important adapter responsible for RLR pathway, plays a pivotal role in both viral RNA- and DNA-triggered induction of IFNs in mammals.
+To understand the roles of STING in piscine immune system, STING gene (CiSTING) was identified from grass carp (Ctenopharyngodon idella).
+The genomic sequence of CiSTING was of 8548 base pairs (bp), including 899 bp 5' flank region, 7 exons and 6 introns.
+Promoter region was predicted and promoter activity was verified.
+The CiSTING cDNA was of 1358 bp with an open reading frame of 1185 bp, encoding a polypeptide of 394 amino acids with a signal peptide and three transmembrane motifs in the N-terminal region.
+mRNA expression of CiSTING was widespread in fifteen tissues investigated, and was up-regulated by GCRV in vivo and in vitro.
+Meanwhile, the transcription of CiSTING was inhibited at early stage, and then up-regulated at late phase upon poly(I:C) or PGN stimulation in vitro.
+Interestingly, CiSTING had little impact on LPS in vitro.
+In CiSTING over-expression cells, CiTBK1, CiIRF3 and CiIRF7 were significantly up-regulated post GCRV or viral/bacterial PAMPs stimulation.
+In addition, post GCRV or PGN stimulation, the transcription of CiIFN-I was remarkably inhibited while CiMx1 was up-regulated; as for poly(I:C) stimulation, mRNA expressions of CiIFN-I and CiMx1 were inhibited at early stage while enhanced at late phrase; after LPS stimulation, both CiIFN-I and CiMx1 were inhibited.
+Furthermore, antiviral activity of CiSTING was manifested by the inhibition of GCRV yield.
+Taken together, these results demonstrated that CiSTING may be involved in board innate immune responses via the TBK1-IRF3/IRF7 cascade, responding to not only dsRNA analogue in an IFN-dependent pathway, but also virus and bacterial PAMPs in an IFN-independent pathway.
+This study provided novel insights into the essential role of STING in innate immunity."] 
+25636800 Phosphorylation of innate immune adaptor proteins MAVS, STING, and TRIF induces IRF3 activation.
+['During virus infection, the adaptor proteins MAVS and STING transduce signals from the cytosolic nucleic acid sensors RIG-I and cGAS, respectively, to induce type I interferons (IFNs) and other antiviral molecules.
+Here we show that MAVS and STING harbor two conserved serine and threonine clusters that are phosphorylated by the kinases IKK and/or TBK1 in response to stimulation.
+Phosphorylated MAVS and STING then bind to a positively charged surface of interferon regulatory factor 3 (IRF3) and thereby recruit IRF3 for its phosphorylation and activation by TBK1.
+We further show that TRIF, an adaptor protein in Toll-like receptor signaling, activates IRF3 through a similar phosphorylation-dependent mechanism.
+These results reveal that phosphorylation of innate adaptor proteins is an essential and conserved mechanism that selectively recruits IRF3 to activate the type I IFN pathway.'] 
+21947006 STING is a direct innate immune sensor of cyclic di-GMP. ['The innate immune system detects infection by using germline-encoded receptors that are specific for conserved microbial molecules.
+The recognition of microbial ligands leads to the production of cytokines, such as type I interferons (IFNs), that are essential for successful pathogen elimination.
+Cytosolic detection of pathogen-derived DNA is one major mechanism of inducing IFN production, and this process requires signalling through TANK binding kinase 1 (TBK1) and its downstream transcription factor, IFN-regulatory factor 3 (IRF3).
+In addition, a transmembrane protein called STING (stimulator of IFN genes; also known as MITA, ERIS, MPYS and TMEM173) functions as an essential signalling adaptor, linking the cytosolic detection of DNA to the TBK1-IRF3 signalling axis.
+Recently, unique nucleic acids called cyclic dinucleotides, which function as conserved signalling molecules in bacteria, have also been shown to induce a STING-dependent type I IFN response.
+However, a mammalian sensor of cyclic dinucleotides has not been identified.
+Here we report evidence that STING itself is an innate immune sensor of cyclic dinucleotides.
+We demonstrate that STING binds directly to radiolabelled cyclic diguanylate monophosphate (c-di-GMP), and we show that unlabelled cyclic dinucleotides, but not other nucleotides or nucleic acids, compete with c-di-GMP for binding to STING.
+Furthermore, we identify mutations in STING that selectively affect the response to cyclic dinucleotides without affecting the response to DNA.
+Thus, STING seems to function as a direct sensor of cyclic dinucleotides, in addition to its established role as a signalling adaptor in the IFN response to cytosolic DNA. Cyclic dinucleotides have shown promise as novel vaccine adjuvants and immunotherapeutics, and our results provide insight into the mechanism by which cyclic dinucleotides are sensed by the innate immune system.'] 
+24119841 Cyclic dinucleotides trigger ULK1 (ATG1) phosphorylation of STING to prevent sustained innate immune signaling.
+['Activation of the stimulator of interferon genes (STING) pathway by microbial or self-DNA, as well as cyclic dinucleotides (CDNs), results in the induction of numerous genes that suppress pathogen replication and facilitate adaptive immunity.
+However, sustained gene transcription is rigidly prevented to avoid lethal STING-dependent proinflammatory disease by mechanisms that remain unknown.
+We demonstrate here that, after autophagy-dependent STING delivery of TANK-binding kinase 1 (TBK1) to endosomal/lysosomal compartments and activation of transcription factors interferon regulatory factor 3 (IRF3) and NF-κB, STING is subsequently phosphorylated by serine/threonine UNC-51-like kinase (ULK1/ATG1), and IRF3 function is suppressed.
+ULK1 activation occurred following disassociation from its repressor AMP activated protein kinase (AMPK) and was elicited by CDNs generated by the cGAMP synthase, cGAS.
+Thus, although CDNs may initially facilitate STING function, they subsequently trigger negative-feedback control of STING activity, thus preventing the persistent transcription of innate immune genes.'] 
+25299331
+The ER-associated protein ZDHHC1 is a positive regulator of DNA virus-triggered, MITA/STING-dependent innate immune signaling.
+['Viral DNA sensing within the cytosol of infected cells activates type I interferon (IFN) expression.
+MITA/STING plays an essential role in this pathway by acting as both a sensor for the second messenger cGAMP and as an adaptor for downstream signaling components.
+In an expression screen for proteins that can activate the IFNB1 promoter, we identified the ER-associated protein ZDHHC1 as a positive regulator of virus-triggered, MITA/STING-dependent immune signaling.
+Zdhhc1(-/-) cells failed to effectively produce IFNs and other cytokines in response to infection with DNA but not RNA viruses.
+Zdhhc1(-/-) mice infected with the neurotropic DNA virus HSV-1 exhibited lower cytokine levels and higher virus titers in the brain, resulting in higher lethality.
+ZDHHC1 constitutively associated with MITA/STING and mediates dimerization/aggregation of MITA/STING and recruitment of the downstream signaling components TBK1 and IRF3.
+These findings support a role for ZDHHC1 in mediating MITA/STING-dependent innate immune response against DNA viruses.'] 
+24743339 Modified vaccinia virus Ankara triggers type I IFN production in murine conventional dendritic cells via a cGAS/STING-mediated cytosolic DNA-sensing pathway.
+['Modified vaccinia virus Ankara (MVA) is an attenuated poxvirus that has been engineered as a vaccine against infectious agents and cancers.
+Our goal is to understand how MVA modulates innate immunity in dendritic cells (DCs), which can provide insights to vaccine design.
+In this study, using murine bone marrow-derived dendritic cells, we assessed type I interferon (IFN) gene induction and protein secretion in response to MVA infection.
+We report that MVA infection elicits the production of type I IFN in murine conventional dendritic cells (cDCs), but not in plasmacytoid dendritic cells (pDCs).
+Transcription factors IRF3 (IFN regulatory factor 3) and IRF7, and the positive feedback loop mediated by IFNAR1 (IFN alpha/beta receptor 1), are required for the induction.
+MVA induction of type I IFN is fully dependent on STING (stimulator of IFN genes) and the newly discovered cytosolic DNA sensor cGAS (cyclic guanosine monophosphate-adenosine monophosphate synthase).
+MVA infection of cDCs triggers phosphorylation of TBK1 (Tank-binding kinase 1) and IRF3, which is abolished in the absence of cGAS and STING.
+Furthermore, intravenous delivery of MVA induces type I IFN in wild-type mice, but not in mice lacking STING or IRF3.
+Treatment of cDCs with inhibitors of endosomal and lysosomal acidification or the lysosomal enzyme Cathepsin B attenuated MVA-induced type I IFN production, indicating that lysosomal enzymatic processing of virions is important for MVA sensing.
+Taken together, our results demonstrate a critical role of the cGAS/STING-mediated cytosolic DNA-sensing pathway for type I IFN induction in cDCs by MVA. We present evidence that vaccinia virulence factors E3 and N1 inhibit the activation of IRF3 and the induction of IFNB gene in MVA-infected cDCs.'] 
+22869119 Crystallization studies of the murine c-di-GMP sensor protein STING. ['The innate immune response is the first defence system against pathogenic microorganisms, and cytosolic detection of pathogen-derived DNA is believed to be one of the major mechanisms of interferon production.
+Recently, the mammalian ER membrane protein STING (stimulator of IFN genes; also known as MITA, ERIS, MPYS and TMEM173) has been found to be the master regulator linking the detection of cytosolic DNA to TANK-binding kinase 1 (TBK1) and its downstream transcription factor IFN regulatory factor 3 (IRF3).
+In addition, STING itself was soon discovered to be a direct sensor of bacterial cyclic dinucleotides such as c-di-GMP or c-di-AMP.
+However, structural studies of apo STING and its complexes with these cyclic dinucleotides and with other cognate binding proteins are essential in order to fully understand the roles played by STING in these crucial signalling pathways.
+In this manuscript, the successful crystallization of the C-terminal domain of murine STING (STING-CTD; residues 138-344) is reported.
+Native and SeMet-labelled crystals were obtained and diffracted to moderate resolutions of 2.39 and 2.2\u2005Å, respectively.'] 
+23585680 Mouse, but not human STING, binds and signals in response to the vascular disrupting agent 5,6-dimethylxanthenone-4-acetic acid.
+['Vascular disrupting agents such as 5,6-dimethylxanthenone-4-acetic acid (DMXAA) represent a novel approach for cancer treatment.
+DMXAA has potent antitumor activity in mice and, despite significant preclinical promise, failed human clinical trials.
+The antitumor activity of DMXAA has been linked to its ability to induce type I IFNs in macrophages, although the molecular mechanisms involved are poorly understood.
+In this study, we identify stimulator of IFN gene (STING) as a direct receptor for DMXAA leading to TANK-binding kinase 1 and IFN regulatory factor 3 signaling.
+Remarkably, the ability to sense DMXAA was restricted to murine STING. Human STING failed to bind to or signal in response to DMXAA. Human STING also failed to signal in response to cyclic dinucleotides, conserved bacterial second messengers known to bind and activate murine STING signaling.
+Collectively, these findings detail an unexpected species-specific role for STING as a receptor for an anticancer drug and uncover important insights that may explain the failure of DMXAA in clinical trials for human cancer.'] 
+25385820 STING-mediated DNA sensing promotes antitumor and autoimmune responses to dying cells.
+['Adaptive immune responses to Ags released by dying cells play a critical role in the development of autoimmunity, allograft rejection, and spontaneous as well as therapy-induced tumor rejection.
+Although cell death in these situations is considered sterile, various reports have implicated type I IFNs as drivers of the ensuing adaptive immune response to cell-associated Ags.
+However, the mechanisms that underpin this type I IFN production are poorly defined.
+In this article, we show that dendritic cells (DCs) can uptake and sense nuclear DNA-associated entities released by dying cells to induce type I IFN.
+Remarkably, this molecular pathway requires STING, but not TLR or NLR function, and results in the activation of IRF3 in a TBK1-dependent manner.
+DCs are shown to depend on STING function in vivo to efficiently prime IFN-dependent CD8(+) T cell responses to tumor Ags.
+Furthermore, loss of STING activity in DCs impairs the generation of follicular Th cells and plasma cells, as well as anti-nuclear Abs, in an inducible model of systemic lupus erythematosus.
+These findings suggest that the STING pathway could be manipulated to enable the rational design of immunotherapies that enhance or diminish antitumor and autoimmune responses, respectively.'] 
+25007740
+The mechanism of double-stranded DNA sensing through the cGAS-STING pathway.
+["Microbial nucleic acids induce potent innate immune responses by stimulating the expression of type I interferons.
+Cyclic GMP-AMP synthase (cGAS) is a cytosolic dsDNA sensor mediating the innate immunity to microbial DNA. cGAS is activated by dsDNA and catalyze the synthesis of a cyclic dinucleotide cGAMP with 2',5' and 3',5'phosphodiester linkages.
+cGAMP binds to the adaptor STING located on the endoplasmic reticulum membrane and mediates the recruitment and activation of the protein kinase TBK1 and transcription factor IRF3.
+Phosphorylated IRF3 translocates to the nucleus and initiates the transcription of the IFN-β gene.
+The crystal structures of cGAS and its complex with dsDNA, STING and its complex with various cyclic dinucleotides have been determined recently.
+Here we summarize the results from these structural studies and provide an overview about the mechanism of cGAS activation by dsDNA, the catalytic mechanism of cGAS, and the structural basis of STING activation by cGAMP."] 
+19776740 STING regulates intracellular DNA-mediated, type I interferon-dependent innate immunity.
+['The innate immune system is critical for the early detection of invading pathogens and for initiating cellular host defence countermeasures, which include the production of type I interferon (IFN).
+However, little is known about how the innate immune system is galvanized to respond to DNA-based microbes.
+Here we show that STING (stimulator of interferon genes) is critical for the induction of IFN by non-CpG intracellular DNA species produced by various DNA pathogens after infection.
+Murine embryonic fibroblasts, as well as antigen presenting cells such as macrophages and dendritic cells (exposed to intracellular B-form DNA, the DNA virus herpes simplex virus 1 (HSV-1) or bacteria Listeria monocytogenes), were found to require STING to initiate effective IFN production.
+Accordingly, Sting-knockout mice were susceptible to lethal infection after exposure to HSV-1.
+The importance of STING in facilitating DNA-mediated innate immune responses was further evident because cytotoxic T-cell responses induced by plasmid DNA vaccination were reduced in Sting-deficient animals.
+In the presence of intracellular DNA, STING relocalized with TANK-binding kinase 1 (TBK1) from the endoplasmic reticulum to perinuclear vesicles containing the exocyst component Sec5 (also known as EXOC2).
+Collectively, our studies indicate that STING is essential for host defence against DNA pathogens such as HSV-1 and facilitates the adjuvant activity of DNA-based vaccines.'] 
+25877890 STING agonist formulated cancer vaccines can cure established tumors resistant to PD-1 blockade.
+["Stimulator of interferon genes (STING) is a cytosolic receptor that senses both exogenous and endogenous cytosolic cyclic dinucleotides (CDNs), activating TBK1/IRF3 (interferon regulatory factor 3), NF-κB (nuclear factor κB), and STAT6 (signal transducer and activator of transcription 6) signaling pathways to induce robust type I interferon and proinflammatory cytokine responses.
+CDN ligands were formulated with granulocyte-macrophage colony-stimulating factor (GM-CSF)-producing cellular cancer vaccines--termed STINGVAX--that demonstrated potent in vivo antitumor efficacy in multiple therapeutic models of established cancer.
+We found that rationally designed synthetic CDN derivative molecules, including one with an Rp,Rp dithio diastereomer and noncanonical c[A(2',5')pA(3',5')p] phosphate bridge structure, enhanced antitumor efficacy of STINGVAX in multiple aggressive therapeutic models of established cancer in mice.
+Antitumor activity was STING-dependent and correlated with increased activation of dendritic cells and tumor antigen-specific CD8(+) T cells.
+Tumors from STINGVAX-treated mice demonstrated marked PD-L1 (programmed death ligand 1) up-regulation, which was associated with tumor-infiltrating CD8(+)IFNγ(+) T cells.
+When combined with PD-1 (programmed death 1) blockade, STINGVAX induced regression of palpable, poorly immunogenic tumors that did not respond to PD-1 blockade alone."] 
+25592282 Mesenchymal stem cells detect and defend against gammaherpesvirus infection via the cGAS-STING pathway.
+['Mesenchymal stem cells (MSCs) are widely used in clinical settings to treat tissue injuries and autoimmune disorders due to their multipotentiality and immunomodulation.
+Long-term observations reveal several complications after MSCs infusion, especially herpesviral infection.
+However, the mechanism of host defense against herpesviruses in MSCs remains largely unknown.
+Here we showed that murine gammaherpesvirus-68 (MHV-68), which is genetically and biologically related to human gammaherpesviruses, efficiently infected MSCs both in vitro and in vivo.
+Cytosolic DNA sensor cyclic GMP-AMP synthase (cGAS) was identified as the sensor of MHV-68 in MSCs for the first time.
+Moreover, the cytosolic DNA sensing pathway mediated a potent anti-herpesviral effect through the adaptor STING and downstream kinase TBK1.
+Furthermore, blockade of IFN signaling suggested that cytosolic DNA sensing triggered both IFN-dependent and -independent anti-herpesviral responses.
+Our findings demonstrate that cGAS-STING mediates innate immunity to gammaherpesvirus infection in MSCs, which may provide a clue to develop therapeutic strategy.'] 
+27707838 Activation of STING-Dependent Innate Immune Signaling By S-Phase-Specific DNA Damage in Breast Cancer.
+[StringElement('Previously we identified a DNA damage response-deficient (DDRD) molecular subtype within breast cancer.
+A 44-gene assay identifying this subtype was validated as predicting benefit from DNA-damaging chemotherapy.
+This subtype was defined by interferon signaling.
+In this study, we address the mechanism of this immune response and its possible clinical significance.', attributes={'Label': 'BACKGROUND', 'NlmCategory': 'BACKGROUND'}), StringElement('We used immunohistochemistry (IHC) to characterize immune infiltration in 184 breast cancer samples, of which 65 were within the DDRD subtype.
+Isogenic cell lines, which represent DDRD-positive and -negative, were used to study the effects of chemokine release on peripheral blood mononuclear cell (PBMC) migration and the mechanism of immune signaling activation.
+Finally, we studied the association between the DDRD subtype and expression of the immune-checkpoint protein PD-L1 as detected by IHC.
+All statistical tests were two-sided.', attributes={'Label':
+'METHODS', 'NlmCategory': 'METHODS'}), StringElement("We found that DDRD breast tumors were associated with CD4+ and CD8+ lymphocytic infiltration (Fisher's exact test P < .001) and that DDRD cells expressed the chemokines CXCL10 and CCL5 3.5- to 11.9-fold more than DNA damage response-proficient cells (P < .01).
+Conditioned medium from DDRD cells statistically significantly attracted PBMCs when compared with medium from DNA damage response-proficient cells (P < .05), and this was dependent on CXCL10 and CCL5.
+DDRD cells demonstrated increased cytosolic DNA and constitutive activation of the viral response cGAS/STING/TBK1/IRF3 pathway.
+Importantly, this pathway was activated in a cell cycle-specific manner.
+Finally, we demonstrated that S-phase DNA damage activated expression of PD-L1 in a STING-dependent manner.", attributes={'Label': 'RESULTS', 'NlmCategory': 'RESULTS'}), StringElement('We propose a novel mechanism of immune infiltration in DDRD tumors, independent of neoantigen production.
+Activation of this pathway and associated PD-L1 expression may explain the paradoxical lack of T-cell-mediated cytotoxicity observed in DDRD tumors.
+We provide a rationale for exploration of DDRD in the stratification of patients for immune checkpoint-based therapies.', attributes={'Label': 'CONCLUSIONS', 'NlmCategory': 'CONCLUSIONS'})] 
+27078069 NLRX1 Sequesters STING to Negatively Regulate the Interferon Response, Thereby Facilitating the Replication of HIV-1 and DNA Viruses.
+['Understanding the negative regulators of antiviral immune responses will be critical for advancing immune-modulated antiviral strategies.
+NLRX1, an NLR protein that negatively regulates innate immunity, was previously identified in an unbiased siRNA screen as required for HIV infection.
+We find that NLRX1 depletion results in impaired nuclear import of HIV-1 DNA in human monocytic cells.
+Additionally, NLRX1 was observed to reduce type-I interferon (IFN-I) and cytokines in response to
+HIV-1 reverse-transcribed DNA. NLRX1 sequesters the DNA-sensing adaptor STING from interaction with TANK-binding kinase 1 (TBK1), which is a requisite for IFN-1 induction in response to DNA. NLRX1-deficient cells generate an amplified STING-dependent host response to cytosolic DNA, c-di-GMP, cGAMP, HIV-1, and DNA viruses.
+Accordingly, Nlrx1(-/-) mice infected with DNA viruses exhibit enhanced innate immunity and reduced viral load.
+Thus, NLRX1 is a negative regulator of the host innate immune response to HIV-1 and DNA viruses.'] 
+24590060 RAE1 ligands for the NKG2D receptor are regulated by STING-dependent DNA sensor pathways in lymphoma.
+['The immunoreceptor NKG2D originally identified in natural killer (NK) cells recognizes ligands that are upregulated on tumor cells.
+Expression of NKG2D ligands (NKG2DL) is induced by the DNA damage response (DDR), which is often activated constitutively in cancer cells, revealing them to NK cells as a mechanism of immunosurveillance.
+Here, we report that the induction of retinoic acid early transcript 1 (RAE1) ligands for NKG2D by the DDR relies on a STING-dependent DNA sensor pathway involving the effector molecules TBK1 and IRF3.
+Cytosolic DNA was detected in lymphoma cell lines that express RAE1 and its occurrence required activation of the DDR. Transfection of DNA into ligand-negative cells was sufficient to induce RAE1 expression.
+Irf3(+/-);Eμ-Myc mice expressed lower levels of RAE1 on tumor cells and showed a reduced survival rate compared with Irf3(+/+);Eμ-Myc mice.
+Taken together, our results suggest that genomic damage in tumor cells leads to activation of STING-dependent DNA sensor pathways, thereby activating RAE1 and enabling tumor immunosurveillance.'] 
+25526298
+Adding to the STING. ['STING (also known as MITA) is a central component in innate immunity against DNA virus.
+In this issue of Immunity, Wang et\xa0al.
+(2014) demonstrate that K27-linked polyubiquitination of STING (MITA) by the ER-associated E3 ligase AMFR is essential for STING (MITA)-mediated signaling and innate antiviral response.'] 
+21892174 The helicase DDX41 senses intracellular DNA mediated by the adaptor STING in dendritic cells.
+['The recognition of pathogenic DNA is important to the initiation of antiviral responses.
+Here we report the identification of DDX41, a member of the DEXDc family of helicases, as an intracellular DNA sensor in myeloid dendritic cells (mDCs).
+Knockdown of DDX41 expression by short hairpin RNA blocked the ability of mDCs to mount type I interferon and cytokine responses to DNA and DNA viruses.
+Overexpression of both DDX41 and the membrane-associated adaptor STING together had a synergistic effect in promoting Ifnb promoter activity.
+DDX41 bound both DNA and STING and localized together with STING in the cytosol.
+Knockdown of DDX41 expression blocked activation of the mitogen-activated protein kinase TBK1 and the transcription factors NF-κB and IRF3 by B-form DNA.
+Our results suggest that DDX41 is an additional DNA sensor that depends on STING to sense pathogenic DNA.'] 
+24970844 Listeria monocytogenes induces IFNβ expression through an IFI16-, cGAS- and STING-dependent pathway.
+['Listeria monocytogenes is a gram-positive facultative intracellular bacterium, which replicates in the cytoplasm of myeloid cells.
+Interferon β (IFNβ) has been reported to play an important role in the mechanisms underlying Listeria disease.
+Although studies in murine cells have proposed the bacteria-derived cyclic-di-AMP to be the key bacterial immunostimulatory molecule, the mechanism for IFNβ expression during L. monocytogenes infection in human myeloid cells remains unknown.
+Here we report that in human macrophages, Listeria DNA rather than cyclic-di-AMP is stimulating the IFN response via a pathway dependent on the DNA sensors IFI16 and cGAS as well as the signalling adaptor molecule STING.
+Thus, Listeria DNA is a major trigger of IFNβ expression in human myeloid cells and is sensed to activate a pathway dependent on IFI16, cGAS and STING.'] 
+22745133 TRIM32 protein modulates type I interferon induction and cellular antiviral response by targeting MITA/STING protein for K63-linked ubiquitination.
+['Viral infection activates several transcription factors including NF-κB and IRF3, which collaborate to induce type I interferons (IFNs) and innate antiviral response.
+MITA (also called STING) is a critical adaptor protein that links virus-sensing receptors to IRF3 activation upon infection by both RNA and DNA pathogens.
+Here we show that the E3 ubiquitin ligase tripartite motif protein 32 (TRIM32) ubiquitinated MITA and dramatically enhanced MITA-mediated induction of IFN-β. Overexpression of TRIM32 potentiated virus-triggered IFNB1 expression and cellular antiviral response.
+Consistently, knockdown of TRIM32 had opposite effects.
+TRIM32 interacted with MITA, and was located at the mitochondria and endoplasmic reticulum.
+TRIM32 targeted MITA for K63-linked ubiquitination at K20/150/224/236 through its E3 ubiquitin ligase activity, which promoted the interaction of MITA with TBK1.
+These findings suggest that TRIM32 is an important regulatory protein for innate immunity against both RNA and DNA viruses by targeting MITA for K63-linked ubiquitination and downstream activation.'] 
+25692705 DNA damage primes the type I interferon system via the cytosolic DNA sensor STING to promote anti-microbial innate immunity.
+['Dysfunction in Ataxia-telangiectasia mutated (ATM), a central component of the DNA repair machinery, results in Ataxia Telangiectasia (AT), a cancer-prone disease with a variety of inflammatory manifestations.
+By analyzing AT patient samples and Atm(-/-) mice, we found that unrepaired DNA lesions induce type I interferons (IFNs), resulting in enhanced anti-viral and anti-bacterial responses in Atm(-/-) mice.
+Priming of the type I interferon system by DNA damage involved release of DNA into the cytoplasm where it activated the cytosolic DNA sensing STING-mediated pathway, which in turn enhanced responses to innate stimuli by activating the expression of Toll-like receptors, RIG-I-like receptors, cytoplasmic DNA sensors, and their downstream signaling partners.
+This study provides a potential explanation for the inflammatory phenotype of AT patients and establishes damaged DNA as a cell intrinsic danger signal that primes the innate immune system for a rapid and amplified response to microbial and environmental threats.'] 
+22000020 Activation of STAT6 by STING is critical for antiviral innate immunity.
+['STAT6 plays a prominent role in adaptive immunity by transducing signals from extracellular cytokines.
+We now show that STAT6 is required for innate immune signaling in response to virus infection.
+Viruses or cytoplasmic nucleic acids trigger STING (also named MITA/ERIS) to recruit STAT6 to the endoplasmic reticulum, leading to STAT6 phosphorylation on Ser(407) by TBK1 and Tyr(641), independent of JAKs.
+Phosphorylated STAT6 then dimerizes and translocates to the nucleus to induce specific target genes responsible for immune cell homing.
+Virus-induced STAT6 activation is detected in all cell-types tested, in contrast to the cell-type specific role of STAT6 in cytokine signaling, and Stat6(-/-) mice are susceptible to virus infection.
+Thus, STAT6 mediates immune signaling in response to both cytokines at the plasma membrane, and virus infection at the endoplasmic reticulum.'] 
+26900919 ER Adaptor SCAP Translocates and Recruits IRF3 to Perinuclear Microsome Induced by Cytosolic Microbial DNAs.
+['Stimulator of interferon genes (STING, also known as MITA, ERIS or MPYS) induces the activation of TBK1 kinase and IRF3 transcription factor, upon sensing of microbial DNAs.
+How IRF3 is recruited onto the STING signalosome remains unknown.
+We report here that silencing of the ER adaptor SCAP markedly impairs the IRF3-responsive gene expression induced by STING. Scap knockdown mice are more susceptible to HSV-1 infection.
+Interestingly, SCAP translocates from ER, via Golgi, to perinuclear microsome in a STING-dependent manner.
+Mechanistically, the N-terminal transmembrane domain of SCAP interacts with STING, and the C-terminal cytosolic domain of SCAP binds to IRF3, thus recruiting IRF3 onto STING signalosome.
+Mis-localization of SCAP abolishes its antiviral function.
+Collectively, this study characterizes SCAP as an essential adaptor in the STING signaling pathway, uncovering a critical missing link in DNAs-triggered host antiviral responses.'] 
+26819312 Suppression of Type I Interferon Production by Human T-Cell Leukemia Virus Type
+1 Oncoprotein Tax through Inhibition of IRF3 Phosphorylation.
+[StringElement('Infection with human T-cell leukemia virus type 1 (HTLV-1) is associated with adult T-cell leukemia (ATL) and tropical spastic paraparesis.
+Type I interferons (IFNs) are key effectors of the innate antiviral response, and IFN-α combined with the nucleoside reverse transcriptase inhibitor zidovudine is considered the standard first-line therapy for ATL. HTLV-1 oncoprotein Tax is known to suppress innate IFN production and response but the underlying mechanisms remain to be fully established.
+In this study, we report on the suppression of type I IFN production by HTLV-1 Tax through interaction with and inhibition of TBK1 kinase that phosphorylates IRF3.
+Induced transcription of IFN-β was severely impaired in HTLV-1-transformed ATL cells and freshly infected T lymphocytes.
+The ability to suppress IRF3 activation was ascribed to Tax.
+The expression of Tax alone sufficiently repressed the induction of IFN production by RIG-I plus PACT, cGAMP synthase plus STING, TBK1, IKKε, IRF3, and IRF7, but not by IRF3-5D, a dominant-active phosphomimetic mutant.
+This suggests that Tax perturbs IFN production at the step of IRF3 phosphorylation.
+Tax mutants deficient for CREB or NF-κB activation were fully competent in the suppression of IFN production.
+Coimmunoprecipitation experiments confirmed the association of Tax with TBK1, IKKε, STING, and IRF3.In vitrokinase assay indicated an inhibitory effect of Tax on TBK1-mediated phosphorylation of IRF3.
+Taken together, our findings suggested a new mechanism by which HTLV-1 oncoprotein Tax circumvents the production of type I IFNs in infected cells.
+Our findings have implications in therapeutic intervention of ATL.', attributes={'Label': 'UNLABELLED'}), StringElement('Human T-cell leukemia virus type 1 (HTLV-1) is the cause of adult T-cell leukemia (ATL), an aggressive and fatal blood cancer, as well as another chronic disabling disease of the spinal cord.
+Treatments are unsatisfactory, and options are limited.
+A combination of antiviral cellular protein alpha interferon and zidovudine, which is an inhibitor of a viral enzyme called reverse transcriptase, has been recommended as the standard first-line therapy for ATL.
+Exactly how HTLV-1 interacts with the cellular machinery for interferon production and action is not well understood.
+Our work sheds light on the mechanism of action for the inhibition of interferon production by an HTLV-1 oncogenic protein called Tax.
+Our findings might help to improve interferon-based anti-HTLV-1 and anti-ATL therapy.', attributes={'Label': 'IMPORTANCE', 'NlmCategory': 'OBJECTIVE'})] 
+27422757 TANK-binding kinase-1 broadly affects oyster immune response to bacteria and viruses.
+['As a benthic filter feeder of estuaries, the immune system of oysters provides one of the best models for studying the genetic and molecular basis of the innate immune pathway in marine invertebrates and examining the influence of environmental factors on the immune system.
+Here, the molecular function of molluscan TANK-binding kinase-1 (TBK1) (which we named CgTBK1) was studied in the Pacific oyster, Crassostrea gigas.
+Compared with known TBK1 proteins in other model organisms, CgTBK1 contains a conserved S-TKc domain and a coiled coil domain at the N- and C-terminals but lacks an important ubiquitin domain.
+Quantitative real-time PCR analysis revealed that the expression level of CgTBK1 was ubiquitous in all selected tissues, with highest expression in the gills.
+CgTBK1 expression was significantly upregulated in response to infections with Vibrio alginolyticus, ostreid herpesvirus 1 (OsHV-1 reference strain and μvar), and polyinosinic:polycytidylic acid sodium salt, suggesting its broad function in immune response.
+Subcellular localization showed the presence of CgTBK1 in the cytoplasm of HeLa cells, suggesting its potential function as the signal transducer between the receptor and transcription factor.
+We further demonstrated that CgTBK1 interacted with CgSTING in HEK293T cells, providing evidence that CgTBK1 could be activated by direct binding to CgSTING.
+In summary, we characterized the TBK1 gene in C.\xa0gigas and demonstrated its role in the innate immune response to pathogen infections.'] 
+25765984 [Innate immune DNA sensing pathways].
+['How the cells triggers the induction of innate immune genes in response to nucleic acids derived from microbes, such as DNA viruses, intracellular bacteria, and parasites, or self DNA, has not been elucidated fully.
+We have previously shown that an endoplasmic reticulum (ER)-associated multiple transmembrane protein, so-called STING (stimulator of interferon genes), functions as an essential molecules for triggering DNA-mediated gene induction.
+STING may directly associate with stimulatory ligands, which include DNA, as well as with cyclic dinucleotides (CDNs), which are secreted by intracellular bacteria.
+After DNA or CDN stimulation, STING traffics with kinase TBK1 in an autophagic signaling complex, from ER to perinuclear endosomal compartments harboring IRF3 and NF-κB. STING may involve in autoinflammatory disease manifested by aberrant self-DNA. Understanding of STING function may conceivably lead to the development of potent adjuvants for vaccine development or conversely therapeutics that could control inflammation aggravated disease.'] 
+27764250 Histone H2B-IFI16 Recognition of Nuclear Herpesviral Genome Induces Cytoplasmic Interferon-β Responses.
+[StringElement("IFI16 (gamma-interferon-inducible protein 16), a predominantly nuclear protein involved in transcriptional regulation, also functions as an innate immune response DNA sensor and induces the IL-1β and antiviral type-1 interferon-β (IFN-β) cytokines.
+We have shown that IFI16, in association with BRCA1, functions as a sequence independent nuclear sensor of episomal dsDNA genomes of KSHV, EBV and HSV-1.
+Recognition of these herpesvirus genomes resulted in IFI16 acetylation, BRCA1-IFI16-ASC-procaspase-1 inflammasome formation, cytoplasmic translocation, and IL-1β generation.
+Acetylated IFI16 also interacted with cytoplasmic STING and induced IFN-β.
+However, the identity of IFI16 associated nuclear proteins involved in STING activation and the mechanism is not known.
+Mass spectrometry of proteins precipitated by anti-IFI16 antibodies from uninfected endothelial cell nuclear lysate revealed that histone H2B interacts with IFI16.
+Single and double proximity ligation microscopy, immunoprecipitation, EdU-genome labeled virus infection, and chromatin immunoprecipitation studies demonstrated that H2B is associated with IFI16 and BRCA1 in the nucleus in physiological conditions.
+De novo KSHV and HSV-1 infection as well as latent KSHV and EBV infection induces the cytoplasmic distribution of H2B-IFI16, H2B-BRCA1 and IFI16-ASC complexes.
+Vaccinia virus (dsDNA) cytoplasmic replication didn't induce the redistribution of nuclear H2B-IFI16 or H2B into the cytoplasm.
+H2B is critical in KSHV and HSV-1 genome recognition by IFI16 during de novo infection.
+Viral genome sensing by IFI16-H2B-BRCA1 leads to BRCA1 dependent recruitment of p300, and acetylation of H2B and IFI16.
+BRCA1 knockdown or inhibition of p300 abrogated the acetylation of H2B-IFI16 or H2B. Ran-GTP protein mediated the translocation of acetylated H2B and IFI16 to the cytoplasm along with BRCA1 that is independent of IFI16-ASC inflammasome.
+ASC knockdown didn't affect the acetylation of H2B, its cytoplasmic transportation, and the association of STING with IFI16 and H2B during KSHV infection.
+Absence of H2B didn't affect IFI16-ASC association and cytoplasmic distribution and thus demonstrating that IFI16-H2B complex is independent of IFI16-ASC-procaspase-1-inflammasome complex formed during infection.
+The H2B-IFI16-BRCA1 complex interacted with cGAS and STING in the cytoplasm leading to TBK1 and IRF3 phosphorylation, nuclear translocation of pIRF3 and IFN-β production.
+Silencing of H2B, cGAS and STING inhibited IFN-β induction but not IL-1β secretion, and cGAMP activity is significantly reduced by H2B and IFI16 knockdown during infection.
+Silencing of ASC inhibited IL-1β secretion but not IFN-β secretion during de novo KSHV and HSV-1 infection.
+These studies identify H2B as an innate nuclear sensor mediating a novel extra chromosomal function, and reveal that two IFI16 complexes mediate KSHV and HSV-1 genome recognition responses, with recognition by the IFI16-BRCA1-H2B complex resulting in IFN-β responses and recognition by IFI16-BRCA1 resulting in inflammasome responses."
+, attributes={'NlmCategory': 'UNASSIGNED'})] 
+23142775 The helicase DDX41 recognizes the bacterial secondary messengers cyclic di-GMP and cyclic di-AMP to activate a type I interferon immune response.
+['The induction of type I interferons by the bacterial secondary messengers cyclic di-GMP (c-di-GMP) or cyclic di-AMP (c-di-AMP) is dependent on a signaling axis that involves the adaptor STING, the kinase TBK1 and the transcription factor IRF3.
+Here we identified the heliase DDX41 as a pattern-recognition receptor (PRR) that sensed both c-di-GMP and c-di-AMP. DDX41 specifically and directly interacted with c-di-GMP. Knockdown of DDX41 via short hairpin RNA in mouse or human cells inhibited the induction of genes encoding molecules involved in the innate immune response and resulted in defective activation of STING, TBK1 and IRF3 in response to c-di-GMP or c-di-AMP.
+Our results suggest a mechanism whereby c-di-GMP and c-di-AMP are detected by DDX41, which forms a complex with STING to signal to TBK1-IRF3 and activate the interferon response.'] 
+27076640 Herpes Simplex Virus 1 Serine Protease VP24 Blocks the DNA-Sensing Signal Pathway by Abrogating Activation of Interferon Regulatory Factor 3.
+[StringElement('The interferon (IFN)-mediated antiviral response is a central aspect of host defense; however, viruses have evolved multiple strategies to counteract IFN-mediated responses in order to successfully infect the host.
+Herpes simplex virus 1 (HSV-1), a typical human-restricted DNA virus, is capable of counteracting host immune responses via several distinct viral proteins, thus establishing a lifelong latent infection.
+In this study, we demonstrate that the VP24 protein, a serine protease of HSV-1 essential for the formation and maturation of capsids, is a novel antagonist of the beta interferon (IFN-β) pathway.
+Here, VP24 was shown for the first time to dampen interferon stimulatory DNA (ISD)-triggered IFN-β production and inhibit IFN-β promoter activation induced by cyclic GMP-AMP synthase (cGAS) and stimulator of interferon genes (STING) and by STING, respectively.
+Further study demonstrated that ectopic expression of VP24 selectively blocked IFN regulatory factor 3 (IRF3) but not NF-κB promoter activation.
+In addition, VP24 was demonstrated to downregulate ISD-induced phosphorylation and dimerization of IRF3 during HSV-1 infection with a VP24 stable knockdown human foreskin fibroblast cell line.
+The underlying molecular mechanism is that VP24 abrogates the interaction between TANK-binding kinase 1 (TBK1) and IRF3, hence impairing IRF3 activation.
+These results illustrate that VP24 is able to block the production of IFN-β by inhibiting IRF3 activation, which may represent a critical adaptation to enable viral effective replication within the host.', attributes={'Label': 'UNLABELLED'}), StringElement('This study demonstrated that HSV-1 protein VP24 could inhibit IFN-β production and promoter activation triggered by ISD, cGAS and STING and by STING, respectively.
+VP24 selectively blocked IRF3 promoter activation and ISD-induced phosphorylation and dimerization of IRF3 without affecting the NF-κB promoter activation during viral infection.
+VP24 also inhibited IRF3 activation by impeding the interaction between TBK1 and IRF3 during viral infection.
+This study provides new insights into the immune evasion mediated by HSV-1 and identifies VP24 as a crucial effector for HSV-1 to evade the host DNA-sensing signal pathway.', attributes={'Label': 'IMPORTANCE', 'NlmCategory': 'OBJECTIVE'})] 
+20215874 Regulation of dsDNA-induced innate immune responses by membrane trafficking.
+['Microbial nucleic acids are potent inducers of innate immune response--the first line of host defense against microbes.
+It is known that double-stranded (ds) DNA triggers the expression of type I interferons (IFNs) and IFN-inducible genes resulting in the establishment of an antimicrobial environment.
+However, the regulatory mechanisms underlying the signaling pathways responsible for the induction of innate immune responses by dsDNA are still not fully understood.
+Recently, we showed that the translocation and subsequent assembly of the multispanning membrane protein, stimulator of interferon genes (STING), is critical for dsDNA-triggered innate immune responses.
+Following stimulation by dsDNA, STING translocates from the endoplasmic reticulum (ER) to the Golgi apparatus where it associates with TANK-binding kinase 1 (TBK1) on cytoplasmic punctate structures to induce the interferon regulatory factor 3 (IRF3)-dependent transcription of type I IFNs and IFN-inducible genes.
+We have also shown that dsDNA stimulation induces the colocalization of STING with the autophagy-related proteins Atg9a and microtubule-associated protein 1 light chain 3 (LC3).
+The targeted disruption of Atg9a, a multispanning membrane protein essential for autophagy, greatly promotes the dsDNA-driven assembly of STING and TBK1 leading to the aberrant activation of the innate immune response.
+However, the loss of Atg7, another essential component for autophagosome formation, does not affect the dsDNA-stimulated translocation of STING.
+Hence, Atg9a is a regulator of STING-mediated innate immune response as well as an essential autophagy protein.
+These findings indicate that dynamic membrane trafficking is triggered by dsDNA stimulation and plays a pivotal role in the signal transduction required for optimal activation of the innate immune response.'] 
+22023477 Novel strategies to improve DNA vaccine immunogenicity.
+["DNA vaccines can induce both humoral and cellular immune responses in animals.
+Some DNA vaccines are already licensed for infectious diseases such as West Nile virus encephalitis in horses.
+When used in humans, however, DNA vaccines suffer from lower immunogenicity profiles.
+Although the reasons for this are poorly understood, various hypotheses have been proposed.
+This review aims to provide better understanding of the molecular and immunological mechanisms by which DNA vaccines work and how such knowledge can be used to bring about improvements in their efficacy.
+Recent studies have provided evidence that the 'adjuvant effect' of plasmid DNA is mediated by its double-stranded structure.
+This structure activates stimulator of interferon genes/TANK-binding kinase 1 (STING/TBK1)- dependent innate immune signaling pathways in the absence of Toll-like receptors.
+Indeed, type-I interferons (IFNs), induced in vivo via the STING/TBK1 pathway, were found to be crucial for both direct- and indirect-antigen presentation via distinct cell types (i.e. dendritic cells (DC) and muscle cells, respectively).
+Importantly, incorporation of TBK1 into a DNA vaccine was found to enhance the antigen-specific humoral immune responses targeting the Plasmodium falciparum serine repeat antigen (SERA), a candidate vaccine antigen expressed in the blood-stages of human malaria parasites.
+Thus, the results of these studies may offer new ways to develop DNA vaccines, as well as delivering novel vaccine adjuvants against infectious diseases."] 
+21820332 Innate immune recognition of an AT-rich stem-loop DNA motif in the Plasmodium falciparum genome.
+['Although Toll-like receptor 9 (TLR9) has been implicated in cytokine and type I interferon (IFN) production during malaria in humans and mice, the high AT content of the Plasmodium falciparum genome prompted us to examine the possibility that malarial DNA triggered TLR9-independent pathways.
+Over 6000 ATTTTTAC ("AT-rich") motifs are present in the genome of P.\xa0falciparum, which we show here potently induce type I IFNs.
+Parasite DNA, parasitized erythrocytes and oligonucleotides containing the AT-rich motif induce type I IFNs via a pathway that did not involve the previously described sensors TLR9, DAI, RNA polymerase-III or IFI16/p204.
+Rather, AT-rich DNA sensing involved an unknown receptor that coupled to the STING, TBK1 and IRF3-IRF7 signaling pathway.
+Mice lacking IRF3, IRF7, the kinase TBK1 or the type I IFN receptor were resistant to otherwise lethal cerebral malaria.
+Collectively, these observations implicate AT-rich DNA sensing via STING, TBK1 and IRF3-IRF7 in P.\xa0falciparum malaria.'] 
+26121674 BRCA1 Regulates IFI16 Mediated Nuclear Innate Sensing of Herpes Viral DNA and Subsequent Induction of the Innate Inflammasome and Interferon-β Responses.
+['The innate immune system pattern recognition receptors (PRR) are the first line of host defenses recognizing the various pathogen- or danger-associated molecular patterns and eliciting defenses by regulating the production of pro-inflammatory cytokines such as IL-1β, IL-18 or interferon β (IFN-β).
+NOD-like receptors (NLRs) and AIM2-like receptors (ALRs) are cytoplasmic inflammasome sensors of foreign molecules, including DNA. IFI16, a sequence-independent nuclear innate sensor ALR, recognizes episomal dsDNA genomes of herpes viruses such as KSHV, EBV, and HSV-1 in the infected cell nuclei, forms an inflammasome complex with ASC and procaspase1, and relocates into the cytoplasm leading into Caspase-1 and IL-1β generation.
+IFI16 also induces IFN-β during HSV-1 infection via the cytoplasmic STING-TBK1-IRF3 pathway.
+Thus far, whether IFI16 recognizes foreign DNA directly or utilizes other host protein(s) is unknown.
+Here, we demonstrate that BRCA1, a DNA damage repair sensor and transcription regulator, is in complex with IFI16 in the host cell nucleus, and their association increases in the presence of nuclear viral genomes during de novo KSHV, EBV and HSV-1 infection, and in latent KSHV or EBV infection, but not by DNA damage responses (DDR) induced by bleomycin and vaccinia virus cytoplasmic dsDNA. BRCA1 is a constituent of the triggered IFI16-inflammasome and is translocated into the cytoplasm after genome recognition along with the IFI16-inflammasome.
+The absence of BRCA1 abrogated IFI16-viral genome association, inflammasome assembly, IFI16 cytoplasmic localization, and Caspase-1 and IL-1β production.
+The absence of BRCA1 also abolished the cytoplasmic IFI16-STING interaction, downstream IRF3 phosphorylation, nuclear translocation of pIRF3 and IFN-β production during de novo KSHV and HSV-1 infection.
+These findings highlight that BRCA1 plays a hitherto unidentified innate immunomodulatory role by facilitating nuclear foreign DNA sensing by IFI16, subsequent assembly and cytoplasmic distribution of IFI16-inflammasomes leading into IL-1β formation and the induction of IFN-β via cytoplasmic signaling through IFI16-STING, TBK1 and IRF3.'] 
+27409673 AIM2 inhibits autophagy and IFN-β production during M. bovis infection.
+[StringElement('Mycobacteria can trigger the AIM2 inflammasome, autophagy activation and type-I interferon release, which are both activated by cytosolic DNA. We have recently demonstrated that activation of the AIM2 inflammasome during M. bovis infection is the result of mycobacterial translocation into the cytosol.
+To elucidate the effects of inflammasome activation on autophagy, we investigated the role of the AIM2 inflammasome from macrophages infected with a virulent strain of M. bovis.
+The results showed that the M. bovis-induced AIM2 inflammasome activation decreases autophagy in immortalized and primary murine macrophages.
+This relied on the inflammasome sensor AIM2 which conjugates with cytosolic DNA to inhibit the STING-dependent pathway involved in selective autophagy and interferon-β release in Mycobacterium-infected macrophages.
+These results suggest that the AIM2 cytosolic DNA sensor may conjugate competitively with cytosolic M. bovis DNA to restrict M. bovis induced STING-TBK1-dependent autophagy activation and IFN-β secretion.', attributes={'NlmCategory': 'UNASSIGNED'})] 
+24727060 A new adjuvant delivery system 'cyclic di-GMP/YSK05 liposome' for cancer immunotherapy.
+['Cyclic dinucleotides are of importance in the field of microbiology and immunology.
+They function as second messengers and are thought to participate in the signal transduction of cytosolic DNA immune responses.
+One such dinucleotide, cyclic di-GMP (c-di-GMP), stimulates the immune system.
+It is thought that c-di-GMP is recognized by ATP dependent RNA helicase (DDX41) in the cytosol, forms a complex with the Stimulator of interferon genes protein (STING), triggers a signal via the tank binding kinase 1-interferon regulatory factor 3 (TBK1-IRF3) pathway and induces the production of type I interferons.
+Therefore c-di-GMP can be thought of as a new class of adjuvant.
+However, because c-di-GMP contains two phosphate groups, this prevents its use as an adjuvant because it cannot pass through the cell membrane, even though the target molecule of c-di-GMP is located in the cytoplasm.
+Our group has been developing a series of liposomal drug delivery systems and recently investigated YSK05 which is a synthetic, pH sensitive lipid that has a high fusogenicity.
+We utilized this lipid as a carrier to transport c-di-GMP into the cytosol to then use c-di-GMP as an adjuvant.
+Based on screening experiments, YSK05/POPE/cholesterol=40/25/35 was found to induce IFN-β in Raw264.7 cells.
+The induction of IFN-β from c-di-GMP liposomes was inhibited by adding BX795, a TBK1 inhibitor, indicating that the production of IFN-β caused the activation of the STING-TBK1 pathway.
+C-di-GMP liposomes also showed significantly higher levels of expression of CD80, CD86 and MHC class I. The c-di-GMP/YSK05 liposome facilitated antigen specific cytotoxic T cell activity and the inhibition of tumor growth in a mouse model.
+These findings indicate that c-di-GMP/YSK05 liposomes could be used, not only to transfer c-di-GMP to the cytosol and induce an innate immune system but also as a platform for investigating the mechanism of immune sensing with cyclic dinucleotides in vitro and in vivo.'] 
+23912600 DNA vaccines: a simple DNA sensing matter?
+['Since the introduction of DNA vaccines two decades ago, this attractive strategy has been hampered by its low immunogenicity in humans.
+Studies conducted to improve the immunogenicity of DNA vaccines have shown that understanding the mechanism of action of DNA vaccines might be the key to successfully improving their immunogenicity.
+Our current understanding is that DNA vaccines induce innate and adaptive immune responses in two ways: (1) encoded protein (or polypeptide) antigen(s) by the DNA plasmid can be expressed in stromal cells (i.e., muscle cells) as well as DCs, where these antigens are processed and presented to naïve CD4 or CD8 T cells either by direct or cross presentation, respectively; and (2) the transfected DNA plasmid itself may bind to an un-identified cytosolic DNA sensor and activate the TBK1-STING pathway and the production of type I interferons (IFNs) which function as an adjuvant.
+Recent studies investigating double-stranded cytosolic DNA sensor(s) have highlighted new mechanisms in which cytosolic DNA may release secondary metabolites, which are in turn recognized by a novel DNA sensing machinery.
+Here, we discuss these new metabolites and the possibilities of translating this knowledge into improved immunogenicity for DNA vaccines.'] 
+24116191 Structural and functional analyses of DNA-sensing and immune activation by human cGAS. ['The detection of cytosolic DNA, derived from pathogens or host cells, by cytosolic receptors is essential for appropriate host immune responses.
+Cyclic GMP-AMP synthase (cGAS) is a newly identified cytosolic DNA receptor that produces cyclic GMP-AMP, which activates stimulator of interferon genes (STING), resulting in TBK1-IRF3 pathway activation followed by the production of type I interferons.
+Here we report the crystal structure of human cGAS.
+The structure revealed that a cluster of lysine and arginine residues forms the positively charged DNA binding surface of human cGAS, which is important for the STING-dependent immune activation.
+A structural comparison with other previously determined cGASs and our functional analyses suggested that a conserved zinc finger motif and a leucine residue on the DNA binding surface are crucial for the DNA-specific immune response of human cGAS, consistent with previous work.
+These structural features properly orient the DNA binding to cGAS, which is critical for DNA-induced cGAS activation and STING-dependent immune activation.
+Furthermore, we showed that the cGAS-induced activation of STING also involves the activation of the NF-κB and IRF3 pathways.
+Our results indicated that cGAS is a DNA sensor that efficiently activates the host immune system by inducing two distinct pathways.'] 
+25811886 Induction of interferon-stimulated genes by IRF3 promotes replication of Toxoplasma gondii.
+['Innate immunity is the first line of defense against microbial insult.
+The transcription factor, IRF3, is needed by mammalian cells to mount innate immune responses against many microbes, especially viruses.
+IRF3 remains inactive in the cytoplasm of uninfected cells; upon virus infection, it gets phosphorylated and then translocates to the nucleus, where it binds to the promoters of antiviral genes and induces their expression.
+Such genes include type I interferons (IFNs) as well as Interferon Stimulated Genes (ISGs).
+IRF3-/- cells support enhanced replication of many viruses and therefore, the corresponding mice are highly susceptible to viral pathogenesis.
+Here, we provide evidence for an unexpected pro-microbial role of IRF3: the replication of the protozoan parasite, Toxoplasma gondii, was significantly impaired in IRF3-/- cells.
+In exploring whether the transcriptional activity of IRF3 was important for its pro-parasitic function, we found that ISGs induced by parasite-activated IRF3 were indeed essential, whereas type I interferons were not important.
+To delineate the signaling pathway that activates IRF3 in response to parasite infection, we used genetically modified human and mouse cells.
+The pro-parasitic signaling pathway, which we termed PISA (Parasite-IRF3 Signaling Activation), activated IRF3 without any involvement of the Toll-like receptor or RIG-I-like receptor pathways, thereby ruling out a role of parasite-derived RNA species in activating PISA.
+Instead, PISA needed the presence of cGAS, STING, TBK1 and IRF3, indicating the necessity of DNA-triggered signaling.
+To evaluate the physiological significance of our in vitro findings, IRF3-/- mice were challenged with parasite infection and their morbidity and mortality were measured.
+Unlike WT mice, the IRF3-/- mice did not support replication of the parasite and were resistant to pathogenesis caused by it.
+Our results revealed a new paradigm in which the antiviral host factor, IRF3, plays a cell-intrinsic pro-parasitic role.'] 
+27141404 Tumor cell-derived microparticles polarize M2 tumor-associated macrophages for tumor progression.
+[StringElement('Despite identification of macrophages in tumors (tumor-associated macrophages, TAM) as potential targets for cancer therapy, the origin and function of TAM in the context of malignancy remain poorly characterized.
+Here, we show that microparticles (MPs), as a by-product, released by tumor cells act as a general mechanism to mediate M2 polarization of TAM.
+Taking up tumor MPs by macrophages is a very efficient process, which in turn results in the polarization of macrophages into M2 type, not only leading to promoting tumor growth and metastasis but also facilitating cancer stem cell development.
+Moreover, we demonstrate that the underlying mechanism involves the activation of the cGAS/STING/TBK1/STAT6 pathway by tumor MPs.
+Finally, in addition to murine tumor MPs, we show that human counterparts also possess consistent effect on human M2 polarization.
+These findings provide new insights into a critical role of tumor MPs in remodeling of tumor microenvironment and better understanding of the communications between tumors and macrophages.', attributes={'NlmCategory': 'UNASSIGNED'})] 
+21074459 The ubiquitin ligase TRIM56 regulates innate immune responses to intracellular double-stranded DNA. ['The innate immune system detects pathogen- and host-derived double-stranded DNA exposed to the cytosol and induces type I interferon (IFN) and other cytokines.
+Here, we identified interferon-inducible tripartite-motif (TRIM) 56 as a regulator of double-stranded DNA-mediated type I interferon induction.
+TRIM56 overexpression enhanced IFN-β promoter activation after double-stranded DNA stimulation whereas TRIM56 knockdown abrogated it.
+TRIM56 interacted with STING and targeted it for lysine 63-linked ubiquitination.
+This modification induced STING dimerization, which was a prerequisite for recruitment of the antiviral kinase TBK1 and subsequent induction of IFN-β. Taken together, these results indicate that TRIM56 is an interferon-inducible E3 ubiquitin ligase that modulates STING to confer double-stranded DNA-mediated innate immune responses.'] 
+26344113 Innate Immune Signaling by, and Genetic Adjuvants for DNA Vaccination.
+['DNA vaccines can induce both humoral and cellular immune responses.
+Although some DNA vaccines are already licensed for infectious diseases in animals, they are not licensed for human use because the risk and benefit of DNA vaccines is still controversial.
+Indeed, in humans, the immunogenicity of DNA vaccines is lower than that of other traditional vaccines.
+To develop the use of DNA vaccines in the clinic, various approaches are in progress to enhance or improve the immunogenicity of DNA vaccines.
+Recent studies have shown that immunogenicity of DNA vaccines are regulated by innate immune responses via plasmid DNA recognition through the STING-TBK1 signaling cascade.
+Similarly, molecules that act as dsDNA sensors that activate innate immune responses through STING-TBK1 have been identified and used as genetic adjuvants to enhance DNA vaccine immunogenicity in mouse models.
+However, the mechanisms that induce innate immune responses by DNA vaccines are still unclear.
+In this review, we will discuss innate immune signaling upon DNA vaccination and genetic adjuvants of innate immune signaling molecules.'] 
+22345436
+Sensing adenovirus infection: activation of interferon regulatory factor 3 in RAW 264.7 cells.
+['We have used the RAW 264.7 murine macrophage-like cell line as a platform to characterize the recognition and early signaling response to recombinant adenoviral vectors (rAdV).
+Infection of RAW 264.7 cells triggers an early response (2 to 6 h postinfection) that includes phosphorylation of the interferon (IFN) response factor 3 (IRF3) transcription factor, upregulation of IRF3 primary response genes (interferon-stimulated gene 56 [ISG56], beta IFN [IFN-β]), and subsequent type
+I IFN secondary signaling (STAT1/2 phosphorylation).
+Using short hairpin RNA (shRNA) lentiviral vectors, we show an essential role for Tank binding kinase 1 (TBK1) in this pathway.
+Data also support a role for STING (MITA) as an adaptor functioning in response to rAdV infection.
+Using UV/psoralen (Ps)-inactivated virus to block viral transcription, Ps-inactivated virus stimulated primary (IRF3) and secondary (STAT1/2) activation events to the same degree as untreated virus.
+IRF3 phosphorylation was not blocked in RAW 264.7 cells pretreated with the RNA polymerase III inhibitor ML60218.
+However, they were compromised in the type I IFN-dependent secondary response (phosphorylation of STAT1/STAT2).
+At 24 h postinfection, ML60218-treated cells were compromised in the overall antiviral response.
+Therefore, initial sensing of rAdV or viral DNA (vDNA) does not depend on viral template transcription, but ML60218 treatment influences cellular cascades required for an antiviral response to rAdV. Using overexpression or knockdown assays, we examined how four DNA sensors influence the antiviral response.
+Knockdown of DNA Activator of Interferon (DAI) and p204, the murine ortholog to IFI16, had minimal influence on IRF3 phosphorylation.
+However, knockdown of absent in melanoma 2 (AIM2) and the helicase DDX41 resulted in diminished levels of (pser388)IRF3 following rAdV infection.
+Based on these data, multiple DNA sensors contribute to an antiviral DNA recognition response, leading to TBK1-dependent IRF3 phosphorylation in RAW 264.7 cells.'] 
+27721487 Structural and Functional Analysis of DDX41: a bispecific immune receptor for DNA and cyclic dinucleotide.
+[StringElement('In the innate immune system, pattern recognition receptors (PRRs) specifically recognize ligands derived from bacteria or viruses, to trigger the responsible downstream pathways.
+DEAD box protein 41 (DDX41) is an intracellular PRR that triggers the downstream pathway involving the adapter STING, the kinase TBK1, and the transcription factor IRF3, to activate the type I interferon response.
+DDX41 is unique in that it recognizes two different ligands; i.e., double-stranded DNA (dsDNA) and cyclic dinucleotides (CDN), via its DEAD domain.
+However, the structural basis for the ligand recognition by the DDX41 DEAD domain has remained elusive.
+Here, we report two crystal structures of the DDX41 DEAD domain in apo forms, at 1.5 and 2.2\u2009Å resolutions.
+A comparison of the two crystal structures revealed the flexibility in the ATP binding site, suggesting its formation upon ATP binding.
+Structure-guided functional analyses in vitro and in vivo demonstrated the overlapped binding surface for dsDNA and CDN, which is distinct from the ATP-binding site.
+We propose that the structural rearrangement of the ATP binding site is crucial for the release of ADP, enabling the fast turnover of DDX41 for the dsDNA/CDN-induced STING activation pathway.', attributes={'NlmCategory': 'UNASSIGNED'})] 
+23189823 [Nucleic acids recognition by innate immunity].
+['The innate immune system detects pathogen-derived nucleic acids (DNA and RNA) and induces type I interferon (IFN) and other cytokines, resulting in the host defense against pathogen.
+We identified interferon-inducible tripartite-motif (TRIM) 56 as a regulator of double-stranded DNA-mediated type I interferon induction.
+TRIM56 interacted with STING and targeted it for lysine 63-linked ubiquitination.
+This modification induced STING dimerization, which was a prerequisite for recruitment of the antiviral kinase TBK1 and subsequent induction of IFN-beta.
+Taken together, these results show that TRIM56 is an interferon-inducible E3 ubiquitin ligase that modulates STING to confer double-stranded DNA-mediated innate immune responses.
+It is well known that Toll-like receptor 7 (TLR7) and TLR9 sense viral nucleic acids and induce production of type I interferon (IFN) by plasmacytoid dendritic cells (pDCs) to protect the host from virus infection.
+We showed that the IFN-inducible antiviral protein Viperin promoted TLR7- and TLR9-mediated production of type I IFN by pDCs.
+Viperin expression was potently induced after TLR7 or TLR9 stimulation and Viperin localized to the cytoplasmic lipid-enriched compartments, lipid bodies, in pDCs.
+Viperin interacted with the signal mediators IRAK1 and TRAF6 to recruit them to the lipid bodies and facilitated K63-linked ubiquitination of IRAK1 to induce the nuclear translocation of transcription factor IRF7.
+Thus, besides direct inhibition of viral replication, this finding reveals that Viperin mediates its antiviral function via the regulation of the TLR7 and TLR9-IRAK1 signaling axis in pDCs.'] 
+25625927 DNA vaccine for cancer immunotherapy.
+['DNA vaccination has emerged as an attractive immunotherapeutic approach against cancer due to its simplicity, stability, and safety.
+Results from numerous clinical trials have demonstrated that DNA vaccines are well tolerated by patients and do not trigger major adverse effects.
+DNA vaccines are also very cost effective and can be administered repeatedly for long-term protection.
+Despite all the practical advantages, DNA vaccines face challenges in inducing potent antigen specific cellular immune responses as a result of immune tolerance against endogenous self-antigens in tumors.
+Strategies to enhance immunogenicity of DNA vaccines against self-antigens have been investigated including encoding of xenogeneic versions of antigens, fusion of antigens to molecules that activate T cells or trigger associative recognition, priming with DNA vectors followed by boosting with viral vector, and utilization of immunomodulatory molecules.
+This review will focus on discussing strategies that circumvent immune tolerance and provide updates on findings from recent clinical trials.'] 
+25625930 Mechanisms and pathways of innate immune activation and regulation in health and cancer.
+['Research on innate immune signaling and regulation has recently focused on pathogen recognition receptors (PRRs) and their signaling pathways.
+Members of PRRs sense diverse microbial invasions or danger signals, and initiate innate immune signaling pathways, leading to proinflammatory cytokines production, which, in turn, instructs adaptive immune response development.
+Despite the diverse functions employed by innate immune signaling to respond to a variety of different pathogens, the innate immune response must be tightly regulated.
+Otherwise, aberrant, uncontrolled immune responses will lead to harmful, or even fatal, consequences.
+Therefore, it is essential to better discern innate immune signaling and many regulators, controlling various signaling pathways, have been identified.
+In this review, we focus on the recent advances in our understanding of the activation and regulation of innate immune signaling in the host response to pathogens and cancer.'] 
+23962476 The interferon response to intracellular DNA: why so many receptors? ["The detection of intracellular DNA has emerged to be a key event in the innate immune response to viruses and intracellular bacteria, and during conditions of sterile inflammation and autoimmunity.
+One of the consequences of the detection of DNA as a 'stranger' and a 'danger' signal is the production of type I interferons and pro-inflammatory cytokines.
+Much work has been dedicated to the elucidation of the signalling cascades that activate this DNA-induced gene expression programme.
+However, while many proteins have been proposed to act as sensors for intracellular DNA in recent years, none has been met with universal acceptance, and a theory linking all the recent observations is, as yet, lacking.
+This review presents the evidence for the various interferon-inducing DNA receptors proposed to date, and examines the hypotheses that might explain why so many different receptors appear to be involved in the innate immune recognition of intracellular DNA."] 
+26048136 The Cytosolic Sensor cGAS Detects Mycobacterium tuberculosis DNA to Induce Type I Interferons and Activate Autophagy.
+['Type I interferons (IFNs) are critical mediators of antiviral defense, but their elicitation by bacterial pathogens can be detrimental to hosts.
+Many intracellular bacterial pathogens, including Mycobacterium tuberculosis, induce type I IFNs following phagosomal membrane perturbations.
+Cytosolic M. tuberculosis DNA has been implicated as a trigger for IFN production, but the mechanisms remain obscure.
+We report that the cytosolic DNA sensor, cyclic GMP-AMP synthase (cGAS), is required for activating IFN production via the STING/TBK1/IRF3 pathway during M. tuberculosis and L. pneumophila infection of macrophages, whereas L. monocytogenes short-circuits this pathway by producing the STING agonist, c-di-AMP. Upon sensing cytosolic DNA, cGAS also activates cell-intrinsic antibacterial defenses, promoting autophagic targeting of M. tuberculosis.
+Importantly, we show that cGAS binds M. tuberculosis DNA during infection, providing direct evidence that this unique host-pathogen interaction occurs in vivo.
+These data uncover a mechanism by which IFN is likely elicited during active human infections.'] 
+24049081 siRNA enhances DNA-mediated interferon lambda-1 response through crosstalk between RIG-I and IFI16 signalling pathway.
+['In addition to silencing specific genes, small interfering RNA (siRNA) transfection is also associated with the non-specific induction of inflammatory cytokines and type I interferon.
+Those so-called "off-target" effects have considerable implications for the interpretation of in vitro studies and clinical application of siRNA.
+The present study attempted to develop a better understanding of the mechanism involved in these off target effects.
+Synthesized siRNA significantly enhances DNA-mediated interferon lambda-1 response (IFN-λ1/IL-29), a newly characterized antiviral interferon in non-immune or primary immune cells.
+This enhancement was most pronounced by double-stranded siRNA with at least a 2-nucleotide overhang at one 3\' terminus in a dose-dependent manner, while the presence of DNA was indispensable.
+A pull-down assay using biotinylated siRNA- or DNA-conjugated beads indicated that retinoic acid-inducible gene I (RIG-I) and interferon gamma-inducible protein 16 (IFI16) were involved in the sensing of siRNA and DNA, respectively.
+Co-immunoprecipitation analysis further revealed that RIG-I and IFI16 formed a complex via siRNA, and the dissociation of IFI16 from this complex in the presence of DNA activated the downstream STING-TBK1-IRF3 (stimulator of interferon genes - tank-binding kinase 1 - interferon regulatory factor 3) pathway, shedding light on a new physiological signalling pathway to activate innate immunity.
+Collectively, these findings may provide rational information for siRNA-induced innate immunity, with important implications for developing siRNA-based reagents to control human diseases.'] 
+23251783 DNA-PK is a DNA sensor for IRF-3-dependent innate immunity.
+['Innate immunity is the first immunological defence against pathogens.
+During virus infection detection of nucleic acids is crucial for the inflammatory response.
+Here we identify DNA-dependent protein kinase (DNA-PK) as a DNA sensor that activates innate immunity.
+We show that DNA-PK acts as a pattern recognition receptor, binding cytoplasmic DNA and triggering the transcription of type I interferon (IFN), cytokine and chemokine genes in a manner dependent on IFN regulatory factor 3 (IRF-3), TANK-binding kinase 1 (TBK1) and stimulator of interferon genes (STING).
+Both cells and mice lacking DNA-PKcs show attenuated cytokine responses to both DNA and DNA viruses but not to RNA or RNA virus infection.
+DNA-PK has well-established functions in the DNA repair and V(D)J recombination, hence loss of DNA-PK leads to severe combined immunodeficiency (SCID).
+However, we now define a novel anti-microbial function for DNA-PK, a finding with implications for host defence, vaccine development and autoimmunity.
+DOI:http://dx.doi.org/10.7554/eLife.00047.001.'] 
+27696330 DNA sensor cGAS-mediated immune recognition.
+[StringElement('The host takes use of pattern recognition receptors (PRRs) to defend against pathogen invasion or cellular damage.
+Among microorganism-associated molecular patterns detected by host PRRs, nucleic acids derived from bacteria or viruses are tightly supervised, providing a fundamental mechanism of host defense.
+Pathogenic DNAs are supposed to be detected by DNA sensors that induce the activation of NFκB or TBK1-IRF3 pathway.
+DNA sensor cGAS is widely expressed in innate immune cells and is a key sensor of invading DNAs in several cell types.
+cGAS binds to DNA, followed by a conformational change that allows the synthesis of cyclic guanosine monophosphate-adenosine monophosphate (cGAMP) from adenosine triphosphate and guanosine triphosphate.
+cGAMP is a strong activator of STING that can activate IRF3 and subsequent type I interferon production.
+Here we describe recent progresses in DNA sensors especially cGAS in the innate immune responses against pathogenic DNAs.'
+, attributes={'NlmCategory': 'UNASSIGNED'})] 
+27343555 Intracellular delivery of poly(I:C) induces apoptosis of fibroblast-like synoviocytes via an unknown dsRNA sensor.
+['Fibroblast-like synoviocytes (FLS) express functional membranous and cytoplasmic sensors for double-stranded (ds)RNA. Notably, FLS undergo apoptosis upon transfection with the synthetic dsRNA analog poly(I:C).
+We here studied the mechanism of intracellular poly(I:C) recognition and subsequent cell death in FLS. FLS responded similarly to poly(I:C) or 3pRNA transfection;
+however, only intracellular delivery of poly(I:C) induced significant cell death, accompanied by upregulation of pro-apoptotic proteins Puma and Noxa, caspase 3 cleavage, and nuclear segregation.
+Knockdown of the DExD/H-box helicase MDA5 did not affect the response to intracellular poly(I:C); in contrast, knockdown of RIG-I abrogated the response to 3pRNA. Knockdown of the downstream adaptor proteins IPS, STING, and TRIF or inhibition of TBK1 did not affect the response to intracellular poly(I:C), while knockdown of IFNAR blocked intracellular poly(I:C)-mediated signaling and cell death.
+We conclude that a so far unknown intracellular sensor recognizes linear dsRNA and induces apoptosis in FLS.'] 
+27168019 Antiviral factors and type I/III interferon expression associated with regulatory factors in the oral epithelial cells from HIV-1-serodiscordant couples.
+['Individuals who remain HIV-seronegative despite repeated unprotected exposure to the virus are defined as exposed seronegative (ESN) individuals.
+Innate and adaptive immunity, as well as genetic factors, provide ESNs with important advantages that allow for low infection susceptibility.
+The majority of HIV-1-infected individuals undergo antiretroviral therapy, which can decrease the level of HIV-1 exposure in ESNs.
+We analyzed type I interferon (IFN)-related antiviral and regulatory factors in peripheral blood mononuclear cells (PBMCs) and oral epithelial cells from serodiscordant couples.
+Our findings revealed that ESNs did not induce the expression of antiviral factors (APOBEC-3G, TRIM5-α, SAMDH1, STING, TBk1) or regulatory factors (Trex, Foxo3, Socs3, IL-10) in PBMCs, unlike their HIV-1-infected partners.
+In contrast, ESNs upregulated APOBEC-3G and type I/III IFNs (IFNs-α,-β/-λ) in oral mucosal epithelial cells similar to their HIV-infected partners.
+The serodiscordant groups exhibited an increased expression of type I IFN-induced regulators, such as Trex and Foxo3, in oral epithelial cells.
+TLR7, TLR8 and TLR9 were expressed in oral epithelial cells of both ESNs and HIV-1-infected subjects.
+These findings revealed evidence of antiviral factors, type I/III interferon and regulatory factor expression only in the oral mucosal compartment of ESNs, while HIV-1-infected partners systemically and oral mucosal expressed the antiviral profile.'] 
+26920710 Responses of the Toll-like receptor and melanoma differentiation-associated protein 5 signaling pathways to avian infectious bronchitis virus infection in chicks.
+['Avian infectious bronchitis virus (IBV) is a Gammacoronavirus in the family Coronaviridae and causes highly contagious respiratory disease in chickens.
+Innate immunity plays significant roles in host defense against IBV.
+Here, we explored the interaction between IBV and the host innate immune system.
+Severe histopathological lesions were observed in the tracheal mucosa at 3-5 days post inoculation (dpi) and in the kidney at 8 dpi, with heavy viral loads at 1-11 and 1-28 dpi, respectively.
+The expression of mRNAs encoding Toll-like receptor (TLR) 3 and TLR7 were upregulated at 3-8 dpi, and that of TIR-domain-containing adapter-inducing interferon (IFN
+) β (TRIF) was upregulated at 21 dpi in the trachea and kidney.
+Myeloid differentiation primary response protein 88 (MyD88) was upregulated in the trachea during early infection.
+Tumor necrosis factor receptor-associated factor (TRAF) 3 and TRAF6 were upregulated expression in both tissues.
+Moreover, melanoma differentiation-associated protein 5 (MDA5), laboratory of genetics and physiology 2 (LGP2), stimulator of IFN genes (STING), and mitochondrial antiviral signaling protein (MAVS), as well as TANK binding kinase 1 (TBK1), inhibitor of kappaB kinase (IKK) ε, IKKα, IKKβ, IFN regulatory factor (IRF) 7, nuclear factor of kappaB (NF-ĸB), IFN-α, IFN-β, various interleukins(ILs), and macrophage inflammatory protein-1β (MIP-1β) were significantly upregulated in the trachea and downregulated in the kidney.
+These results suggested that the TLR and MDA5 signaling pathways and innate immune cytokine were induced after IBV infection.
+Additionally, consistent responses to IBV infection were observed during early infection, with differential and complicated responses in the kidney.'] 
+26811480 Cytoplasmic isoforms of Kaposi sarcoma herpesvirus LANA recruit and antagonize the innate immune DNA sensor cGAS. ['The latency-associated nuclear antigen (LANA) of Kaposi sarcoma herpesvirus (KSHV) is mainly localized and functions in the nucleus of latently infected cells, playing a pivotal role in the replication and maintenance of latent viral episomal DNA.
+In addition, N-terminally truncated cytoplasmic isoforms of LANA, resulting from internal translation initiation, have been reported, but their function is unknown.
+Using coimmunoprecipitation and MS, we found the cGMP-AMP synthase (cGAS), an innate immune DNA sensor, to be a cellular interaction partner of cytoplasmic LANA isoforms.
+By directly binding to cGAS, LANA, and particularly, a cytoplasmic isoform, inhibit the cGAS-STING-dependent phosphorylation of TBK1 and IRF3 and thereby antagonize the cGAS-mediated restriction of KSHV lytic replication.
+We hypothesize that cytoplasmic forms of LANA, whose expression increases during lytic replication, inhibit cGAS to promote the reactivation of the KSHV from latency.
+This observation points to a novel function of the cytoplasmic isoforms of LANA during lytic replication and extends the function of LANA from its role during latency to the lytic replication cycle.'] 
+26259872 ISG15 counteracts Listeria monocytogenes infection.
+['ISG15 is an interferon-stimulated, linear di-ubiquitin-like protein, with anti-viral activity.
+The role of ISG15 during bacterial infection remains elusive.
+We show that ISG15 expression in nonphagocytic cells is dramatically induced upon Listeria infection.
+Surprisingly this induction can be type I interferon independent and depends on the cytosolic surveillance pathway, which senses bacterial DNA and signals through STING, TBK1, IRF3 and IRF7.
+Most importantly, we observed that ISG15 expression restricts Listeria infection in vitro and in vivo.
+We made use of stable isotope labeling in tissue culture (SILAC) to identify ISGylated proteins that could be responsible for the protective effect.
+Strikingly, infection or overexpression of ISG15 leads to ISGylation of ER and Golgi proteins, which correlates with increased secretion of cytokines known to counteract infection.
+Together, our data reveal a previously uncharacterized ISG15-dependent restriction of Listeria infection, reinforcing the view that ISG15 is a key component of the innate immune response.'] 
+21625574 Type I interferon production induced by Streptococcus pyogenes-derived nucleic acids is required for host protection.
+['Streptococcus pyogenes is a Gram-positive human pathogen that is recognized by yet unknown pattern recognition receptors (PRRs).
+Engagement of these receptor molecules during infection with S. pyogenes, a largely extracellular bacterium with limited capacity for intracellular survival, causes innate immune cells to produce inflammatory mediators such as TNF, but also type I interferon (IFN).
+Here we show that signaling elicited by type I IFNs is required for successful defense of mice against lethal subcutaneous cellulitis caused by S. pyogenes.
+Type I IFN signaling was accompanied with reduced neutrophil recruitment to the site of infection.
+Mechanistic analysis revealed that macrophages and conventional dendritic cells (cDCs) employ different signaling pathways leading to IFN-beta production.
+Macrophages required IRF3, STING, TBK1 and partially MyD88, whereas in cDCs the IFN-beta production was fully dependent on IRF5 and MyD88.
+Furthermore, IFN-beta production by macrophages was dependent on the endosomal delivery of streptococcal DNA, while in cDCs streptococcal RNA was identified as the IFN-beta inducer.
+Despite a role of MyD88 in both cell types, the known IFN-inducing TLRs were individually not required for generation of the IFN-beta response.
+These results demonstrate that the innate immune system employs several strategies to efficiently recognize S. pyogenes, a pathogenic bacterium that succeeded in avoiding recognition by the standard arsenal of TLRs.'] 
+25907950 [Expression of helicase DDX41 in human dental pulp tissues and cells].
+[StringElement('To detect the expression of D-E-A-D-box polypeptide 41 (DDX41) in human dental pulp tissues and cells.', attributes={'Label': 'OBJECTIVE', 'NlmCategory': 'OBJECTIVE'}), StringElement('The mRNA and protein expressions of DDX41 in human dental pulp cells were detected by RT-PCR and immunocytochemistry, and the expression of DDX41 in human dental pulp tissues was investigated by immunohistochemistry.', attributes={'Label': 'METHODS', 'NlmCategory': 'METHODS'}), StringElement('Strong expressions of DDX41 mRNA and protein were detected in dental pulp cells.
+In dental pulp tissues, DDX41 was expressed in the cytoplasm and nucleus of odontoblasts.', attributes={'Label': 'RESULTS', 'NlmCategory': 'RESULTS'}), StringElement('DDX41/STING-dependent TBK1-IRF3-IFN-β signaling pathway may play a role in innate immune responses of the dental pulp to caries and pulpitis.', attributes={'Label': 'CONCLUSION', 'NlmCategory': 'CONCLUSIONS'})] 
+25605799
+A KALA-modified lipid nanoparticle containing CpG-free plasmid DNA as a potential DNA vaccine carrier for antigen presentation and as an immune-stimulative adjuvant.
+['Technologies that delivery antigen-encoded plasmid DNA (pDNA) to antigen presenting cell and their immune-activation are required for the success of DNA vaccines.
+Here we report on an artificial nanoparticle that can achieve these; a multifunctional envelope-type nanodevice modified with KALA, a peptide that forms α-helical structure at physiological pH (KALA-MEND).
+KALA modification and the removal of the CpG-motifs from the pDNA synergistically boosted transfection efficacy.
+In parallel, transfection with the KALA-MEND enhances the production of multiple cytokines and chemokines and co-stimulatory molecules via the Toll-like receptor 9-independent manner.
+Endosome-fusogenic lipid envelops and a long length of pDNA are essential for this immune stimulation.
+Furthermore, cytoplasmic dsDNA sensors that are related to the STING/TBK1 pathway and inflammasome are involved in IFN-β and IL-1β production, respectively.
+Consequently, the robust induction of antigen-specific cytotoxic T-lymphoma activity and the resulting prophylactic and therapeutic anti-tumor effect was observed in mice that had been immunized with bone marrow-derived dendritic cells ex vivo transfected with antigen-encoding pDNA.
+Collectively, the KALA-MEND possesses dual functions; gene transfection system and immune-stimulative adjuvant, those are both necessary for the successful DNA vaccine.'] 
+25002588 Interferon γ-inducible protein (IFI) 16 transcriptionally regulates type i interferons and other interferon-stimulated genes and controls the interferon response to both DNA and RNA viruses.
+['The interferon γ-inducible protein 16 (IFI16) has recently been linked to the detection of nuclear and cytosolic DNA during infection with herpes simplex virus-1 and HIV. IFI16 binds dsDNA via HIN200 domains and activates stimulator of interferon genes (STING), leading to TANK (TRAF family member-associated NF-κB activator)-binding kinase-1 (TBK1)-dependent phosphorylation of interferon regulatory factor (IRF) 3 and transcription of type I interferons (IFNs) and related genes.
+To better understand the role of IFI16 in coordinating type I IFN gene regulation, we generated cell lines with stable knockdown of IFI16 and examined responses to DNA and RNA viruses as well as cyclic dinucleotides.
+As expected, stable knockdown of IFI16 led to a severely attenuated type I IFN response to DNA ligands and viruses.
+In contrast, expression of the NF-κB-regulated cytokines IL-6 and IL-1β was unaffected in IFI16 knockdown cells, suggesting that the role of IFI16 in sensing these triggers was unique to the type I IFN pathway.
+Surprisingly, we also found that knockdown of IFI16 led to a severe attenuation of IFN-α and the IFN-stimulated gene retinoic acid-inducible gene I (RIG-
+I) in response to cyclic GMP-AMP, a second messenger produced by cyclic GMP-AMP synthase (cGAS) as well as RNA ligands and viruses.
+Analysis of IFI16 knockdown cells revealed compromised occupancy of RNA polymerase II on the IFN-α promoter in these cells, suggesting that transcription of IFN-stimulated genes is dependent on IFI16.
+These results indicate a broader role for IFI16 in the regulation of the type I IFN response to RNA and DNA viruses in antiviral immunity.'] 
+24509445 HBV life cycle is restricted in mouse hepatocytes expressing human NTCP. ['Recent studies have revealed that human sodium taurocholate cotransporting polypeptide (SLC10A1 or NTCP) is a functional cellular receptor for hepatitis B virus (HBV).
+However, whether human NTCP can support HBV infection in mouse hepatocyte cell lines has not been clarified.
+Because an HBV-permissible mouse model would be helpful for the study of HBV pathogenesis, it is necessary to investigate whether human NTCP supports the susceptibility of mouse hepatocyte cell lines to HBV.
+The results show that exogenous human NTCP expression can render non-susceptible HepG2 (human), Huh7 (human), Hepa1-6 (mouse), AML-12 (mouse) cell lines and primary mouse hepatocyte (PMH) cells susceptible to hepatitis D virus (HDV) which employs HBV envelope proteins.
+However, human NTCP could only introduce HBV susceptibility in human-derived HepG2 and Huh7 cells, but not in mouse-derived Hepa1-6, AML-12 or PMH cells.
+These data suggest that although human NTCP is a functional receptor that mediates HBV infection in human cells, it cannot support HBV infection in mouse hepatocytes.
+Our study indicated that the restriction of HBV in mouse hepatocytes likely occurs after viral entry but prior to viral transcription.
+We have excluded the role of mouse hepatocyte nuclear factors in the restriction of the HBV life cycle and showed that knockdown or inhibition of Sting, TBK1, IRF3 or IRF7, the components of the anti-viral signaling pathways, had no effect on HBV infection in mouse hepatocytes.
+Therefore, murine restriction factors that limit HBV infection need to be identified before a HBV-permissible mouse line can be created.'] 
+24335288 Innate immune response induced by baculovirus attenuates transgene expression in mammalian cells.
+['The baculovirus Autographa californica nucleopolyhedrovirus (AcNPV) has been widely used to achieve a high level of foreign gene expression in insect cells, as well as for efficient gene transduction into mammalian cells without any replication.
+In addition to permitting efficient gene delivery, baculovirus has been shown to induce host innate immune responses in various mammalian cells and in mice.
+In this study, we examined the effects of the innate immune responses on gene expression by recombinant baculoviruses in cultured cells.
+The reporter gene expression in IRF3-deficient mouse embryonic fibroblasts (MEFs) infected with the recombinant baculovirus was shown to be enhanced in accordance with the suppression of beta interferon (IFN-β) production.
+Furthermore, efficient gene transduction by the recombinant baculovirus was achieved in MEFs deficient for stimulator of interferon genes (STING), TANK binding kinase 1 (TBK1), IFN regulatory factor 3 (IRF3), or IFN-β promoter stimulator 1 (IPS-1), but not in those deficient for IRF7, MyD88, or Z-DNA binding protein 1 (ZBP1)/DAI. Enhancement of gene expression by the recombinant baculovirus was also observed in human hepatoma cell lines replicating hepatitis C virus (HCV), in which innate immunity was impaired by the cleavage of IPS-1 by the viral protease.
+In addition, infection with the recombinant baculovirus expressing the BH3-only protein, BIMS, a potent inducer of apoptosis, resulted in a selective cell death in the HCV replicon cells.
+These results indicate that innate immune responses induced by infection with baculovirus attenuate transgene expression, and this characteristic might be useful for a selective gene transduction into cells with impaired innate immunity arising from infection with various viruses.'] 
+24332030 Cyclic GMP-AMP synthase is activated by double-stranded DNA-induced oligomerization.
+["Cyclic GMP-AMP synthase (cGAS) is a cytosolic DNA sensor mediating innate antimicrobial immunity.
+It catalyzes the synthesis of a noncanonical cyclic dinucleotide, 2',5' cGAMP, that binds to STING and mediates the activation of TBK1 and IRF-3.
+Activated IRF-3 translocates to the nucleus and initiates the transcription of the IFN-β gene.
+The structure of mouse cGAS bound to an 18 bp dsDNA revealed that cGAS interacts with dsDNA through two binding sites, forming a 2:2 complex.
+Enzyme assays and IFN-β reporter assays of cGAS mutants demonstrated that interactions at both DNA binding sites are essential for cGAS activation.
+Mutagenesis and DNA binding studies showed that the two sites bind dsDNA cooperatively and that site B plays a critical role in DNA binding.
+The structure of mouse cGAS bound to dsDNA and 2',5' cGAMP provided insight into the catalytic mechanism of cGAS.
+These results demonstrated that cGAS is activated by dsDNA-induced oligomerization."] 
+24185615 ELF4 is critical for induction of type I interferon and the host antiviral response.
+['Induction of type I interferon is a central event of innate immunity, essential for host defense.
+Here we report that the transcription factor ELF4 is induced by type I interferon and upregulates interferon expression in a feed-forward loop.
+ELF4 deficiency leads to reduced interferon production, resulting in enhanced susceptibility to West Nile virus encephalitis in mice.
+After viral infection, ELF4 is recruited by STING, interacts with and is activated by the MAVS-TBK1 complex, and translocates into the nucleus to bind interferon promoters.
+Cooperative binding with ELF4 increases the binding affinity of interferon regulatory factors IRF3 and IRF7, which is mediated by EICE elements.
+Thus, in addition to identifying a regulator of innate immune signaling, we uncovered a role for EICE elements in interferon transactivation.'] 
+24237704 Human cytomegalovirus tegument protein pUL83 inhibits IFI16-mediated DNA sensing for immune evasion.
+['Nuclear sensing of viral DNA has emerged as an essential step in innate immune responses against herpesviruses.
+Here, we provide mechanistic insight into host recognition of human cytomegalovirus (HCMV) and subsequent immune evasion by this prominent DNA virus.
+We establish that the interferon-inducible protein IFI16 acts as a nuclear DNA sensor following HCMV infection, binding viral DNA and triggering expression of antiviral cytokines via the STING-TBK1-IRF3 signaling pathway.
+The HCMV tegument protein pUL83 inhibits this response by interacting with the IFI16 pyrin domain, blocking its oligomerization upon DNA sensing and subsequent immune signals.
+pUL83 disrupts IFI16 by concerted action of its N- and C-terminal domains, in which an evolutionarily conserved N-terminal pyrin association domain (PAD) binds IFI16.
+Additionally, phosphorylation of the N-terminal domain modulates pUL83-mediated inhibition of pyrin aggregation.
+Collectively, our data elucidate the interplay between host DNA sensing and HCMV immune evasion, providing targets for restoring antiviral immunity.'] 
+24154727 IFI16 senses DNA forms of the lentiviral replication cycle and controls HIV-1 replication.
+['Replication of lentiviruses generates different DNA forms, including RNA:DNA hybrids, ssDNA, and dsDNA. Nucleic acids stimulate innate immune responses, and pattern recognition receptors detecting dsDNA have been identified.
+However, sensors for ssDNA have not been reported, and the ability of RNA:DNA hybrids to stimulate innate immune responses is controversial.
+Using ssDNAs derived from HIV-1 proviral DNA, we report that this DNA form potently induces the expression of IFNs in primary human macrophages.
+This response was stimulated by stem regions in the DNA structure and was dependent on IFN-inducible protein 16 (IFI16), which bound immunostimulatory DNA directly and activated the stimulator of IFN genes -TANK-binding kinase 1 - IFN regulatory factors 3/7 (STING-TBK1-IRF3/7) pathway.
+Importantly, IFI16 colocalized and associated with lentiviral DNA in the cytoplasm in macrophages, and IFI16 knockdown in this cell type augmented lentiviral transduction and also HIV-1 replication.
+Thus, IFI16 is a sensor for DNA forms produced during the lentiviral replication cycle and regulates HIV-1 replication in macrophages.'] 
+23160154 Trex1 regulates lysosomal biogenesis and interferon-independent activation of antiviral genes.
+["The sensing of viral nucleic acids by the innate immune system triggers the production of type I interferons, which activates interferon-stimulated genes (ISGs) and directs a multifaceted antiviral response.
+ISGs can also be activated through interferon-independent pathways, although the precise mechanisms remain elusive.
+Here we found that the cytosolic exonuclease Trex1 regulated the activation of a subset of ISGs independently of interferon.
+Both Trex1(-/-) mouse cells and Trex1-mutant human cells had high expression of genes encoding antiviral molecules ('antiviral genes') and were refractory to viral infection.
+The interferon-independent activation of antiviral genes in Trex1(-/-) cells required the adaptor STING, the kinase TBK1 and the transcription factors IRF3 and IRF7.
+We also found that Trex1-deficient cells had an expanded lysosomal compartment, altered subcellular localization of the transcription factor TFEB and diminished activity of the regulator mTORC1.
+Together our data identify Trex1 as a regulator of lysosomal biogenesis and interferon-independent activation of antiviral genes and show that dysregulation of lysosomes can elicit innate immune responses."] 
+22927244 Cytosolic sensing of extracellular self-DNA transported into monocytes by the antimicrobial peptide LL37.
+['The intracellular location of nucleic acid sensors prevents recognition of extracellular self-DNA released by dying cells.
+However, on forming a complex with the endogenous antimicrobial peptide LL37, extracellular DNA is transported into endosomal compartments of plasmacytoid dendritic cells, leading to activation of Toll-like receptor-9 and induction of type I IFNs.
+Whether LL37 also transports self-DNA into nonplasmacytoid dendritic cells, leading to type I IFN production via other intracellular DNA receptors is unknown.
+Here we found that LL37 very efficiently transports self-DNA into monocytes, leading the production of type I IFNs in a Toll-like receptor-independent manner.
+This type I IFN induction was mediated by double-stranded B form DNA, regardless of its sequence, CpG content, or methylation status, and required signaling through the adaptor protein STING and TBK1 kinase, indicating the involvement of cytosolic DNA sensors.
+Thus, our study identifies a novel link between the antimicrobial peptides and type I IFN responses involving DNA-dependent activation of cytosolic sensors in monocytes.'] 
+25953029 Modulating APOBEC expression enhances DNA vaccine immunogenicity.
+['DNA vaccines have failed to induce satisfactory immune responses in humans.
+Several mechanisms of double-stranded DNA (dsDNA) sensing have been described, and modulate DNA vaccine immunogenicity at many levels.
+We hypothesized that the immunogenicity of DNA vaccines in humans is suppressed by APOBEC (apolipoprotein B (APOB) mRNA-editing, catalytic polypeptide)-mediated plasmid degradation.
+We showed that plasmid sensing via STING (stimulator of interferon (IFN) genes) and TBK-1 (TANK-binding kinase 1) leads to IFN-β induction, which results in APOBEC3A mRNA upregulation through a mechanism involving protein kinase C signaling.
+We also showed that murine APOBEC2 expression in HEK293T cells led to a 10-fold reduction in intracellular plasmid levels and plasmid-encoded mRNA, and a 2.6-fold reduction in GFP-expressing cells.
+A bicistronic DNA vaccine expressing an immunogen and an APOBEC2-specific shRNA efficiently silenced APOBEC2 both in vitro and in vivo, increasing the frequency of induced IFN-γ-secreting T cells.
+Our study brings new insights into the intracellular machinery involved in dsDNA sensing and how to modulate it to improve DNA vaccine immunogenicity in humans.'] 
+22901810 Extracellular M. tuberculosis DNA targets bacteria for autophagy by activating the host DNA-sensing pathway.
+['Eukaryotic cells sterilize the cytosol by using autophagy to route invading bacterial pathogens to the lysosome.
+During macrophage infection with Mycobacterium tuberculosis, a vacuolar pathogen, exogenous induction of autophagy can limit replication, but the mechanism of autophagy targeting and its role in natural infection remain unclear.
+Here we show that phagosomal permeabilization mediated by the bacterial ESX-1 secretion system allows cytosolic components of the ubiquitin-mediated autophagy pathway access to phagosomal M. tuberculosis.
+Recognition of extracelluar bacterial DNA by the STING-dependent cytosolic pathway is required for marking bacteria with ubiquitin, and delivery of bacilli to autophagosomes requires the ubiquitin-autophagy receptors p62 and NDP52 and the DNA-responsive kinase TBK1.
+Remarkably, mice with monocytes incapable of delivering bacilli to the autophagy pathway are extremely susceptible to infection.
+Our results reveal an unexpected link between DNA sensing, innate immunity, and autophagy and indicate a major role for this autophagy pathway in resistance to M. tuberculosis infection.'] 
+22607800 Mycobacterium tuberculosis activates the DNA-dependent cytosolic surveillance pathway within macrophages.
+['Cytosolic bacterial pathogens activate the cytosolic surveillance pathway (CSP) and induce innate immune responses, but how the host detects vacuolar pathogens like Mycobacterium tuberculosis is poorly understood.
+We show that M.\xa0tuberculosis also initiates the CSP upon macrophage infection via limited perforation of the phagosome membrane mediated by the ESX-1 secretion system.
+Although the bacterium remains within the phagosome, this permeabilization results in phagosomal and cytoplasmic mixing and allows extracellular mycobacterial DNA to access host cytosolic receptors, thus blurring the distinction between "vacuolar" and "cytosolic" pathogens.
+Activation of cytosolic receptors induces signaling through the Sting/Tbk1/Irf3 axis, resulting in IFN-β production.
+Surprisingly, Irf3(-/-) mice, which cannot respond to cytosolic DNA, are resistant to long-term M.\xa0tuberculosis infection, suggesting that the CSP promotes M.\xa0tuberculosis infection.
+Thus, cytosolic sensing of mycobacterial DNA plays a key role in M.\xa0tuberculosis pathogenesis and likely contributes to the high type I IFN signature in tuberculosis.'] 
+22924041 Hantavirus regulation of type I interferon responses.
+['Hantaviruses primarily infect human endothelial cells (ECs) and cause two highly lethal human diseases.
+Early addition of Type I interferon (IFN) to ECs blocks hantavirus replication and thus for hantaviruses to be pathogenic they need to prevent early interferon induction.
+PHV replication is blocked in human ECs, but not inhibited in IFN deficient VeroE6 cells and consistent with this, infecting ECs with PHV results in the early induction of IFNβ and an array of interferon stimulated genes (ISGs).
+In contrast, ANDV, HTNV, NY-1V and TULV hantaviruses, inhibit early ISG induction and successfully replicate within human ECs.
+Hantavirus inhibition of IFN responses has been attributed to several viral proteins including regulation by the Gn proteins cytoplasmic tail (Gn-T).
+The Gn-T interferes with the formation of STING-TBK1-TRAF3 complexes required for IRF3 activation and IFN induction, while the PHV Gn-T fails to alter this complex or regulate IFN induction.
+These findings indicate that interfering with early IFN induction is necessary for hantaviruses to replicate in human ECs, and suggest that additional determinants are required for hantaviruses to be pathogenic.
+The mechanism by which Gn-Ts disrupt IFN signaling is likely to reveal potential therapeutic interventions and suggest protein targets for attenuating hantaviruses.'] 
+21586648 Streptococcus pneumoniae DNA initiates type I interferon signaling in the respiratory tract.
+[StringElement('The mucosal epithelium is the initial target for respiratory pathogens of all types.
+While type I interferon (IFN) signaling is traditionally associated with antiviral immunity, we demonstrate that the extracellular bacterial pathogen Streptococcus pneumoniae activates the type I IFN cascade in airway epithelial and dendritic cells.
+This response is dependent upon the pore-forming toxin pneumolysin.
+Pneumococcal DNA activates IFN-β expression through a DAI/STING/TBK1/IRF3 cascade.
+Tlr4(-/-), Myd88(-/-), Trif(-/-), and Nod2(-/-) mutant mice had no impairment of type I IFN signaling.
+Induction of type I IFN signaling contributes to the eradication of pneumococcal carriage, as IFN-α/β receptor null mice had significantly increased nasal colonization with S. pneumoniae compared with that of wild-type mice.
+These studies suggest that the type I IFN cascade is a central component of the mucosal response to airway bacterial pathogens and is responsive to bacterial pathogen-associated molecular patterns that are capable of accessing intracellular receptors.', attributes={'Label': 'UNLABELLED'}), StringElement('The bacterium Streptococcus pneumoniae is a leading cause of bacterial pneumonia, leading to upwards of one million deaths a year worldwide and significant economic burden.
+Although it is known that antibody is critical for efficient phagocytosis, it is not known how this pathogen is sensed by the mucosal epithelium.
+We demonstrate that this extracellular pathogen activates mucosal signaling typically activated by viral pathogens via the pneumolysin pore to activate intracellular receptors and the type I interferon (IFN) cascade.
+Mice lacking the receptor to type I IFNs have a reduced ability to clear S. pneumoniae, suggesting that the type I IFN cascade is central to the mucosal clearance of this important pathogen.'
+, attributes={'Label': 'IMPORTANCE', 'NlmCategory': 'OBJECTIVE'})] 
+24489095 Inflammatory cytokines break down intrinsic immunological tolerance of human primary keratinocytes to cytosolic DNA. ['Keratinocytes are involved in protecting the body from infections and environmental challenges, but also in inflammatory conditions like psoriasis.
+DNA has emerged as a potent stimulator of innate immune responses, but there is largely no information of how keratinocytes respond to cytosolic DNA.
+In this study, we report that human keratinocytes are tolerant to cytoplasmic DNA.
+However, if treated with inflammatory cytokines, keratinocytes gained the capacity to respond to DNA through a mechanism antagonized by the antimicrobial peptide LL37, proposed to be involved in activation and regulation of skin inflammation.
+The DNA sensor IFN-inducible protein 16 (IFI16) colocalized with DNA and the signaling molecule stimulator of IFN genes (STING) in the cytoplasm only in cytokine-stimulated cells, correlating with recruitment of the essential kinase TANK-binding kinase 1.
+Moreover, IFI16 was essential for DNA-driven innate immune responses in keratinocytes.
+Finally, IFI16 was upregulated in psoriasis skin lesions and localized to the cytoplasm in a subpopulation of cells.
+Collectively, this work suggests that inflammatory environments in the skin can lead to breakdown of tolerance for DNA in keratinocytes, which could contribute to the development of inflammatory diseases.'] 
+20871604 The cytosolic exonuclease TREX1 inhibits the innate immune response to human immunodeficiency virus type 1.
+['Viral infection triggers innate immune sensors to produce type I interferon.
+However, infection of T cells and macrophages with human immunodeficiency virus (HIV) does not trip those alarms.
+How HIV avoids activating nucleic acid sensors is unknown.
+Here we found that the cytosolic exonuclease TREX1 suppressed interferon triggered by HIV. In Trex1(-/-) mouse cells and human CD4(+) T cells and macrophages in which TREX1 was inhibited by RNA-mediated interference, cytosolic HIV DNA accumulated and HIV infection induced type I interferon that inhibited HIV replication and spreading.
+TREX1 bound to cytosolic HIV DNA and digested excess HIV DNA that would otherwise activate interferon expression via a pathway dependent on the kinase TBK1, the adaptor STING and the transcription factor IRF3.
+HIV-stimulated interferon production in cells deficient in TREX1 did not involve known nucleic acid sensors.'] 
+23419517 DNA sensing unchained.
+['In two recent reports in Science, James Chen and colleagues provide compelling evidence that detection of cytosolic DNA triggers the production of a novel second messenger, cyclic GMP-AMP (cGAMP), which in turn activates a signaling pathway that induces type I interferons (IFNs) in a STING-dependent manner.
+They further unravel a key role for a so far uncharacterized murine protein E330016A19 (human homolog: C6ORF150), now termed cGAMP synthetase (cGAS), to act as the DNA sensor that generates cGAMP.'] 

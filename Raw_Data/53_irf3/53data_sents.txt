@@ -1,0 +1,117 @@
+27503123 Currently the full-text not available c-Cbl-mediated ubiquitination of IRF3 negatively regulates IFN-β production and cellular antiviral response.
+Cellular signalling ['Induction of type I interferon is a fundamental cellular response to viral infection.
+Interferon regulatory factor 3 (IRF3) plays an essential role in Toll-like receptor (TLR) and retinoic acid-inducible gene I (RIG-I) mediated induction of type I interferon and host antiviral responses.
+However, posttranslational regulation of IRF3 remains to be fully understood.
+In this study, we identified E3 ubiquitin ligase Casitas B-lineage lymphoma (c-Cbl) as a negative regulator for IRF3 protein stability and IFN-β signal pathway.
+Knockdown of c-Cbl expression by small interfering RNA enhanced virus-induced IFN-β production as well as cellular antiviral response, whereas overexpression of c-Cbl inhibited virus-induced IFN-β signaling.
+Coimmunoprecipitation experiments demonstrated that c-Cbl interacted with IRF3 via TKB domain of c-Cbl and IRF association domain of IRF3, promoting K48-linked polyubiquitination and proteasomal degradation of IRF3.
+Therefore, our findings suggest that c-Cbl negatively regulates IFN-β signaling and cellular antiviral response by promoting IRF3 ubiquitination and degradation, providing a new mechanism for control of type I interferon induction.'] 
+
+27530922 Currently the full-text not available IRF3 is involved in human acute myeloid leukemia through regulating the expression of miR-155.
+Biochemical and biophysical research communications ['Acute myeloid leukemia (AML) is a serious disease of the hematopoietic system characterized by de-differentiation and uncontrolled proliferation of immature hematopoietic precursor cells in the bone marrow.
+However, the underlying mechanism of AML development remains largely unknown.
+Here in this study, we report the function of IRF3, a member of the interferon-regulatory factor (IRF) family, in human AML. We first show that IRF3 mRNA and protein levels are significantly up-regulated in human AML compared with healthy donors.
+IRF3 knockdown inhibits cellular proliferation and colony formation in OCI/AML-2 and OCI/AML-3\xa0cells.
+In addition, IRF3 knockdown induces apoptosis of OCI/AML-2 and OCI/AML-3\xa0cells, whereas IRF3 overexpression promotes cell survival.
+Further mechanism study shows that IRF3 is positively correlated with miR-155, which is considered as an oncogenic microRNA in AML. We show that IRF3 binds to the promoter of miR-155 and promotes the expression of miR-155 in OCI/AML-2 and OCI/AML-3\xa0cells.
+In conclusion, our evidence show that IRF3 overexpression in AML promotes cell growth and survival, and miR-155 is involved, indicating that IRF3 may be a potential new biomarker and therapeutic target for AML.'] 
+
+27448985 Currently the full-text not available IRF3 is an important molecule in the UII/UT system and mediates immune inflammatory injury in acute liver failure.
+Oncotarget [StringElement('The urotensin II/urotensin receptor (UII/UT) system can mediate inflammatory liver injury in acute liver failure (ALF); however; the related mechanism is not clear.
+In this study, we confirmed that lipopolysaccharide/D-galactosamine (LPS/D-GalN) induced up-regulation of liver interferon regulatory factor 3 (IRF3) in ALF mice, whereas the UT antagonist urantide inhibited the up-regulated liver IRF3.
+LPS stimulation induced IRF3 transcription and nuclear translocation and promoted the secretion of interleukin-6 (IL-6), interferon (IFN)-β, and IFN-γ in Kupffer cells (KCs); these effects in LPS-stimulated KCs were inhibited by urantide.
+Knockdown of IRF3 using an adenovirus expressing an IRF3 shRNA inhibited IFN-β transcription and secretion as well as tumor necrosis factor (TNF)-α and IL-1β secretion from LPS-stimulated KCs; additionally, IL-10 transcription and secretion were promoted in response to LPS.
+However, LPS-stimulated TNF-α and IL-1β mRNA was not affected in the KCs.
+The IRF3 shRNA also did not have a significant effect on the NF-κB p65 subunit and p38MAPK protein phosphorylation levels in the nuclei of LPS-stimulated KCs.
+Therefore, IRF3 expression and activation depended on the signal transduction of the UII/UT system, and played important roles in UII/UT-mediated immune inflammatory injury in the liver but did not affect NF-κB and p38 MAPK activity.', attributes={'NlmCategory': 'UNASSIGNED'})] 
+
+27142934 Currently the full-text not available Identification and functional characterization of miiuy croaker IRF3 as an inducible protein involved regulation of IFN response.
+Fish & shellfish immunology ['IFN regulatory factor (IRF) 3 as an important member of IRF family, is required for the host antiviral response.
+In mammals, IRF3 is known to be a critical player in regulating the transcription of IFN and IFN-stimulated genes (ISGs).
+However, only a few studies investigated the characteristics of IRF3 genes in fish.
+In this study, IRF3 from miiuy croaker was identified and characterized in bioinformatics and functions.
+Miiuy croaker IRF3 had conserved DBD, IAD and SRD domains with other vertebrates IRF3 genes, also miiuy croaker IRF3 had relatively conserved gene synteny and gene structures with other fish IRF3 genes.
+Evolutionary analysis showed IRF3 genes in mammals underwent positive selection, while IRF3 in fish underwent purifying selection.
+Expression analysis showed miiuy croaker IRF3 was expressed in all tested tissues and up-regulated expressed in infected liver and kidney; and up-regulated expression of miiuy croaker IRF3 was observed in head kidney macrophages which stimulated with poly(I:C) indicating that miiuy croaker IRF3 participated in the immune response to defense against poly(I:C) infection.
+Furthermore, luciferase reporter assay showed that overexpression of miiuy croaker IRF3 can activate the production of ISRE and IFNα, suggesting that miiuy croaker IRF3 acted as transcription activators in immune responses and maybe activate IFN signaling pathway.
+Immunofluorescence assay showed miiuy craoker IRF3 was localized in the cytoplasm in Hela cells.
+Overall, we systematically and comprehensively analyzed the bioinformatics and functions of miiuy croaker IRF3, which provided further insights into the transcriptional regulation of IRF3 gene in fish and valuable information for the study of evolution of IRF3 genes.'] 
+
+27125670 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4863739 [AVAILABLE ON 11/01/16]/pdf/ Mst1 shuts off cytosolic antiviral defense through IRF3 phosphorylation.
+Genes & development ['Cytosolic RNA/DNA sensing elicits primary defense against viral pathogens.
+Interferon regulatory factor 3 (IRF3), a key signal mediator/transcriptional factor of the antiviral-sensing pathway, is indispensible for interferon production and antiviral defense.
+However, how the status of IRF3 activation is controlled remains elusive.
+Through a functional screen of the human kinome, we found that mammalian sterile 20-like kinase 1 (Mst1), but not Mst2, profoundly inhibited cytosolic nucleic acid sensing.
+Mst1 associated with IRF3 and directly phosphorylated IRF3 at Thr75 and Thr253.
+This Mst1-mediated phosphorylation abolished activated IRF3 homodimerization, its occupancy on chromatin, and subsequent IRF3-mediated transcriptional responses.
+In addition, Mst1 also impeded virus-induced activation of TANK-binding kinase 1 (TBK1), further attenuating IRF3 activation.
+As a result, Mst1 depletion or ablation enabled an enhanced antiviral response and defense in cells and mice.
+Therefore, the identification of Mst1 as a novel physiological negative regulator of IRF3 activation provides mechanistic insights into innate antiviral defense and potential antiviral prevention strategies.'] 
+
+26611114 Currently the full-text not available Inhibition of IRF3 expression reduces TGF-β1-induced proliferation of hepatic stellate cells.
+Journal of physiology and biochemistry ['Therapeutic management of liver fibrosis remains an unresolved clinical problem.
+Activation of hepatic stellate cell (HSC) is a pivotal event in the progression of liver fibrosis.
+Recent reports have showed that inhibition of activated HSC proliferation contributes to the reversal of liver fibrosis.
+Interferon regulatory factor 3 (IRF3), one member of the interferon regulatory factor (IRF) family, is recently proven to be a critical modulator in cardiac fibrosis.
+And accumulating evidence demonstrated that IRF3 plays a crucial role in liver diseases, such as hepatic steatosis, liver inflammation, and alcoholic liver injury.
+However, the understanding of the function of IRF3 in liver fibrosis remains limited.
+Our results identified the role of IRF3 in regulating human HSC (LX-2 cell) cell proliferation and apoptosis.
+The present study indicated that the expression of IRF3 was significantly increased in HSCs in response to TGF-β1 stimulation.
+Moreover, a stable and unlimited source of human HSC, the LX-2 cell line, transfected with IRF3-siRNA significantly decreases the expression level of type I collagen (Col1a1) and α-smooth muscle actin (α-SMA) in activated LX-2 cells.
+On the contrary, overexpression of IRF3 gives rise to an upregulation of Col1a1 and α-SMA in LX-2 cells, and further promoted HSC proliferation.
+Moreover, the inhibition of IRF3 significantly suppressed TGF-β1-induced HSC proliferation and increased its apoptosis.
+Of note, the present study indicated IRF3 may regulate LX-2 cell proliferation by via AKT signaling pathway.
+In summary, these observations suggest IRF3 may function as a novel regulator to modulate TGF-β1-induced LX-2 proliferation, at least in part, via AKT signaling pathway.'] 
+
+26483348 Currently the full-text not available Molecular characterization and functional analysis of IRF3 in tilapia (Oreochromis niloticus).
+Developmental and comparative immunology ["Interferon regulatory factor 3 (IRF3) plays a key role in interferon (IFN) response and binding to the IFN stimulatory response elements (ISREs) within the promoter of IFN and IFN-stimulated genes followed by virus infection.
+In the current study, we discovered one IRF3 homologue in tilapia genome and analyzed the characterizations and functions of tilapia IRF3.
+Tilapia IRF3 contains 1368 bp with an ORF of 455 aa.
+Structurally, tilapia IRF3 protein typically shares the conserved characterizations with other species' IRF3 homologues, displaying conserved DNA-binding domain, IRF association domain, serine-rich C terminal domain, and tryptophan residue cluster.
+Phylogenetic analysis illustrated that tilapia IRF3 belongs to the IRF3 subfamily.
+Real-time PCR revealed a broad expression pattern of tilapia IRF3 in various tissues.
+Subcellular localization analysis showed that tilapia IRF3 mainly resides in the cytoplasm, Western blot demonstrated that IRF3 was distributed in the cytoplasmic fraction.
+Functionally, IRF3 was found to be transcriptionally up-regulated by the poly I:C stimulation.
+Moreover, reporter assay elucidated that tilapia IRF3 serves as a regulator in mediating IFN response by increasing the activity of IFN-β and ISRE-containing promoter.
+These data supported the view that tilapia IRF3 is a potential molecule in IFN immune defense system against viral infection."] 
+
+25843157 Currently the full-text not available Common variants of IRF3 conferring risk of schizophrenia.
+Journal of psychiatric research ['Schizophrenia is a brain disorder with high heritability.
+Recent studies have implicated genes involved in the immune response pathway in the pathogenesis of schizophrenia.
+Interferon regulatory factor 3 (IRF3), a virus-immune-related gene, activates the transcription of several interferon-induced genes, and functionally interacts with several schizophrenia susceptibility genes.
+To test whether IRF3 is a schizophrenia susceptibility gene, we analyzed the associations of its SNPs with schizophrenia in independent population samples as well as reported data from expression quantitative trait loci (eQTL) in healthy individuals.
+We observed multiple independent SNPs in IRF3 showing nominally significant associations with schizophrenia (P < 0.05); more intriguingly, a SNP (rs11880923), which is significantly correlated with IRF3 expression in independent samples (P < 0.05), is also consistently associated with schizophrenia across different cohorts and in combined samples (odds ratio = 1.075, Pmeta = 2.08 × 10(-5)), especially in Caucasians (odds ratio = 1.078, Pmeta = 2.46 × 10(-5)).
+These results suggested that IRF3 is likely a risk gene for schizophrenia, at least in Caucasians.
+Although the clinical associations of IRF3 with diagnosis did not achieve genome-wide level of statistical significance, the observed odds ratio is comparable with other susceptibility loci identified through large-scale genetic association studies on schizophrenia, which could be regarded simply as small but detectable effects.'] 
+
+27045107 Currently the full-text not available Complex Regulation Pattern of IRF3 Activation Revealed by a Novel Dimerization Reporter System.
+Journal of immunology (Baltimore, Md. : 1950) ['Induction of type I IFN
+(IFN-I) is essential for host antiviral immune responses.
+However, IFN-I also plays divergent roles in antibacterial immunity, persistent viral infections, autoimmune diseases, and tumorigenesis.
+IFN regulatory factor 3 (IRF3) is the master transcription factor that controls IFN-I production via phosphorylation-dependent dimerization in most cell types in response to viral infections and various innate stimuli by pathogen-associated molecular patterns (PAMPs).
+To monitor the dynamic process of IRF3 activation, we developed a novel IRF3 dimerization reporter based on bimolecular luminescence complementation (BiLC) techniques, termed the IRF3-BiLC reporter.
+Robust induction of luciferase activity of the IRF3-BiLC reporter was observed upon viral infection and PAMP stimulation with a broad dynamic range.
+Knockout of TANK-binding kinase 1, the critical upstream kinase of IRF3, as well as the mutation of serine 386, the essential phosphorylation site of IRF3, completely abolished the luciferase activity of IRF3-BiLC reporter, confirming the authenticity of IRF3 activation.
+Taken together, these results demonstrated that the IRF3-BiLC reporter is a highly specific, reliable, and sensitive system to measure IRF3 activity.
+Using this reporter system, we further observed that the temporal pattern and magnitude of IRF3 activation induced by various PAMPs are highly complex with distinct cell type-specific characteristics, and IRF3 dimerization is a direct regulatory node for IFN-α/β receptor-mediated feed-forward regulation and crosstalk with other pathways.
+Therefore, the IRF3-BiLC reporter has multiple potential applications, including mechanistic studies as well as the identification of novel compounds that can modulate IRF3 activation.'] 
+
+26819312 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4810532/pdf/ Suppression of Type I Interferon Production by Human T-Cell Leukemia Virus Type
+1 Oncoprotein Tax through Inhibition of IRF3 Phosphorylation.
+Journal of virology [StringElement('Infection with human T-cell leukemia virus type 1 (HTLV-1) is associated with adult T-cell leukemia (ATL) and tropical spastic paraparesis.
+Type I interferons (IFNs) are key effectors of the innate antiviral response, and IFN-α combined with the nucleoside reverse transcriptase inhibitor zidovudine is considered the standard first-line therapy for ATL. HTLV-1 oncoprotein Tax is known to suppress innate IFN production and response but the underlying mechanisms remain to be fully established.
+In this study, we report on the suppression of type I IFN production by HTLV-1 Tax through interaction with and inhibition of TBK1 kinase that phosphorylates IRF3.
+Induced transcription of IFN-β was severely impaired in HTLV-1-transformed ATL cells and freshly infected T lymphocytes.
+The ability to suppress IRF3 activation was ascribed to Tax.
+The expression of Tax alone sufficiently repressed the induction of IFN production by RIG-I plus PACT, cGAMP synthase plus STING, TBK1, IKKε, IRF3, and IRF7, but not by IRF3-5D, a dominant-active phosphomimetic mutant.
+This suggests that Tax perturbs IFN production at the step of IRF3 phosphorylation.
+Tax mutants deficient for CREB or NF-κB activation were fully competent in the suppression of IFN production.
+Coimmunoprecipitation experiments confirmed the association of Tax with TBK1, IKKε, STING, and IRF3.In vitrokinase assay indicated an inhibitory effect of Tax on TBK1-mediated phosphorylation of IRF3.
+Taken together, our findings suggested a new mechanism by which HTLV-1 oncoprotein Tax circumvents the production of type I IFNs in infected cells.
+Our findings have implications in therapeutic intervention of ATL.', attributes={'Label': 'UNLABELLED'}), StringElement('Human T-cell leukemia virus type 1 (HTLV-1) is the cause of adult T-cell leukemia (ATL), an aggressive and fatal blood cancer, as well as another chronic disabling disease of the spinal cord.
+Treatments are unsatisfactory, and options are limited.
+A combination of antiviral cellular protein alpha interferon and zidovudine, which is an inhibitor of a viral enzyme called reverse transcriptase, has been recommended as the standard first-line therapy for ATL.
+Exactly how HTLV-1 interacts with the cellular machinery for interferon production and action is not well understood.
+Our work sheds light on the mechanism of action for the inhibition of interferon production by an HTLV-1 oncogenic protein called Tax.
+Our findings might help to improve interferon-based anti-HTLV-1 and anti-ATL therapy.', attributes={'NlmCategory': 'OBJECTIVE', 'Label': 'IMPORTANCE'})] 
+

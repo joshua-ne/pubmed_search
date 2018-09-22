@@ -1,0 +1,111 @@
+27551049 Currently the full-text not available DUSP1 Maintains IRF1 and Leads to Increased Expression of IRF1-dependent Genes: A MECHANISM PROMOTING GLUCOCORTICOID INSENSITIVITY.
+The Journal of biological chemistry [StringElement('Although the mitogen-activated protein kinase (MAPK) phosphatase, DUSP1, mediates dexamethasone-induced repression of MAPKs, 14 of 46 interleukin-1β (IL1B)-induced mRNAs were significantly enhanced by DUSP1 overexpression in pulmonary A549 cells.
+These include the interferon regulatory factor, IRF1, and the chemokine, CXCL10.
+Of these, DUSP1-enhanced mRNAs, 10 including CXCL10, were IRF1-dependent.
+MAPK inhibitors and DUSP1 overexpression prolonged IRF1 expression by elevating transcription and increasing IRF1 mRNA and protein stability.
+Conversely, DUSP1 silencing increased IL1B-induced MAPK phosphorylation while significantly reducing IRF1 protein expression at 4 h.
+This confirms a regulatory network whereby DUSP1 switches off MAPKs to maintain IRF1 expression.
+There was no repression of IRF1 expression by dexamethasone in primary human bronchial epithelial cells, and in A549 cells IL1B-induced IRF1 protein was only modestly and transiently repressed.
+Although dexamethasone did not repress IL1B-induced IRF1 protein expression at 4-6 h, silencing of IL1B plus dexamethasone-induced DUSP1 significantly reduced IRF1 expression.
+IL1B-induced expression of CXCL10 was largely insensitive to dexamethasone, whereas other DUSP1-enhanced, IRF1-dependent mRNAs showed various degrees of repression.
+With IL1B plus dexamethasone, CXCL10 expression was also IRF1-dependent, and expression was reduced by DUSP1 silencing.
+Thus, IL1B plus dexamethasone-induced DUSP1 maintains expression of IRF1 and the IRF1-dependent gene, CXCL10.
+This is supported by chromatin immunoprecipitation showing IRF1 recruitment to be essentially unaffected by dexamethasone at the CXCL10 promoter or at the promoters of more highly repressed IRF1-dependent genes.
+Since IRF1-dependent genes, such as CXCL10, are central to host defense, these data may help explain the reduced effectiveness of glucocorticoids during asthma exacerbations.', attributes={'NlmCategory': 'UNASSIGNED'})] 
+26674566 Currently the full-text not available The Transcription Factor Interferon Regulatory Factor-1 (IRF1) Plays a Key Role in the Terminal Effector Pathways of Human Preterm Labor.
+Biology of reproduction ['Preterm birth is the largest single cause of neonatal death and morbidity.
+By activating cytokine- and Toll-like receptor (TLR)-signaling pathways, infection and/or inflammation are strongly associated with preterm delivery.
+Interferon regulatory factor-1 (IRF1) is an important regulator of the inflammatory response.
+The aims of this study were to establish the effect of 1) labor on IRF1 expression in human fetal membranes and myometrium, 2) prolabor mediators on IRF1 expression and activity, and 3)
+IRF1 small interfering RNA on the expression of prolabor mediators.
+IRF1 expression was higher in fetal membranes and myometrium after spontaneous term labor and in preterm fetal membranes with infection.
+The proinflammatory cytokine IL1B, the bacterial product fsl-1, and viral analog polyinosinic:polycytidylic acid (poly [I:C]) significantly increased IRF1 mRNA expression and transcriptional activity in human primary myometrial cells.
+In addition, IL1B increased IRF1 activity in primary amnion cells.
+IRF1 silencing in myometrial cells decreased IL1B-, fsl-1-, and poly (I:C)-induced cytokine (IL6, TNF, IL1B) and chemokine (CXCL8, CCL2) mRNA expression and IL6, CXCL8, and CCL2 release.
+IL1B-, fsl-1-, and poly
+(I:C)-induced PTGS2 mRNA expression and IL1B-induced prostaglandin release was also decreased by IRF1 silencing.
+In conclusion, IRF1 upregulation in fetal membranes and myometrium after term labor indicates a proinflammatory role for IRF1 in human parturition.
+IRF1 is involved in TLR- and cytokine-mediated signaling in human myometrium.
+These data provide new insights into the mechanisms associated with inflammation- and infection-associated preterm birth.
+IRF1 inhibitors as therapeutics for the management of spontaneous preterm birth warrants further investigation.'] 
+26362401 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4741619/pdf/ Interferon-regulatory factor-1 (IRF1) regulates bevacizumab induced autophagy.
+Oncotarget [StringElement('Antiangiogenic therapy is commonly being used for the treatment of glioblastoma.
+However, the benefits of angiogenesis inhibitors are typically transient and resistance often develops.
+Determining the mechanism of treatment failure of the VEGF monoclonal antibody bevacizumab for malignant glioma would provide insight into approaches to overcome therapeutic resistance.', attributes={'Label': 'PURPOSE', 'NlmCategory': 'OBJECTIVE'}), StringElement('In this study, we evaluated the effects of bevacizumab on the autophagy of glioma cells and determined target genes involving in the regulation of bevacizumab-induced autophagy.',
+attributes={'Label': 'EXPERIMENTAL DESIGN', 'NlmCategory': 'METHODS'}), StringElement('We demonstrated that bevacizumab treatment increased expression of autophagy markers and autophagosome formation in cell culture experiments as well as in in vivo studies.
+Gene expression profile analysis performed on murine xenograft models of glioblastoma showed increased transcriptional levels of STAT1/IRF1 signaling in bevacizumab resistant tumors compared to control tumors.
+In vitro experiments showed that bevacizumab treatment increased IRF1 expression in a dose and time dependent manner, which was coincident with bevacizumab-mediated autophagy.
+Down regulation of IRF1 by shRNA blocked autophagy and increased AIF-dependent apoptosis in bevacizumab-treated glioma cells.
+Consistently, IRF1 depletion increased the efficacy of anti-VEGF therapy in a glioma xenograft model, which was due to less bevacizumab-promoted autophagy and increased apoptosis in tumors with down-regulated IRF1.',
+attributes={'Label': 'RESULTS', 'NlmCategory': 'RESULTS'}), StringElement('These data suggest that IRF1 may regulate bevacizumab-induced autophagy, and may be one important mediator of glioblastoma resistant to bevacizumab.', attributes={'Label': 'CONCLUSIONS', 'NlmCategory': 'CONCLUSIONS'})] 
+27508303 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4980046/pdf/ IRF1 Downregulation by Ras/MEK Is Independent of Translational Control of IRF1 mRNA. PloS one ["Oncogenic activation of Ras/MEK downregulates the expression of interferon regulatory factor 1 (IRF1), which is a prerequisite for oncolytic viruses to replicate in cancer cells [1].
+Moreover, restoration of IRF1 expression is essential to induce apoptosis of cancer cells treated with a MEK inhibitor [2].
+However, the molecular mechanisms that underlie IRF1 downregulation by Ras/MEK remain unclear.
+In this study, we determined whether Ras/MEK activation modulates IRF1 expression at its translational level.
+MEK inhibition increased the activity of IRF1 promoter construct in Ras transformed NIH3T3 cells and wild type MEF, but not in IRF1 deficient MEF, indicating that IRF1 protein is required for the transcriptional activation of IRF1.
+By conducting reporter analysis using IRF1 5'- and 3'- UTR constructs, we determined that cis elements on 5'- and 3'-UTR of IRF1 mRNA are not involved in the IRF1 regulation by Ras/MEK. We further compared the recruitment of ribosomes to IRF1 mRNA in RasV12 cells treated with or without the MEK inhibitor by conducting polysome analysis.
+No difference was observed in the polysomal distribution of IRF1 mRNA between RasV12 cells treated with and without the MEK inhibitor.
+These results suggest that regulation of IRF1 translation is independent of IRF1 downregulation by Ras/MEK."] 
+27001747 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4821649 [
+AVAILABLE ON 10/04/16]/pdf/
+The macrophage IRF8/IRF1 regulome is required for protection against infections and is associated with chronic inflammation.
+The Journal of experimental medicine ['IRF8 and IRF1 are transcriptional regulators that play critical roles in the development and function of myeloid cells, including activation of macrophages by proinflammatory signals such as interferon-γ (IFN-γ).
+Loss of IRF8 or IRF1 function causes severe susceptibility to infections in mice and in humans.
+We used chromatin immunoprecipitation sequencing and RNA sequencing in wild type and inIRF8andIRF1mutant primary macrophages to systematically catalog all of the genes bound by (cistromes) and transcriptionally activated by (regulomes)
+IRF8, IRF1, PU.1, and STAT1, including modulation of epigenetic histone marks.
+Of the seven binding combinations identified, two (cluster 1 [IRF8/IRF1/STAT1/PU.1] and cluster 5 [IRF1/STAT1/PU.1]) were found to have a major role in controlling macrophage transcriptional programs both at the basal level and after IFN-γ activation.
+They direct the expression of a set of genes, the IRF8/IRF1 regulome, that play critical roles in host inflammatory and antimicrobial defenses in mouse models of neuroinflammation and of pulmonary tuberculosis, respectively.
+In addition, this IRF8/IRF1 regulome is enriched for genes mutated in human primary immunodeficiencies and with loci associated with several inflammatory diseases in humans.'] 
+25497010 Currently the full-text not available Restoration of IRF1-dependent anticancer effects by MEK inhibition in human cancer cells.
+Cancer letters ['Interferon regulatory factor (IRF1) is a potent antiviral, antitumor and immune regulatory protein.
+Recently, we found that activated Ras/MEK inhibits antiviral response by downregulating IRF1 expression and renders cancer cells susceptible to oncolytic viruses.
+In this study, we sought to determine whether IRF1 downregulation underlies oncogenesis induced by Ras/MEK activation in human cancer cells.
+Treatment of the MEK inhibitor U0126 promoted IRF1 expression in 7 of 11 cancer cell lines we tested.
+IRF1 promotion was also observed in human cancer cell lines treated with different MEK inhibitors or with RNAi oligonucleotides against extracellular signal-regulated kinases (ERKs).
+Restoration of the expression of antitumor genes, p27 and p53 upregulated modulator of apoptosis (PUMA), by MEK inhibition was less in IRF1 shRNA knockdown cancer cells than in vector control cancer cells, suggesting that Ras/MEK targets IRF1 for the downregulation of the antitumor genes.
+Moreover, apoptosis induction by U0126 was significantly reduced in IRF1 shRNA knockdown cells than vector control cells.
+This study demonstrates that IRF1 expression is suppressed by activated Ras/MEK in human cancer cells and that IRF1 plays essential roles in apoptosis induced by Ras/MEK inhibition.'] 
+26187301 Currently the full-text not available Molecular characterization of three IRF1 subfamily members reveals evolutionary significance of IRF11 in miiuy croaker.
+Developmental and comparative immunology ['The interferon regulatory factors IRF1 and IRF2 of the IRF1 subfamily play essential roles in immune responses against viruses.
+IRF11 is a novel IRF gene of the IRF1 subfamily; IRF11 genes share almost the same evolutionary distance with IRF1 and IRF2 genes.
+However, the structure and characteristics of IRF11 gene in fish have been rarely reported.
+In our study, IRF1, IRF2 and IRF11 genes were identified and characterized from miiuy croaker genome.
+Results showed that the IRF1, IRF2 and IRF11 genes contain the same domains; each of these genes is composed of conserved gene organizations and characterized by gene synteny with the orthologous genes.
+Interestingly, IRF11 was likely found only in fish (but not specific to teleost fish).
+Evolutionary analysis results showed that IRF1 gene in mammals, IRF2 and IRF11 gene in fish underwent positive selection.
+IRF1, IRF2 and IRF11 were expressed in a wide range of miiuy croaker tissues.
+These genes also exhibited the same expression patterns after miiuy croaker was infected with poly(I:C).
+Therefore, our data enhanced our understanding of the functions and evolution of IRF11 in fish.'] 
+25347735 Currently the full-text not available Oncogenic Ras inhibits IRF1 to promote viral oncolysis.
+Oncogene ['Oncolytic viruses exploit common molecular changes in cancer cells, which are not present in normal cells, to target and kill cancer cells.
+Ras transformation and defects in type I interferon (IFN)-mediated antiviral responses are known to be the major mechanisms underlying viral oncolysis.
+Previously, we demonstrated that oncogenic RAS/Mitogen-activated protein kinase kinase (Ras/MEK) activation suppresses the transcription of many IFN-inducible genes in human cancer cells, suggesting that Ras transformation underlies type I IFN defects in cancer cells.
+Here, we investigated how Ras/MEK downregulates IFN-induced transcription.
+By conducting promoter deletion analysis of IFN-inducible genes, namely guanylate-binding protein 2 and IFN gamma inducible protein 47 (Ifi47), we identified the IFN regulatory factor 1 (IRF1) binding site as the promoter region responsible for the regulation of transcription by MEK. MEK inhibition promoted transcription of the IFN-inducible genes in wild type mouse embryonic fibroblasts (MEFs), but not in IRF1(-/-)
+MEFs, showing that IRF1 is involved in MEK-mediated downregulation of IFN-inducible genes.
+Furthermore, IRF1 protein expression was lower in RasV12 cells compared with vector control NIH3T3 cells, but was restored to equivalent levels by inhibition of MEK.
+Similarly, the restoration of IRF1 expression by MEK inhibition was observed in human cancer cells.
+IRF1 re-expression in human cancer cells caused cells to become resistant to infection by the oncolytic vesicular stomatitis virus strain.
+Together, this work demonstrates that Ras/MEK activation in cancer cells downregulates transcription of IFN-inducible genes by targeting IRF1 expression, resulting in increased susceptibility to viral oncolysis.'] 
+25980475 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4434839/pdf/
+MicroRNA-23b Promotes Avian Leukosis Virus Subgroup J (ALV-J) Replication by Targeting IRF1.
+Scientific reports ["Avian leukosis virus subgroup J (ALV-J) can cause several different leukemia-like proliferative diseases in the hemopoietic system of chickens.
+Here, we investigated the transcriptome profiles and miRNA expression profiles of ALV-J-infected and uninfected chicken spleens to identify the genes and miRNAs related to ALV-J invasion.
+In total, 252 genes and 167 miRNAs were differentially expressed in ALV-J-infected spleens compared to control uninfected spleens.
+miR-23b expression was up-regulated in ALV-J-infected spleens compared with the control spleens, and transcriptome analysis revealed that the expression of interferon regulatory factor 1 (IRF1) was down-regulated in ALV-J-infected spleens compared to uninfected spleens.
+A dual-luciferase reporter assay showed that IRF1 was a direct target of miR-23b.
+miR-23b overexpression significantly (P = 0.0022) decreased IRF1 mRNA levels and repressed IRF1-3'-UTR reporter activity.
+In vitro experiments revealed that miR-23b overexpression strengthened ALV-J replication, whereas miR-23b loss of function inhibited ALV-J replication.
+IRF1 overexpression inhibited ALV-J replication, and IRF1 knockdown enhanced ALV-J replication.
+Moreover, IRF1 overexpression significantly (P = 0.0014) increased IFN-β expression.
+In conclusion, these results suggested that miR-23b may play an important role in ALV-J replication by targeting IRF1."] 
+25960866 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4424430/pdf/ Division of labor between IRF1 and IRF2 in regulating different stages of transcriptional activation in cellular antiviral activities.
+Cell & bioscience [StringElement('Cellular antiviral activities are critically controlled by transcriptional activation of interferon-inducible genes, involving interferon regulatory factors (IRFs).
+Previous data suggested that IRF1 is an activator and IRF2 is a repressor, which functionally antagonize each other in transcriptional regulation.
+However, it is not clear how these two factors function to regulate cellular antiviral activities.'
+, attributes={'Label': 'BACKGROUND', 'NlmCategory': 'BACKGROUND'}), StringElement('We show that IRF2 is critically required for the induction of the TLR3 and other interferon-inducible genes in a chromatin environment.
+While both IRF1 and IRF2 directly interact with the BAF chromatin remodeling complex, IRF2 is associated with the TLR3 promoter in the unstimulated state and IRF1 binding to the promoter is strongly induced by stimulation with interferon, suggesting that these two factors may function at different stages of gene induction in the recruitment of the BAF complex.
+IRF2 acts to maintain the basal level expression, an open chromatin structure, and active histone modification marks (H3K9, K14 acetylation and H3K4 tri-methylation) of the TLR3 promoter in the unstimulated state, while IRF1 serves to rapidly activate the promoter upon stimulation.'
+, attributes={'Label': 'RESULTS', 'NlmCategory': 'RESULTS'}), StringElement('IRF1 and IRF2 of the IRF family of transcription factors play distinct roles in cellular response to viral infection.
+IRF2 binds to TLR3 and other IFN-inducible gene promoters and maintains an active chromatin structure in the unstimulated state, which is required for their induction, while IRF1 binding to these promoters activates their transcription upon viral infection.
+Thus, the division of labor between the IRF transcription factor family members plays a pivotal role in coordinating the transcriptional activation in the cellular antiviral response.', attributes={'Label': 'CONCLUSIONS', 'NlmCategory': 'CONCLUSIONS'})] 

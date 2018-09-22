@@ -1,0 +1,27 @@
+DRAM1 promotes the targeting of mycobacteria to selective autophagy. 25484076 
+STING-dependent cytosolic DNA sensing pathways. 24309426 
+Role of the DNA Sensor STING in Protection from Lethal Infection following Corneal and Intracerebral Challenge with Herpes Simplex Virus 1. 26311879 
+Atg9a controls dsDNA-driven dynamic translocation of STING and the innate immune response. 19926846 
+UV Light Potentiates STING (Stimulator of Interferon Genes)-dependent Innate Immune Signaling through Deregulation of ULK1 (Unc51-like Kinase 1). 25792739 
+The Recombinant BCG ΔureC::hly Vaccine Targets the AIM2 Inflammasome to Induce Autophagy and Inflammation. 25505299 
+The DNA damage-regulated autophagy modulator DRAM1 links mycobacterial recognition via TLR-MYD88 to autophagic defense [corrected]. 24922577 
+Coronavirus membrane-associated papain-like proteases induce autophagy through interacting with Beclin1 to negatively regulate antiviral innate immunity. 25311841 
+Extracellular M. tuberculosis DNA targets bacteria for autophagy by activating the host DNA-sensing pathway. 22901810 
+Sumoylation Promotes the Stability of the DNA Sensor cGAS and the Adaptor STING to Regulate the Kinetics of Response to DNA Virus. 27637147 
+Autophagy side of MB21D1/cGAS DNA sensor. 24879161 
+Crosstalk between the cGAS DNA sensor and Beclin-1 autophagy protein shapes innate antimicrobial immune responses. 24528868 
+AIM2 inhibits autophagy and IFN-β production during M. bovis infection. 27409673 
+Cyclic dinucleotides trigger ULK1 (ATG1) phosphorylation of STING to prevent sustained innate immune signaling. 24119841 
+Dnase2a deficiency uncovers lysosomal clearance of damaged nuclear DNA via autophagy. 25284779 
+Mitochondrial DNA sensing by STING signaling participates in inflammation, cancer and beyond. 26939583 
+The Cytosolic Sensor cGAS Detects Mycobacterium tuberculosis DNA to Induce Type I Interferons and Activate Autophagy. 26048136 
+STING-Dependent 2'-5' Oligoadenylate Synthetase-Like Production Is Required for Intracellular Mycobacterium leprae Survival. 27190175 
+Co-localization of constituents of the dengue virus translation and replication machinery with amphisomes. 19141455 
+Age-enhanced endoplasmic reticulum stress contributes to increased Atg9A inhibition of STING-mediated IFN-β production during Streptococcus pneumoniae infection. 24670807 
+Regulation of dsDNA-induced innate immune responses by membrane trafficking. 20215874 
+[Innate immune DNA sensing pathways]. 25765984 
+"Where, O death, is thy sting?" A brief review of apoptosis biology. 20552413 
+Cyclic GMP-AMP Synthase Is an Innate Immune DNA Sensor for Mycobacterium tuberculosis. 26048137 
+A bacterial cyclic dinucleotide activates the cytosolic surveillance pathway and mediates innate resistance to tuberculosis. 25730264 
+Mechanisms and pathways of innate immune activation and regulation in health and cancer. 25625930 
+Innate immunity to dengue virus infection and subversion of antiviral responses. 24316047 

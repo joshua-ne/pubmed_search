@@ -1,0 +1,239 @@
+25484076 DRAM1 promotes the targeting of mycobacteria to selective autophagy.
+['Autophagy provides an important defense mechanism against intracellular bacteria, such as Mycobacterium tuberculosis (Mtb), the causative agent of tuberculosis disease (TB).
+We recently reported that pathogen recognition and antibacterial autophagy are connected by the induction of the DNA damage-regulated autophagy modulator DRAM1 via the toll-like receptor (TLR)-MYD88-NFKB innate immunity signaling pathway.
+Having shown that DRAM1 colocalizes with Mtb in human macrophages, we took advantage of a zebrafish model for TB to investigate the function of DRAM1 in autophagic host defense in vivo.
+We found that DRAM1 protects the zebrafish host from infection with Mycobacterium marinum (Mm), a close relative of Mtb.
+Overexpression of DRAM1 increases autophagosome formation and promotes autophagic flux by a mechanism dependent on the cytosolic DNA sensor TMEM173/STING and the ubiquitin receptor SQSTM1/p62.
+Here we summarize and discuss the implications of these findings.'] 
+
+24309426 STING-dependent cytosolic DNA sensing pathways.
+['STING (STimulator of INterferon Genes) has recently been identified as being essential for controlling host defense countermeasures triggered by microbial cytosolic DNA and subsequently cyclic dinucleotides (CDNs).
+However, chronic STING activation may also be responsible for initiating certain inflammatory diseases manifested by self DNA. Recent studies have also revealed a key role for cyclic GMP-AMP synthase (cGAS) in STING activation.
+Although a full understanding of the mechanisms of STING activation requires further studies, new insights into STING function afford the opportunity of designing novel compounds aimed at facilitating vaccine development or new therapies for the treatment of inflammatory disease.'] 
+
+26311879 Role of the DNA Sensor STING in Protection from Lethal Infection following Corneal and Intracerebral Challenge with Herpes Simplex Virus 1.
+[StringElement('STING is a protein in the cytosolic DNA and cyclic dinucleotide sensor pathway that is critical for the initiation of innate responses to infection by various pathogens.
+Consistent with this, herpes simplex virus 1 (HSV-1) causes invariable and rapid lethality in STING-deficient (STING(-/-)) mice following intravenous (i.v.) infection.
+In this study, using real-time bioluminescence imaging and virological assays, as expected, we demonstrated that STING(-/-) mice support greater replication and spread in ocular tissues and the nervous system.
+In contrast, they did not succumb to challenge via the corneal route even with high titers of a virus that was routinely lethal to STING(-/-) mice by the i.v.
+route.
+Corneally infected STING(-/-) mice also showed increased periocular disease and increased corneal and trigeminal ganglia titers, although there was no difference in brain titers.
+They also showed elevated expression of tumor necrosis factor alpha (TNF-α) and CXCL9 relative to control mice but surprisingly modest changes in type I interferon expression.
+Finally, we also showed that HSV strains lacking the ability to counter autophagy and the PKR-driven antiviral state had near-wild-type virulence following intracerebral infection of STING(-/-) mice.
+Together, these data show that while STING is an important component of host resistance to HSV in the cornea, its previously shown immutable role in mediating host survival by the i.v.
+route was not recapitulated following a mucosal infection route.
+Furthermore, our data are consistent with the idea that HSV counters STING-mediated induction of the antiviral state and autophagy response, both of which are critical factors for survival following direct infection of the nervous system.', attributes={'Label': 'UNLABELLED'}), StringElement('HSV infections represent an incurable source of morbidity and mortality in humans and are especially severe in neonatal and immunocompromised populations.
+A key step in the development of an immune response is the recognition of microbial components within infected cells.
+The host protein STING is important in this regard for the recognition of HSV DNA and the subsequent triggering of innate responses.
+STING was previously shown to be essential for protection against lethal challenge from intravenous HSV-1 infection.
+In this study, we show that the requirement for STING depends on the infection route.
+In addition, STING is important for appropriate regulation of the inflammatory response in the cornea, and our data are consistent with the idea that HSV modulates STING activity through inhibition of autophagy.
+Our results elucidate the importance of STING in host protection from HSV-1 and demonstrate the redundancy of host protective mechanisms, especially following mucosal infection.', attributes={'Label': 'IMPORTANCE', 'NlmCategory': 'OBJECTIVE'})] 
+
+19926846 Atg9a controls dsDNA-driven dynamic translocation of STING and the innate immune response.
+['Microbial nucleic acids are critical for the induction of innate immune responses, a host defense mechanism against infection by microbes.
+Recent studies have indicated that double-stranded DNA (dsDNA) induces potent innate immune responses via the induction of type I IFN (IFN) and IFN-inducible genes.
+However, the regulatory mechanisms underlying dsDNA-triggered signaling are not fully understood.
+Here we show that the translocation and assembly of the essential signal transducers, stimulator of IFN genes (STING) and TANK-binding kinase 1 (TBK1), are required for dsDNA-triggered innate immune responses.
+After sensing dsDNA, STING moves from the endoplasmic reticulum (ER) to the Golgi apparatus and finally reaches the cytoplasmic punctate structures to assemble with TBK1.
+The addition of an ER-retention signal to the C terminus of STING dampens its ability to induce antiviral responses.
+We also show that STING co-localizes with the autophagy proteins, microtubule-associated protein 1 light chain 3 (LC3) and autophagy-related gene 9a (Atg9a), after dsDNA stimulation.
+The loss of Atg9a, but not that of another autophagy-related gene (Atg7), greatly enhances the assembly of STING and TBK1 by dsDNA, leading to aberrant activation of the innate immune response.
+Hence Atg9a functions as a regulator of innate immunity following dsDNA stimulation as well as an essential autophagy protein.
+These results demonstrate that dynamic membrane traffic mediates the sequential translocation and assembly of STING, both of which are essential processes required for maximal activation of the innate immune response triggered by dsDNA.'] 
+
+25792739 UV Light Potentiates STING (Stimulator of Interferon Genes)-dependent Innate Immune Signaling through Deregulation of ULK1 (Unc51-like Kinase 1).
+['The mechanism by which ultraviolet (UV) wavelengths of sunlight trigger or exacerbate the symptoms of the autoimmune disorder lupus erythematosus is not known but may involve a role for the innate immune system.
+Here we show that UV radiation potentiates STING (stimulator of interferon genes)-dependent activation of the immune signaling transcription factor interferon regulatory factor 3 (IRF3) in response to cytosolic DNA and cyclic dinucleotides in keratinocytes and other human cells.
+Furthermore, we find that modulation of this innate immune response also occurs with UV-mimetic chemical carcinogens and in a manner that is independent of DNA repair and several DNA damage and cell stress response signaling pathways.
+Rather, we find that the stimulation of STING-dependent IRF3 activation by UV is due to apoptotic signaling-dependent disruption of ULK1 (Unc51-like kinase 1), a pro-autophagic protein that negatively regulates STING.
+Thus, deregulation of ULK1 signaling by UV-induced DNA damage may contribute to the negative effects of sunlight UV exposure in patients with autoimmune disorders.'] 
+
+25505299 The Recombinant BCG ΔureC::hly Vaccine Targets the AIM2 Inflammasome to Induce Autophagy and Inflammation.
+[StringElement('The recombinant BCG ΔureC::hly (rBCG) vaccine candidate induces improved protection against tuberculosis over parental BCG (pBCG) in preclinical studies and has successfully completed a phase 2a clinical trial.
+However, the mechanisms responsible for the superior vaccine efficacy of rBCG are still incompletely understood.
+Here, we investigated the underlying biological mechanisms elicited by the rBCG vaccine candidate relevant to its protective efficacy.', attributes={'Label': 'BACKGROUND', 'NlmCategory': 'BACKGROUND'}), StringElement('THP-1 macrophages were infected with pBCG or rBCG, and inflammasome activation and autophagy were evaluated.
+In addition, mice were vaccinated with pBCG or rBCG, and gene expression in the draining lymph nodes was analyzed by microarray at day 1 after vaccination.', attributes={'Label': 'METHODS', 'NlmCategory': 'METHODS'}), StringElement('BCG-derived DNA was detected in the cytosol of rBCG-infected macrophages.
+rBCG infection was associated with enhanced absent in melanoma 2 (AIM2) inflammasome activation, increased activation of caspases and production of interleukin (IL)-1β and IL-18, as well as induction of AIM2-dependent and stimulator of interferon genes (STING)-dependent autophagy.
+Similarly, mice vaccinated with rBCG showed early increased expression of Il-1β, Il-18, and Tmem173 (transmembrane protein 173; also known as STING).', attributes={'Label': 'RESULTS', 'NlmCategory': 'RESULTS'}), StringElement('rBCG stimulates AIM2 inflammasome activation and autophagy, suggesting that these cell-autonomous functions should be exploited for improved vaccine design.', attributes={'Label': 'CONCLUSIONS', 'NlmCategory': 'CONCLUSIONS'})] 
+
+24922577 The DNA damage-regulated autophagy modulator DRAM1 links mycobacterial recognition via TLR-MYD88 to autophagic defense [corrected].
+['Autophagy is an important defense mechanism against mycobacteria, the causative agents of tuberculosis.
+The molecular mechanisms that link mycobacterial recognition to autophagy remain unclear.
+Our analysis in zebrafish and human macrophage models of mycobacterial infection reveals that the DNA damage-regulated autophagy modulator DRAM1 functions downstream of pathogen recognition by the Toll-like receptor (TLR)/interleukin-1 receptor (IL1R)-MYD88-NF-κB innate immune sensing pathway to activate selective autophagy.
+Mycobacterial infection of human macrophages and zebrafish embryos induced DRAM1 expression in a MYD88 and NF-κB-dependent manner.
+DRAM1 knockdown increased mycobacterial infection, whereas overexpression lowered infection by hyperactivating autophagy.
+DRAM1-mediated selective autophagic defenses require the cytosolic DNA sensor STING and the selective autophagy receptor p62/SQSTM1.
+Contrary to its known role in autophagy-mediated cell death and cancer, this DRAM1 function is p53 independent.
+We propose that DRAM1 mediates autophagic defense against a broader range of intracellular pathogens, since DRAM1 expression was also induced by the common bacterial endotoxin lipopolysaccharide.'] 
+
+25311841 Coronavirus membrane-associated papain-like proteases induce autophagy through interacting with Beclin1 to negatively regulate antiviral innate immunity.
+["Autophagy plays important roles in modulating viral replication and antiviral immune response.
+Coronavirus infection is associated with the autophagic process, however, little is known about the mechanisms of autophagy induction and its contribution to coronavirus regulation of host innate responses.
+Here, we show that the membrane-associated papain-like protease PLP2 (PLP2-TM) of coronaviruses acts as a novel autophagy-inducing protein.
+Intriguingly, PLP2-TM induces incomplete autophagy process by increasing the accumulation of autophagosomes but blocking the fusion of autophagosomes with lysosomes.
+Furthermore, PLP2-TM interacts with the key autophagy regulators, LC3 and Beclin1, and promotes Beclin1 interaction with STING, the key regulator for antiviral IFN signaling.
+Finally, knockdown of Beclin1 partially reverses PLP2-TM's inhibitory effect on innate immunity which resulting in decreased coronavirus replication.
+These results suggested that coronavirus papain-like protease induces incomplete autophagy by interacting with Beclin1, which in turn modulates coronavirus replication and antiviral innate immunity."] 
+
+22901810 Extracellular M. tuberculosis DNA targets bacteria for autophagy by activating the host DNA-sensing pathway.
+['Eukaryotic cells sterilize the cytosol by using autophagy to route invading bacterial pathogens to the lysosome.
+During macrophage infection with Mycobacterium tuberculosis, a vacuolar pathogen, exogenous induction of autophagy can limit replication, but the mechanism of autophagy targeting and its role in natural infection remain unclear.
+Here we show that phagosomal permeabilization mediated by the bacterial ESX-1 secretion system allows cytosolic components of the ubiquitin-mediated autophagy pathway access to phagosomal M. tuberculosis.
+Recognition of extracelluar bacterial DNA by the STING-dependent cytosolic pathway is required for marking bacteria with ubiquitin, and delivery of bacilli to autophagosomes requires the ubiquitin-autophagy receptors p62 and NDP52 and the DNA-responsive kinase TBK1.
+Remarkably, mice with monocytes incapable of delivering bacilli to the autophagy pathway are extremely susceptible to infection.
+Our results reveal an unexpected link between DNA sensing, innate immunity, and autophagy and indicate a major role for this autophagy pathway in resistance to M. tuberculosis infection.'] 
+
+27637147 Sumoylation Promotes the Stability of the DNA Sensor cGAS and the Adaptor STING to Regulate the Kinetics of Response to DNA Virus.
+['During viral infection, sensing of cytosolic DNA by the cyclic GMP-AMP synthase (cGAS) activates the adaptor protein STING and triggers an antiviral response.
+Little is known about the mechanisms that determine the kinetics of activation and deactivation of the cGAS-STING pathway, ensuring effective but controlled innate antiviral responses.
+Here we found that the ubiquitin ligase Trim38 targets cGas for sumoylation in uninfected cells and during the early phase of viral infection.
+Sumoylation of cGas prevented its polyubiquitination and degradation.
+Trim38 also sumoylated Sting during the early phase of viral infection, promoting both Sting activation and protein stability.
+In the late phase of infection, cGas and Sting were desumoylated by Senp2 and subsequently degraded via proteasomal and chaperone-mediated autophagy pathways, respectively.
+Our findings reveal an essential role for Trim38 in the innate immune response to DNA virus and provide insight into the mechanisms that ensure optimal activation and deactivation of the cGAS-STING pathway.'] 
+
+24879161 Autophagy side of MB21D1/cGAS DNA sensor.
+['The MB21D1/cGAS (Mab-21 domain-containing 1/cyclic GMP-AMP [cGAMP] synthetase), acts as an intracellular pattern recognition receptor (PPR) to sense cytosolic pathogen DNAs and subsequently generates the second messenger cGAMP to initiate the TMEM173/STING pathway for interferon (IFN) production.
+Intriguingly, we have recently demonstrated crosstalk between the intracellular DNA sensing pathway and autophagy machinery by demonstrating a direct interaction between the MB21D1 DNA sensor and the BECN1/Beclin 1 autophagy protein.
+This interaction not only suppresses MB21D1 enzymatic activity to halt cGAMP production, but also enhances the autophagy-mediated degradation of cytosolic microbial DNAs.
+This demonstrates that MB21D1 is the molecular link between the intracellular DNA sensing pathway and the autophagy pathway, ultimately developing well-balanced immune responses against pathogens.'] 
+
+24528868 Crosstalk between the cGAS DNA sensor and Beclin-1 autophagy protein shapes innate antimicrobial immune responses.
+['Robust immune responses are essential for eliminating pathogens but must be metered to avoid prolonged immune activation and potential host damage.
+Upon recognition of microbial DNA, the cytosolic DNA sensor cyclic GMP-AMP (cGAMP) synthetase (cGAS) produces the second messenger cGAMP to initiate the stimulator of interferon genes (STING) pathway and subsequent interferon (IFN) production.
+We report that the direct interaction between cGAS and the Beclin-1 autophagy protein not only suppresses cGAMP synthesis to halt IFN production upon double-stranded DNA (dsDNA) stimulation or herpes simplex virus-1 infection, but also enhances autophagy-mediated degradation of cytosolic pathogen DNA to prevent excessive cGAS activation and persistent immune stimulation.
+Specifically, this interaction releases Rubicon, a negative autophagy regulator, from the Beclin-1 complex, activating phosphatidylinositol 3-kinase class III activity and thereby inducing autophagy to remove cytosolic pathogen DNA.
+Thus, the cGAS-Beclin-1 interaction shapes innate immune responses by regulating both cGAMP production and autophagy, resulting in well-balanced antimicrobial immune responses.'] 
+
+27409673 AIM2 inhibits autophagy and IFN-β production during M. bovis infection.
+[StringElement('Mycobacteria can trigger the AIM2 inflammasome, autophagy activation and type-I interferon release, which are both activated by cytosolic DNA. We have recently demonstrated that activation of the AIM2 inflammasome during M. bovis infection is the result of mycobacterial translocation into the cytosol.
+To elucidate the effects of inflammasome activation on autophagy, we investigated the role of the AIM2 inflammasome from macrophages infected with a virulent strain of M. bovis.
+The results showed that the M. bovis-induced AIM2 inflammasome activation decreases autophagy in immortalized and primary murine macrophages.
+This relied on the inflammasome sensor AIM2 which conjugates with cytosolic DNA to inhibit the STING-dependent pathway involved in selective autophagy and interferon-β release in Mycobacterium-infected macrophages.
+These results suggest that the AIM2 cytosolic DNA sensor may conjugate competitively with cytosolic M. bovis DNA to restrict M. bovis induced STING-TBK1-dependent autophagy activation and IFN-β secretion.', attributes={'NlmCategory': 'UNASSIGNED'})] 
+
+24119841 Cyclic dinucleotides trigger ULK1 (ATG1) phosphorylation of STING to prevent sustained innate immune signaling.
+['Activation of the stimulator of interferon genes (STING) pathway by microbial or self-DNA, as well as cyclic dinucleotides (CDNs), results in the induction of numerous genes that suppress pathogen replication and facilitate adaptive immunity.
+However, sustained gene transcription is rigidly prevented to avoid lethal STING-dependent proinflammatory disease by mechanisms that remain unknown.
+We demonstrate here that, after autophagy-dependent STING delivery of TANK-binding kinase 1 (TBK1) to endosomal/lysosomal compartments and activation of transcription factors interferon regulatory factor 3 (IRF3) and NF-κB, STING is subsequently phosphorylated by serine/threonine UNC-51-like kinase (ULK1/ATG1), and IRF3 function is suppressed.
+ULK1 activation occurred following disassociation from its repressor AMP activated protein kinase (AMPK) and was elicited by CDNs generated by the cGAMP synthase, cGAS.
+Thus, although CDNs may initially facilitate STING function, they subsequently trigger negative-feedback control of STING activity, thus preventing the persistent transcription of innate immune genes.'] 
+
+25284779 Dnase2a deficiency uncovers lysosomal clearance of damaged nuclear DNA via autophagy.
+['Deficiencies in DNA-degrading nucleases lead to accumulation of self DNA and induction of autoimmunity in mice and in monogenic and polygenic human diseases.
+However, the sources of DNA and the mechanisms that trigger immunity remain unclear.
+We analyzed mice deficient for the lysosomal nuclease Dnase2a and observed elevated levels of undegraded DNA in both phagocytic and nonphagocytic cells.
+In nonphagocytic cells, the excess DNA originated from damaged DNA in the nucleus based on colocalization studies, live-cell imaging, and exacerbation by DNA-damaging agents.
+Removal of damaged DNA by Dnase2a required nuclear export and autophagy-mediated delivery of the DNA to lysosomes.
+Finally, DNA was found to accumulate in Dnase2a(-/-) or autophagy-deficient cells and induce inflammation via the Sting cytosolic DNA-sensing pathway.
+Our results reveal a cell-autonomous process for removal of damaged nuclear DNA with implications for conditions with elevated DNA damage, such as inflammation, cancer, and chemotherapy.'] 
+
+26939583 Mitochondrial DNA sensing by STING signaling participates in inflammation, cancer and beyond.
+['Recent studies have revealed the diverse pathophysiological functions of mitochondria beyond traditional energetic metabolism in cells.
+Mitochondria-released damage-associated molecular patterns, particularly mitochondrial deoxyribonucleic acid (mtDNA), play a central role in host immune defenses against foreign pathogens.
+Newly discovered cGAS-STING signaling is responsible for microbial DNA recognition, and potentially participates in mitochondrial DNA sensing.
+Inappropriate inflammatory signaling mediated by mtDNA is implicated in various human diseases, especially infectious/inflammatory disease and cancer.
+In addition, mtDNA horizontal transfer between tumor cells and surrounding somatic cells has been recently observed and been associated with tumorigenesis and cancer progression.
+In this review, we will summarize the molecular signaling of mtDNA recognition (especially STING signaling), and discuss the underlying mechanism by which mtDNA transfer triggers cancer progression in human.
+Besides, we will highlight the central role of mtDNA in host immunity, with particular emphasis on mtDNA-induced NETs (neutrophil extracellular traps) formation, apoptosis and autophagy.'] 
+
+26048136 The Cytosolic Sensor cGAS Detects Mycobacterium tuberculosis DNA to Induce Type I Interferons and Activate Autophagy.
+['Type I interferons (IFNs) are critical mediators of antiviral defense, but their elicitation by bacterial pathogens can be detrimental to hosts.
+Many intracellular bacterial pathogens, including Mycobacterium tuberculosis, induce type I IFNs following phagosomal membrane perturbations.
+Cytosolic M. tuberculosis DNA has been implicated as a trigger for IFN production, but the mechanisms remain obscure.
+We report that the cytosolic DNA sensor, cyclic GMP-AMP synthase (cGAS), is required for activating IFN production via the STING/TBK1/IRF3 pathway during M. tuberculosis and L. pneumophila infection of macrophages, whereas L. monocytogenes short-circuits this pathway by producing the STING agonist, c-di-AMP. Upon sensing cytosolic DNA, cGAS also activates cell-intrinsic antibacterial defenses, promoting autophagic targeting of M. tuberculosis.
+Importantly, we show that cGAS binds M. tuberculosis DNA during infection, providing direct evidence that this unique host-pathogen interaction occurs in vivo.
+These data uncover a mechanism by which IFN is likely elicited during active human infections.'] 
+
+27190175
+STING-Dependent 2'-5' Oligoadenylate Synthetase-Like Production Is Required for Intracellular Mycobacterium leprae Survival.
+["Cytosolic detection of nucleic acids elicits a type I interferon (IFN) response and plays a critical role in host defense against intracellular pathogens.
+Herein, a global gene expression profile of Mycobacterium leprae-infected primary human Schwann cells identified the genes differentially expressed in the type I IFN pathway.
+Among them, the gene encoding 2'-5' oligoadenylate synthetase-like (OASL) underwent the greatest upregulation and was also shown to be upregulated in M. leprae-infected human macrophage cell lineages, primary monocytes, and skin lesion specimens from patients with a disseminated form of leprosy.
+OASL knock down was associated with decreased viability of M. leprae that was concomitant with upregulation of either antimicrobial peptide expression or autophagy levels.
+Downregulation of MCP-1/CCL2 release was also observed during OASL knock down.
+M. leprae-mediated OASL expression was dependent on cytosolic DNA sensing mediated by stimulator of IFN genes signaling.
+The addition of M. leprae DNA enhanced nonpathogenic Mycobacterium bovis bacillus Calmette-Guerin intracellular survival, downregulated antimicrobial peptide expression, and increased MCP-1/CCL2 secretion.
+Thus, our data uncover a promycobacterial role for OASL during M. leprae infection that directs the host immune response toward a niche that permits survival of the pathogen."] 
+
+19141455 Co-localization of constituents of the dengue virus translation and replication machinery with amphisomes.
+['Infections with dengue virus (DENV) are a significant public health concern in tropical and subtropical regions.
+However, little detail is known about how DENV interacts with the host-cell machinery to facilitate its translation and replication.
+In DENV-infected HepG2 cells, an increase in the level of LC3-II (microtubule-associated protein 1 light chain 3 form II), the autophagosomal membrane-bound form of LC3, was observed, and LC3 was found to co-localize with dsRNA and DENV NS1 protein, as well as ribosomal protein L28, indicating the presence of at least some of the DENV translation/replication machinery on autophagic vacuoles.
+Inhibition of fusion of autophagic vacuoles with lysosomes resulted in an increase in both intracellular and extracellular virus, and co-localization observed between mannose-6-phosphate receptor (MPR) and dsRNA and between MPR and LC3 identified the autophagic vacuoles as amphisomes.
+Amphisomes are formed as a result of fusion between endosomal and autophagic vacuoles, and as such provide a direct link between virus entry and subsequent replication and translation.'] 
+
+24670807 Age-enhanced endoplasmic reticulum stress contributes to increased Atg9A inhibition of STING-mediated IFN-β production during Streptococcus pneumoniae infection.
+['Pneumococcal infections remain a leading cause of death in persons ≥ 65 y of age.
+Recent reports have illustrated detrimental changes in the endoplasmic reticulum stress response or unfolded protein response in aging and age-related diseases; however, the relationship between aging, the unfolded protein response, and innate immune responses to Streptococcus pneumoniae has not been fully elucidated.
+Our results illustrate that stimulator of IFN genes-mediated production of IFN-β during S. pneumoniae infection is decreased in aged hosts.
+Enhanced endoplasmic reticulum stress in response to S. pneumoniae augmented inositol-requiring protein 1/X-box binding protein 1-mediated production of autophagy-related gene 9 (Atg9a).
+Knockdown of Atg9a or treatment with gemcitabine HCl resulted in enhanced stimulator of IFN genes-mediated production of IFN-β by aged macrophages.
+Consecutive treatments with gemcitabine during in vivo S. pneumoniae infection decreased morbidity and mortality in aged hosts, which was associated with decreased Atg9a expression, increased IFN-β production, and improved bacterial clearance from lung tissue.
+Taken together, data presented in this study provide new evidence as to why older persons are more susceptible to S. pneumoniae, and provide a possible mechanism to enhance these responses, thereby decreasing morbidity and mortality in this population.'] 
+
+20215874 Regulation of dsDNA-induced innate immune responses by membrane trafficking.
+['Microbial nucleic acids are potent inducers of innate immune response--the first line of host defense against microbes.
+It is known that double-stranded (ds) DNA triggers the expression of type I interferons (IFNs) and IFN-inducible genes resulting in the establishment of an antimicrobial environment.
+However, the regulatory mechanisms underlying the signaling pathways responsible for the induction of innate immune responses by dsDNA are still not fully understood.
+Recently, we showed that the translocation and subsequent assembly of the multispanning membrane protein, stimulator of interferon genes (STING), is critical for dsDNA-triggered innate immune responses.
+Following stimulation by dsDNA, STING translocates from the endoplasmic reticulum (ER) to the Golgi apparatus where it associates with TANK-binding kinase 1 (TBK1) on cytoplasmic punctate structures to induce the interferon regulatory factor 3 (IRF3)-dependent transcription of type I IFNs and IFN-inducible genes.
+We have also shown that dsDNA stimulation induces the colocalization of STING with the autophagy-related proteins Atg9a and microtubule-associated protein 1 light chain 3 (LC3).
+The targeted disruption of Atg9a, a multispanning membrane protein essential for autophagy, greatly promotes the dsDNA-driven assembly of STING and TBK1 leading to the aberrant activation of the innate immune response.
+However, the loss of Atg7, another essential component for autophagosome formation, does not affect the dsDNA-stimulated translocation of STING.
+Hence, Atg9a is a regulator of STING-mediated innate immune response as well as an essential autophagy protein.
+These findings indicate that dynamic membrane trafficking is triggered by dsDNA stimulation and plays a pivotal role in the signal transduction required for optimal activation of the innate immune response.'] 
+
+25765984 [Innate immune DNA sensing pathways].
+['How the cells triggers the induction of innate immune genes in response to nucleic acids derived from microbes, such as DNA viruses, intracellular bacteria, and parasites, or self DNA, has not been elucidated fully.
+We have previously shown that an endoplasmic reticulum (ER)-associated multiple transmembrane protein, so-called STING (stimulator of interferon genes), functions as an essential molecules for triggering DNA-mediated gene induction.
+STING may directly associate with stimulatory ligands, which include DNA, as well as with cyclic dinucleotides (CDNs), which are secreted by intracellular bacteria.
+After DNA or CDN stimulation, STING traffics with kinase TBK1 in an autophagic signaling complex, from ER to perinuclear endosomal compartments harboring IRF3 and NF-κB. STING may involve in autoinflammatory disease manifested by aberrant self-DNA. Understanding of STING function may conceivably lead to the development of potent adjuvants for vaccine development or conversely therapeutics that could control inflammation aggravated disease.'] 
+
+20552413 "Where, O death, is thy sting?"
+A brief review of apoptosis biology.
+['Apoptosis was a term introduced in 1972 to distinguish a mode of cell death with characteristic morphology and apparently regulated, endogenously driven mechanisms.
+The effector processes responsible for apoptosis are now mostly well known, involving activation of caspases and Bcl2 family members in response to a wide variety of physiological and injury-induced signals.
+The factors that lead of the decision to activate apoptosis as opposed to adaptive responses to such signals (e.g. autophagy, cycle arrest, protein synthesis shutoff) are less well understood, but the intranuclear Promyelocytic Leukaemia Body (PML body) may create a local microenvironment in which the audit of DNA damage may occur, informed by the extent of the damage, the adequacy of its repair and other aspects of cell status.'] 
+
+26048137 Cyclic GMP-AMP Synthase Is an Innate Immune DNA Sensor for Mycobacterium tuberculosis.
+['Activation of the DNA-dependent cytosolic surveillance pathway in response to Mycobacterium tuberculosis infection stimulates ubiquitin-dependent autophagy and inflammatory cytokine production, and plays an important role in host defense against M. tuberculosis.
+However, the identity of the host sensor for M. tuberculosis DNA is unknown.
+Here we show that M. tuberculosis activated cyclic guanosine monophosphate-adenosine monophosphate (cGAMP) synthase (cGAS) in macrophages to produce cGAMP, a second messenger that activates the adaptor protein stimulator of interferon genes (STING) to induce type I interferons and other cytokines.
+cGAS localized with M. tuberculosis in mouse and human cells and in human tuberculosis lesions.
+Knockdown or knockout of cGAS in human or mouse macrophages blocked cytokine production and induction of autophagy.
+Mice deficient in cGAS were more susceptible to lethality caused by infection with M. tuberculosis.
+These results demonstrate that cGAS is a vital innate immune sensor of M. tuberculosis infection.'] 
+
+25730264 A bacterial cyclic dinucleotide activates the cytosolic surveillance pathway and mediates innate resistance to tuberculosis.
+['Detection of cyclic-di-adenosine monophosphate (c-di-AMP), a bacterial second messenger, by the host cytoplasmic surveillance pathway (CSP) is known to elicit type I interferon (IFN) responses, which are crucial to antimicrobial defense.
+However, the mechanisms and role of c-di-AMP signaling in Mycobacterium tuberculosis virulence remain unclear.
+Here we show that resistance to tuberculosis requires CSP-mediated detection of c-di-AMP produced by M. tuberculosis and that levels of c-di-AMP modulate the fate of infection.
+We found that a di-adenylate cyclase (disA or dacA)-overexpressing M. tuberculosis strain that secretes excess c-di-AMP activates the interferon regulatory factor (IRF) pathway with enhanced levels of IFN-β, elicits increased macrophage autophagy, and exhibits substantial virulence attenuation in mice.
+We show that c-di-AMP-mediated IFN-β induction during M. tuberculosis infection requires stimulator of interferon genes (STING)-signaling.
+We observed that c-di-AMP induction of IFN-β is independent of the cytosolic nucleic acid receptor cyclic GMP-AMP (cGAMP) synthase (cGAS), but cGAS nevertheless contributes substantially to the overall IFN-β response to M. tuberculosis infection.
+In sum, our results reveal c-di-AMP to be a key mycobacterial pathogen-associated molecular pattern (PAMP) driving host type I IFN responses and autophagy.
+These findings suggest that modulating the levels of this small molecule may lead to novel immunotherapeutic strategies against tuberculosis.'] 
+
+25625930 Mechanisms and pathways of innate immune activation and regulation in health and cancer.
+['Research on innate immune signaling and regulation has recently focused on pathogen recognition receptors (PRRs) and their signaling pathways.
+Members of PRRs sense diverse microbial invasions or danger signals, and initiate innate immune signaling pathways, leading to proinflammatory cytokines production, which, in turn, instructs adaptive immune response development.
+Despite the diverse functions employed by innate immune signaling to respond to a variety of different pathogens, the innate immune response must be tightly regulated.
+Otherwise, aberrant, uncontrolled immune responses will lead to harmful, or even fatal, consequences.
+Therefore, it is essential to better discern innate immune signaling and many regulators, controlling various signaling pathways, have been identified.
+In this review, we focus on the recent advances in our understanding of the activation and regulation of innate immune signaling in the host response to pathogens and cancer.'] 
+
+24316047 Innate immunity to dengue virus infection and subversion of antiviral responses.
+["Dengue is a major public health issue in tropical and subtropical regions worldwide.
+The four serotypes of dengue virus (DENV1-DENV4) are spread primarily by Aedes aegypti and Aedes albopictus mosquitoes, whose geographic range continues to expand.
+Humans are the only host for epidemic strains of DENV, and the virus has developed sophisticated mechanisms to evade human innate immune responses.
+The host cell's first line of defense begins with an intracellular signaling cascade resulting in production of interferon α/β (IFN-α/β), which promotes intracellular antiviral responses and helps initiates the adaptive response during the course of DENV infection.
+In response, DENV has developed numerous ways to subvert these intracellular antiviral responses and directly inhibit cellular signaling cascades.
+Specifically, DENV manipulates the unfolded protein response and autophagy to counter cellular stress and delay apoptosis.
+The DENV non-structural protein NS4B and subgenomic flavivirus RNA interfere with the RNA interference pathway by inhibiting the RNase Dicer.
+During heterotypic secondary DENV infection, subneutralizing antibodies can enable viral uptake through Fcγ receptors and down-regulate signaling cascades initiated via the pattern recognition receptors TLR-3 and MDA5/RIG-I, thus reducing the antiviral state of the cell.
+The DENV NS2B/3 protein cleaves human STING/MITA, interfering with induction of IFN-α/β.
+Finally, DENV NS2A, NS4A, and NS4B complex together to block STAT1 phosphorylation, while NS5 binds and promotes degradation of human STAT2, thus preventing formation of the STAT1/STAT2 heterodimer and its transcriptional induction of interferon stimulating genes.
+Here, we discuss the host innate immune response to DENV and the mechanisms of immune evasion that DENV has developed to manipulate cellular antiviral responses."] 
+
